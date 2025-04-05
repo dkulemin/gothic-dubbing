@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Config CompactMode="1">
+	<CommandBars>
+		<Layout>
+			<DockState Version="17" ScreenSize="1366, 768" Count="2">
+				<BarInfo0 BarId="1" MRUWidth="32767" MRUDockPos="0, -3, 1920, 22"/>
+				<BarInfo1 BarId="128" MRUWidth="32767" PointPos="0, 25"/>
+			</DockState>
+			<DockBars>
+				<DockBar0 Count="5" Id1="1" Id3="128"/>
+			</DockBars>
+		</Layout>
+	</CommandBars>
+	<DockingPane>
+		<Summary Panes="11" TopContainer="1" Client="7"/>
+		<Pane-1 Type="2" DockingCX="1920" Horiz="1" Panes="2" Pane-1="2" Pane-2="5"/>
+		<Pane-2 Type="1" DockingCX="374" DockingCY="140" Panes="2" Selected="4" Pane-1="3" Pane-2="4"/>
+		<Pane-3 Type="0" DockingCX="230" DockingCY="140" Title="Данные\nДанные" ID="201" DockingHolder="2" LastHolder="2"/>
+		<Pane-4 Type="0" DockingCX="230" DockingCY="140" Title="Проекты\nПроекты" ID="200" DockingHolder="2" LastHolder="2"/>
+		<Pane-5 Type="2" DockingCX="988" Panes="2" Pane-1="6" Pane-2="8"/>
+		<Pane-6 Type="2" DockingCY="205" Horiz="1" Panes="1" Pane-1="7"/>
+		<Pane-7 Type="4"/>
+		<Pane-8 Type="1" DockingCX="150" DockingCY="424" Panes="0"/>
+		<Pane-9 Type="5" Direction="3" Panes="1" Pane-1="10"/>
+		<Pane-10 Type="1" DockingCX="150" DockingCY="424" Panes="1" Selected="11" Pane-1="11"/>
+		<Pane-11 Type="0" DockingCX="150" DockingCY="120" Title="Сообщения\nСообщения" ID="202" DockingHolder="8" LastHolder="8"/>
+	</DockingPane>
+</Config>

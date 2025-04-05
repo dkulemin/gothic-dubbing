@@ -1,0 +1,17 @@
+void B_PlayerFindItem(int#,int);
+int B_SetPlayerMap(int#);
+int# B_GetPlayerMap(void);
+int# PLAYER_HOTKEY_SCREEN_MAP(void);
+void B_RemoveNpc(int#);
+int B_GiveInvItems(instance,instance,int#,int);
+void B_UseItem(instance,int#);
+int# B_GetBestPlayerMap(void);
+int# B_GetAnyPlayerMap(void);
+void B_SetNpcVisual(instance,int,string,int,int,int#);
+void B_KillNpc(int#);
+int C_NpcHasAmmo(instance,int#);
+void B_ExchangeRoutine(int#,string);
+void B_SetPermAttitude(int#,int);
+void B_ClearImmortal(int#);
+void B_SetNpcType(int#,int);
+void B_ChangeGuild(int#,int);

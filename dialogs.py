@@ -8,28 +8,58 @@ LEFTBRACKET = '['
 
 GM_NPC_PATH = Path('Goldenmod/_decompiled/PrjGOTHIC/Story/NPC')
 GM_DIALOGS_PATH = Path('Goldenmod/_decompiled/PrjGOTHIC/Story/MISSIONS')
+SNOWBALL_DIALOGS_PATH = Path(
+    'gothic-1-classic-scripts-more-updated/unified/Unified-RU-Russobit-M/_work/Data/Scripts/Content/Story/MISSIONS'
+)
 NPC_PATH = Path('Goldenmod/npcs.json')
 
 
 def get_dialogs(npc_id):
-    hero_replics = list()
-    npc_replics = list()
-    dia_path = GM_DIALOGS_PATH / ('DIA_' + npc_id + '.d')
-    if dia_path in GM_DIALOGS_PATH.glob('*'):
-        for line in re.findall(r'AI_Output.*', dia_path.read_text()):
+    gm_hero_replics = list()
+    gm_npc_replics = list()
+    orig_hero_replics = list()
+    orig_npc_replics = list()
+    dia_path = None
+    orig_dia_path = None
+    for dia_path in GM_DIALOGS_PATH.rglob('DIA_' + npc_id + '.d'):
+        break
+    for orig_dia_path in SNOWBALL_DIALOGS_PATH.rglob('DIA_' + npc_id + '.d'):
+        break
+    
+    # dia_path = GM_DIALOGS_PATH.rglob('DIA_' + npc_id + '.d')
+    # orig_dia_path = SNOWBALL_DIALOGS_PATH.rglob('DIA_' + npc_id + '.d')
+
+    # if dia_path in GM_DIALOGS_PATH.glob('*'):
+    
+    if orig_dia_path:
+        original_script = orig_dia_path.read_text()
+        
+        for line in re.findall(r'AI_Output.*', original_script):
             dia_name = re.findall(r'\"(\w+)', line)[0]
             replica = re.findall(r'//(.*)', line)[0]
             if dia_name.split('_')[-2] == "15":
-                hero_replics.append((dia_name, replica))
+                orig_hero_replics.append((dia_name, replica))
             else:
-                npc_replics.append((dia_name, replica))
-    return hero_replics, npc_replics
+                orig_npc_replics.append((dia_name, replica))
+    
+    if dia_path:
+        gm_script = dia_path.read_text()
+                
+        for line in re.findall(r'AI_Output.*', gm_script):
+            dia_name = re.findall(r'\"(\w+)', line)[0]
+            replica = re.findall(r'//(.*)', line)[0]
+            if dia_name.split('_')[-2] == "15" and dia_name.lower() not in [rep[0].lower() for rep in orig_hero_replics]:
+                gm_hero_replics.append((dia_name, replica))
+            elif dia_name.split('_')[-2] != "15" and dia_name.lower() not in [rep[0].lower() for rep in orig_npc_replics]:
+                gm_npc_replics.append((dia_name, replica))
+    return orig_hero_replics, orig_npc_replics, gm_hero_replics, gm_npc_replics
 
 
 def parse_npcs():
     npcs = dict()
     npcs.update({"PC_Hero": {
-        "dialogs": {},
+        "gm_dialogs": {},
+        "orig_dialogs": {},
         "name": "Я",
         "voice": "15"
     }})
@@ -39,15 +69,27 @@ def parse_npcs():
         npc_name = text.split('\n')[3].split('=')[-1].strip(';').strip('"').strip()[1:]
         npc_voice_id = text.split('\n')[7].split('=')[-1].strip(';').strip().zfill(2)
         
-        npcs.setdefault(npc_id, dict(name='', voice='', dialogs=dict()))
+        npcs.setdefault(
+            npc_id,
+            dict(
+                name='',
+                voice='',
+                orig_dialogs=dict(),
+                gm_dialogs=dict()
+            )
+        )
         npcs[npc_id]['name'] = npc_name
         npcs[npc_id]['voice'] = npc_voice_id
         
-        h, n = get_dialogs(npc_id)
-        for dia_name, dia_text in n:
-            npcs[npc_id]['dialogs'][dia_name] = dia_text
-        for dia_name, dia_text in h:
-            npcs["PC_Hero"]['dialogs'][dia_name] = dia_text
+        o_hero, o_npc, g_hero, g_npc = get_dialogs(npc_id)
+        for dia_name, dia_text in o_npc:
+            npcs[npc_id]['orig_dialogs'][dia_name] = dia_text
+        for dia_name, dia_text in o_hero:
+            npcs["PC_Hero"]['orig_dialogs'][dia_name] = dia_text
+        for dia_name, dia_text in g_npc:
+            npcs[npc_id]['gm_dialogs'][dia_name] = dia_text
+        for dia_name, dia_text in g_hero:
+            npcs["PC_Hero"]['gm_dialogs'][dia_name] = dia_text
     with open(NPC_PATH, 'w') as npc_out:
         json.dump(npcs, npc_out, ensure_ascii=False, indent=4, sort_keys=True)
 
@@ -56,3 +98,8 @@ if __name__ == "__main__":
     print(GM_NPC_PATH)
     parse_npcs()
     #print(get_dialogs('STT_336_Cavalorn'))
+    # print(SNOWBALL_DIALOGS_PATH)
+    # for t in SNOWBALL_DIALOGS_PATH.rglob('DIA_' + 'stt_336_Cavalorn' + '.d'):
+    #     print(t)
+    #     break
+    

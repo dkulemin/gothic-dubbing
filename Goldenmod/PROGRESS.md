@@ -788,15 +788,15 @@
 |DIA_Jeremiah_SPIRIT_OK_15_00|Шеньян согласился заменить тебя.||||
 |DIA_Jesse_Hallo_15_00|Как дела?||||
 |DIA_Kyle_About_Problem_15_00|А ты не пробовал построить другой дом?|[link](https://drive.google.com/file/d/1L5DbgbKPqjPzUk6ByDiYoHZ6kGN8dor-/view?usp=sharing)|Silero||
-|DIA_Kyle_After_No_Problem_15_00|Как тебе новый дом?||||
-|DIA_Kyle_Help_With_Problem_15_00|А ты не думал переселиться в другое место?||||
-|DIA_Kyle_Help_With_Problem_1_15_01|Около арены есть свободный дом.||||
-|DIA_Kyle_Help_With_Problem_2_15_01|Около восточных ворот есть разрушенная башня, ты можешь жить там.||||
-|DIA_Kyle_Help_With_Problem_3_15_01|Дасти переехал в лагерь сектантов. Теперь его дом пустует.||||
-|DIA_Kyle_Help_With_Problem_4_15_01|Мне кажется, что можно найти дурачка, который поменяется с тобой жильем.||||
-|DIA_Kyle_Help_With_Problem_5_15_01|Хм... думаю ни чем не могу тебе помочь.||||
-|DIA_Kyle_No_Problem_15_00|(смеется) Мад согласился обменяться домами.||||
-|DIA_Kyle_No_Problem_15_01|Да, иди в дом Мада. А он поселится в твоем доме.||||
+|DIA_Kyle_After_No_Problem_15_00|Как тебе новый дом?|[link](https://drive.google.com/file/d/1L628SDLnjjbC8DCk_dnhh5JF3HMl9EKz/view?usp=sharing)|Silero||
+|DIA_Kyle_Help_With_Problem_15_00|А ты не думал переселиться в другое место?|[link](https://drive.google.com/file/d/1L8HO4m_GkSRV_UNO5gzDf5ThS_0f0AYe/view?usp=sharing)|Silero||
+|DIA_Kyle_Help_With_Problem_1_15_01|Около арены есть свободный дом.|[link](https://drive.google.com/file/d/1L96NPHv40l891TcS_50wlvoFr8E_YnYP/view?usp=sharing)|Silero||
+|DIA_Kyle_Help_With_Problem_2_15_01|Около восточных ворот есть разрушенная башня, ты можешь жить там.|[link](https://drive.google.com/file/d/1LoOO0CgK2FLN1d5I3rM2a8-Lg5whuqG1/view?usp=sharing)|Silero||
+|DIA_Kyle_Help_With_Problem_3_15_01|Дасти переехал в лагерь сектантов. Теперь его дом пустует.|[link](https://drive.google.com/file/d/1LoytLTXHgMSO9FkE7DQNmPcodmw9Y8nW/view?usp=sharing)|Silero||
+|DIA_Kyle_Help_With_Problem_4_15_01|Мне кажется, что можно найти дурачка, который поменяется с тобой жильем.|[link](https://drive.google.com/file/d/1LtIFg6pUS599qAS2wycRYeXXURox0N5q/view?usp=sharing)|Silero||
+|DIA_Kyle_Help_With_Problem_5_15_01|Хм... думаю ни чем не могу тебе помочь.|[link](https://drive.google.com/file/d/1LtRSiBfYntmur4oqXnTB5EB4FvSS-xky/view?usp=sharing)|Silero||
+|DIA_Kyle_No_Problem_15_00|(смеется) Мад согласился обменяться домами.|[link](https://drive.google.com/file/d/1M-9aktClG-o3QmEpc5W87zvh9kFnaNiQ/view?usp=sharing)|Silero|Проблема с озвучкой смеха|
+|DIA_Kyle_No_Problem_15_01|Да, иди в дом Мада. А он поселится в твоем доме.|[link](https://drive.google.com/file/d/1M2gVJ6BvwHiT8D4H2bhnMzcnvk3s9Pxj/view?usp=sharing)|Silero||
 |DIA_Lee_Gorn_Help_15_00|Мы выбили стражников из шахты. Теперь Горну нужно подкрепление.||||
 |DIA_Lee_Gorn_Prohod_15_00|Мы с Горном нашли проход в горах у Свободной шахты. Он находится слева от выхода из небольшой пещеры.||||
 |DIA_Lee_Gorn_Prohod_15_01|Горн уверен, что стражники пришли оттуда.||||
@@ -1282,21 +1282,21 @@
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
-|DIA_Kyle_About_Problem_10_01|Ты что, шутишь? В лагере осталось не так много места.||||
-|DIA_Kyle_About_Problem_10_02|И мне придется заплатить Гомезу, если я построю себе второй дом.||||
-|DIA_Kyle_About_Problem_10_03|Тогда я лучше останусь здесь.||||
-|DIA_Kyle_After_No_Problem_10_00|Этот дом просто прекрасен... Однако я скучаю по своей старой развалине.||||
-|DIA_Kyle_After_No_Problem_10_01|Отличный дом! Нужно только навести здесь порядок.||||
-|DIA_Kyle_Help_With_Problem_10_01|Да. Но я сомневаюсь, что кто-то решит поменяться со мной жильем...||||
-|DIA_Kyle_Help_With_Problem_1_05_02|Я знаю это место. Но однажды я поссорился со Скатти и не думаю, что там мне будут рады...||||
-|DIA_Kyle_Help_With_Problem_2_05_02|Прекрасный вариант. Полуразрушенное жилище около мусорной свалки. Уж лучше мне остаться тут.||||
-|DIA_Kyle_Help_With_Problem_3_05_02|Это хорошая идея. Думаю, я смогу переселиться туда.||||
-|DIA_Kyle_Help_With_Problem_4_05_02|Отличная идея! Дураков тут достаточно.||||
-|DIA_Kyle_Help_With_Problem_4_05_03|Я даже могу предложить тебе одну кандидатуру. Это Мад.||||
-|DIA_Kyle_Help_With_Problem_4_05_04|Думаю, уговорить его просто.||||
-|DIA_Kyle_No_Problem_10_01|Парень, ты нашел мне жилье?||||
-|DIA_Kyle_No_Problem_10_02|Не могу поверить! Спасибо тебе!||||
-|DIA_Kyle_No_Problem_10_03|Вот возьми еще этот лук, я нашел на нижнем ярусе Старой шахты. Вероятно его бывшего хозяина съели ползуны.||||
+|DIA_Kyle_About_Problem_10_01|Ты что, шутишь? В лагере осталось не так много места.|[link](https://drive.google.com/file/d/1LfMpehy17eKUVlBXN2eE6jIsF0kQskrx/view?usp=sharing)|Silero||
+|DIA_Kyle_About_Problem_10_02|И мне придется заплатить Гомезу, если я построю себе второй дом.|[link](https://drive.google.com/file/d/1LhKABlSC1ahTUwmq8HeESoMVhQ1A-3rz/view?usp=sharing)|Silero||
+|DIA_Kyle_About_Problem_10_03|Тогда я лучше останусь здесь.|[link](https://drive.google.com/file/d/1LiOFhvXcqSfx7dowUAZCtsOqDrnkt1DC/view?usp=sharing)|Silero||
+|DIA_Kyle_After_No_Problem_10_00|Этот дом просто прекрасен... Однако я скучаю по своей старой развалине.|[link](https://drive.google.com/file/d/1LiQA_izakgcKDj20BXm83phxWPY3qqB6/view?usp=sharing)|Silero||
+|DIA_Kyle_After_No_Problem_10_01|Отличный дом! Нужно только навести здесь порядок.|[link](https://drive.google.com/file/d/1LjM0f3_W1hqpDKbdRcRDp_VCQRFYZGoh/view?usp=sharing)|Silero||
+|DIA_Kyle_Help_With_Problem_10_01|Да. Но я сомневаюсь, что кто-то решит поменяться со мной жильем...|[link](https://drive.google.com/file/d/1Lu1mX461S147W8MDj8_oWPNcCGSp-iyH/view?usp=sharing)|Silero||
+|DIA_Kyle_Help_With_Problem_1_05_02|Я знаю это место. Но однажды я поссорился со Скатти и не думаю, что там мне будут рады...|[link](https://drive.google.com/file/d/1Lkvza9460ph_W5Zxzu3nXwREaxwR1Tp7/view?usp=sharing)|Silero||
+|DIA_Kyle_Help_With_Problem_2_05_02|Прекрасный вариант. Полуразрушенное жилище около мусорной свалки. Уж лучше мне остаться тут.|[link](https://drive.google.com/file/d/1LnV5d5PmQKY8QCs-2nsXwjunThXUaKrA/view?usp=sharing)|Silero||
+|DIA_Kyle_Help_With_Problem_3_05_02|Это хорошая идея. Думаю, я смогу переселиться туда.|[link](https://drive.google.com/file/d/1LolbwdZKja-H5_Mhd81QLUmvu8DS4WaZ/view?usp=sharing)|Silero||
+|DIA_Kyle_Help_With_Problem_4_05_02|Отличная идея! Дураков тут достаточно.|[link](https://drive.google.com/file/d/1Lq42LEebf-ycGA2-ioDpD7rWp30ayMAy/view?usp=sharing)|Silero||
+|DIA_Kyle_Help_With_Problem_4_05_03|Я даже могу предложить тебе одну кандидатуру. Это Мад.|[link](https://drive.google.com/file/d/1Lqx5iJbfpK6iNrPQTRBZ-IkxRgi1tXpv/view?usp=sharing)|Silero||
+|DIA_Kyle_Help_With_Problem_4_05_04|Думаю, уговорить его просто.|[link](https://drive.google.com/file/d/1LsAD3oG1Ovg6Hg7-I5NTVDfK98yqGU_7/view?usp=sharing)|Silero||
+|DIA_Kyle_No_Problem_10_01|Парень, ты нашел мне жилье?|[link](https://drive.google.com/file/d/1LvK40HKJ7NvoHG0stQegYupfXLmbTtpE/view?usp=sharing)|Silero||
+|DIA_Kyle_No_Problem_10_02|Не могу поверить! Спасибо тебе!|[link](https://drive.google.com/file/d/1LvLn3eskH7946R3llwlpoPlj9M1xzlPN/view?usp=sharing)|Silero||
+|DIA_Kyle_No_Problem_10_03|Вот возьми еще этот лук, я нашел на нижнем ярусе Старой шахты. Вероятно его бывшего хозяина съели ползуны.|[link](https://drive.google.com/file/d/1LwrXlkwReH94q933i1WDwg1Yh_YCgPM3/view?usp=sharing)|Silero||
 
 
 ## Хуно (VLK_538_Huno)

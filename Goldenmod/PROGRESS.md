@@ -800,12 +800,12 @@
 |DIA_Lee_Gorn_Help_15_00|Мы выбили стражников из шахты. Теперь Горну нужно подкрепление.||||
 |DIA_Lee_Gorn_Prohod_15_00|Мы с Горном нашли проход в горах у Свободной шахты. Он находится слева от выхода из небольшой пещеры.||||
 |DIA_Lee_Gorn_Prohod_15_01|Горн уверен, что стражники пришли оттуда.||||
-|DIA_Mud_FirstEXIT_15_00|Я тут кое-что узнал о твоем доме.||||
-|DIA_Mud_House_15_00|Сегодня я прочитал древние письмена, в которых говорится о страшном проклятьи, которое наложено на этот дом...||||
-|DIA_Mud_House_15_01|Честное слово!||||
-|DIA_Mud_House_15_02|Тебе повезло, я могу помочь тебе поменятся с одним рудокопом домами.||||
-|DIA_Mud_House_15_03|Дом находится у котлована справа от ворот, в нем 2 входа.||||
-|DIA_Mud_New_House_15_00|Нравится ли тебе новый дом?||||
+|DIA_Mud_FirstEXIT_15_00|Я тут кое-что узнал о твоем доме.|[link](https://drive.google.com/file/d/1MLcvmfrbVszBI4ZcTX7r19pwcVrJDJPZ/view?usp=sharing)|Silero||
+|DIA_Mud_House_15_00|Сегодня я прочитал древние письмена, в которых говорится о страшном проклятьи, которое наложено на этот дом...|[link](https://drive.google.com/file/d/1MOc5i59UH0QK94ERaxd9NatSU1IrnuZ0/view?usp=sharing)|Silero||
+|DIA_Mud_House_15_01|Честное слово!|[link](https://drive.google.com/file/d/1MOeFBpPg-93MWiyEdfS7UOOYMUbFIXpv/view?usp=sharing)|Silero||
+|DIA_Mud_House_15_02|Тебе повезло, я могу помочь тебе поменятся с одним рудокопом домами.|[link](https://drive.google.com/file/d/1MOovlYyvpSULna4F5rtN9Sqs9Rt5nHX8/view?usp=sharing)|||
+|DIA_Mud_House_15_03|Дом находится у котлована справа от ворот, в нем 2 входа.|[link](https://drive.google.com/file/d/1MOpUr1R6lo8WA0gKh4HOGwCqEPlXtPE3/view?usp=sharing)|Silero||
+|DIA_Mud_New_House_15_00|Нравится ли тебе новый дом?|[link](https://drive.google.com/file/d/1MQu2Qaxcbx3ujyqLa7KVcdcagHz_Rqai/view?usp=sharing)|Silero||
 |DIA_Orry_GuardGate_No_15_00|Нет.||||
 |DIA_Ricelord_Horatio_15_00|Держись со своей шайкой подальше от крестьян. Если хоть один из них еще раз пожалуется на тебя, я вернусь!||||
 |DIA_Scatty_GorHanisSuccess_15_00|Я дрался с Гор Ханисом!||||
@@ -1334,13 +1334,13 @@
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
-|DIA_Mud_FirstEXIT_07_02|Да? И что ты узнал?||||
-|DIA_Mud_House_07_00|(испуганно) Правда?||||
-|DIA_Mud_House_07_01|(бледнея) И что же мне теперь делать?!||||
-|DIA_Mud_House_07_02|Отлично!||||
-|DIA_Mud_House_07_03|Хорошо. Сегодня же я уйду отсюда.||||
-|DIA_Mud_New_House_07_00|Прекрасный дом. Только настоящий глупец мог обменять мой проклятый дом на этот.||||
-|DIA_Mud_New_House_Follow_07_00|Я прогуляюсь с тобой по лагерю, хорошо?||||
+|DIA_Mud_FirstEXIT_07_02|Да? И что ты узнал?|[link](https://drive.google.com/file/d/1MLJUc6yAhaW5KkELE5yMXoAiDUca0BF8/view?usp=sharing)|Silero|Пропало слово `Да`|
+|DIA_Mud_House_07_00|(испуганно) Правда?|[link](https://drive.google.com/file/d/1MLwk0htSY_uStJGGBF6AV9rIbfE-pl_h/view?usp=sharing)|Silero||
+|DIA_Mud_House_07_01|(бледнея) И что же мне теперь делать?!|[link](https://drive.google.com/file/d/1MNJ06Pn3tR31IsrKtapQbU9w1GNpzkVN/view?usp=sharing)|Silero||
+|DIA_Mud_House_07_02|Отлично!|[link](https://drive.google.com/file/d/1MO6Glb6w0dcQx7cj75_xtXfwo5EJsZD9/view?usp=sharing)|Silero||
+|DIA_Mud_House_07_03|Хорошо. Сегодня же я уйду отсюда.|[link](https://drive.google.com/file/d/1MOP2ZP6PyC590U-PA9LFPMa285Q15gf2/view?usp=sharing)|Silero||
+|DIA_Mud_New_House_07_00|Прекрасный дом. Только настоящий глупец мог обменять мой проклятый дом на этот.|[link](https://drive.google.com/file/d/1MPZybI8RNAcmcrwdqiRMbK2DyXfcksWs/view?usp=sharing)|Silero||
+|DIA_Mud_New_House_Follow_07_00|Я прогуляюсь с тобой по лагерю, хорошо?|[link](https://drive.google.com/file/d/1MTwWRkAriHvToCZ-lvNUTS79HuBXIkwK/view?usp=sharing)|Silero||
 
 
 ## Грим (Vlk_580_Grim)

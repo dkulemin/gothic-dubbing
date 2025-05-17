@@ -246,7 +246,7 @@
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
 |DIA_Skip_TRADE_SWORD_12_00|Я даю по 100 кусков руды за одим меч.||||
-|DIA_Skip_TRADE_SWORD_NO|Я зайду позже.||||
+|DIA_Skip_TRADE_SWORD_NO|Я зайду позже.|[link](https://drive.google.com/file/d/1MjL2AclHVYgaRsyiyusqKwOacv_zchOZ/view?usp=sharing)|Silero|Реплика PC_Hero|
 |GRD_211_Skip_Gilbert_Info_12_01|Да, он работал здесь несколько месяцев.||||
 |GRD_211_Skip_Gilbert_Info_12_02|Но его не видели в лагере уже очень давно.||||
 
@@ -385,9 +385,9 @@
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
-|DIA_Darrion_TRADE_SWORD_11_00|Хорошо! Так я смогу быстрее подготовить оружие для наших стражей.||||
-|DIA_Darrion_TRADE_SWORD_11_01|Я дам тебе 80 кусков руды за каждый меч.||||
-|DIA_Darrion_TRADE_SWORD_NO|Я зайду позже.||||
+|DIA_Darrion_TRADE_SWORD_11_00|Хорошо! Так я смогу быстрее подготовить оружие для наших стражей.|[link](https://drive.google.com/file/d/1M_OLdn6D78VzLQVcL1CdYtV7ujyJrOFI/view?usp=sharing)|Silero||
+|DIA_Darrion_TRADE_SWORD_11_01|Я дам тебе 80 кусков руды за каждый меч.|[link](https://drive.google.com/file/d/1M_c088AM39PY4lFYAJFX0722btlbibVw/view?usp=sharing)|Silero||
+|DIA_Darrion_TRADE_SWORD_NO|Я зайду позже.|[link](https://drive.google.com/file/d/1MaLaXYC4zl2vuUd_B6Srg4WeqptYVbhs/view?usp=sharing)|Silero|Реплика PC_Hero|
 
 
 ## Фортуно (NOV_1357_Fortuno)
@@ -667,7 +667,7 @@
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
 |DIA_Cipher_TRADE_Swampherb_15_00|У меня есть болотник.||||
-|DIA_Darrion_TRADE_SWORD_15_00|Я хочу продать выкованные мной мечи.||||
+|DIA_Darrion_TRADE_SWORD_15_00|Я хочу продать выкованные мной мечи.|[link](https://drive.google.com/file/d/1M_c5qWdXN5JiLQoJkEqEFrhxfqFjOKEG/view?usp=sharing)|Silero||
 |DIA_Dexter_Quentin_15_00|Ты можешь что-нибудь сказать о доставке товаров в шахту?||||
 |DIA_Fingers_Gilbert_15_00|Ты можешь что-нибудь сказать про этот ключ?||||
 |DIA_Fingers_Gilbert_15_01|(перебивает) Можно покороче?||||
@@ -709,7 +709,7 @@
 |DIA_Grd_218_FirstIn_15_05|Я не расслышал - ты предложил мне войти?||||
 |DIA_Grim_Quentin_15_00|Что ты можешь сказать о доставке товаров в шахту?||||
 |DIA_Horatio_Lord_15_00|Я сдержал обещание. Лорд и его дружки больше не будут обижать крестьян.||||
-|DIA_Huno_TRADE_SWORD_15_00|Я хочу продать выкованные мной мечи.||||
+|DIA_Huno_TRADE_SWORD_15_00|Я хочу продать выкованные мной мечи.|[link](https://drive.google.com/file/d/1Mi0c_JrqA3_ntJpXfTHcUqKWR1kYlX7M/view?usp=sharing)|Silero||
 |DIA_Jeremiah_SPIRIT_15_00|Ты можешь дать мне спирт?||||
 |DIA_Jeremiah_SPIRIT_15_01|Думаю, хватит 10 мензурок.||||
 |DIA_Jeremiah_SPIRIT_OK_15_00|Шеньян согласился заменить тебя.||||
@@ -753,10 +753,10 @@
 |DIA_Silas_SPIRIT_15_00|Мне нужен спирт.||||
 |DIA_Silas_SPIRIT_Jeremiah_15_00|Кто-нибудь должен заменить Иеремию.||||
 |DIA_Silas_SPIRIT_OK_15_00|Вот руда.||||
-|DIA_Skip_TRADE_SWORD_15_00|Я хочу продать выкованные мной мечи.||||
+|DIA_Skip_TRADE_SWORD_15_00|Я хочу продать выкованные мной мечи.|[link](https://drive.google.com/file/d/1Mmq8aamgSHBJjnq9BhcWKuI7ZkcSzM0i/view?usp=sharing)|Silero||
 |DIA_Stone_Gilbert_15_00|Что ты знаешь о Жильбере?||||
 |DIA_Stone_Gilbert_15_01|Он работал в этой кузнице.||||
-|DIA_Stone_TRADE_SWORD_15_00|Я хочу продать выкованные мной мечи.||||
+|DIA_Stone_TRADE_SWORD_15_00|Я хочу продать выкованные мной мечи.|[link](https://drive.google.com/file/d/1Mn3nhcOFd2tTK8Zup74gwFIJ9PkEUoFD/view?usp=sharing)|Silero||
 |DIA_Tpl_1415_Torwache_First_Join_15_00|Я слышал о том, что вам нужны люди. Я хочу присоединиться к вам.||||
 |DIA_Tpl_1415_Torwache_First_JustLooking_15_00|Я здесь новенький. Я хочу осмотреть Лагерь.||||
 |DIA_Tpl_1415_Torwache_Sit_15_00|Как дела в Лагере?||||
@@ -1223,15 +1223,14 @@
 |DIA_Kyle_No_Problem_10_03|Вот возьми еще этот лук, я нашел на нижнем ярусе Старой шахты. Вероятно его бывшего хозяина съели ползуны.|[link](https://drive.google.com/file/d/1LwrXlkwReH94q933i1WDwg1Yh_YCgPM3/view?usp=sharing)|Silero||
 
 
-
 ## Хуно (VLK_538_Huno)
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
-|DIA_Huno_HowsYourBusiness_09_04|Лучше бы сам что-нибудь сделал!||||
-|DIA_Huno_LEARNSMITH_09_09|И ты можешь продавать мне свои мечи.||||
-|DIA_Huno_TRADE_SWORD_09_00|Я заплачу тебе 70 кусков руды за каждый меч.||||
-|DIA_Huno_TRADE_SWORD_NO|Я зайду позже.||||
+|DIA_Huno_HowsYourBusiness_09_04|Лучше бы сам что-нибудь сделал!|[link](https://drive.google.com/file/d/1Mov8EN9eYN1mPDHK0VmgLjpMYVc0bJvi/view?usp=sharing)|Silero||
+|DIA_Huno_LEARNSMITH_09_09|И ты можешь продавать мне свои мечи.|[link](https://drive.google.com/file/d/1Mrm3HQGS6IPrGLl__sMxPBs4EhhnmR_2/view?usp=sharing)|Silero||
+|DIA_Huno_TRADE_SWORD_09_00|Я заплачу тебе 70 кусков руды за каждый меч.|[link](https://drive.google.com/file/d/1MsGLC5tZhznzKBjNQt1MG7sxieyciL_u/view?usp=sharing)|Silero||
+|DIA_Huno_TRADE_SWORD_NO|Я зайду позже.|[link](https://drive.google.com/file/d/1MinDK_MP0wJxSvacbHr2y-Tyog2Q3D31/view?usp=sharing)|Silero|Реплика PC_Hero|
 
 
 ## Граво (VLK_572_Gravo)

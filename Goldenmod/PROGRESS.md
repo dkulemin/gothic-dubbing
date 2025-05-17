@@ -1259,13 +1259,13 @@
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
-|DIA_Mud_FirstEXIT_07_02|Да? И что ты узнал?||||
-|DIA_Mud_House_07_00|(испуганно) Правда?||||
-|DIA_Mud_House_07_01|(бледнея) И что же мне теперь делать?!||||
-|DIA_Mud_House_07_02|Отлично!||||
-|DIA_Mud_House_07_03|Хорошо. Сегодня же я уйду отсюда.||||
-|DIA_Mud_New_House_07_00|Прекрасный дом. Только настоящий глупец мог обменять мой проклятый дом на этот.||||
-|DIA_Mud_New_House_Follow_07_00|Я прогуляюсь с тобой по лагерю, хорошо?||||
+|DIA_Mud_FirstEXIT_07_02|Да? И что ты узнал?|[link](https://drive.google.com/file/d/1MLJUc6yAhaW5KkELE5yMXoAiDUca0BF8/view?usp=sharing)|Silero|Пропало слово `Да`|
+|DIA_Mud_House_07_00|(испуганно) Правда?|[link](https://drive.google.com/file/d/1MLwk0htSY_uStJGGBF6AV9rIbfE-pl_h/view?usp=sharing)|Silero||
+|DIA_Mud_House_07_01|(бледнея) И что же мне теперь делать?!|[link](https://drive.google.com/file/d/1MNJ06Pn3tR31IsrKtapQbU9w1GNpzkVN/view?usp=sharing)|Silero||
+|DIA_Mud_House_07_02|Отлично!|[link](https://drive.google.com/file/d/1MO6Glb6w0dcQx7cj75_xtXfwo5EJsZD9/view?usp=sharing)|Silero||
+|DIA_Mud_House_07_03|Хорошо. Сегодня же я уйду отсюда.|[link](https://drive.google.com/file/d/1MOP2ZP6PyC590U-PA9LFPMa285Q15gf2/view?usp=sharing)|Silero||
+|DIA_Mud_New_House_07_00|Прекрасный дом. Только настоящий глупец мог обменять мой проклятый дом на этот.|[link](https://drive.google.com/file/d/1MPZybI8RNAcmcrwdqiRMbK2DyXfcksWs/view?usp=sharing)|Silero||
+|DIA_Mud_New_House_Follow_07_00|Я прогуляюсь с тобой по лагерю, хорошо?|[link](https://drive.google.com/file/d/1MTwWRkAriHvToCZ-lvNUTS79HuBXIkwK/view?usp=sharing)|Silero||
 
 
 ## Грим (Vlk_580_Grim)

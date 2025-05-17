@@ -229,6 +229,21 @@
 |Info_BaalNamib_NOV_AWAY_02_02|Прошедшей ночью я заметил двоих послушников, пробирающихся через болото в сторону Старого лагеря.||||
 
 
+## Идол Тион (GUR_1210_BaalTyon)
+
+|Dialog_id|Text|Audio file|Dubbed by|Comment|
+|:---|:---|:---:|:---:|:---|
+|DIA_BaalTyon_NoTalk_Hi_11_01|(вздох)||||
+|DIA_BaalTyon_NoTalk_Imp_11_01|(вздох)||||
+|DIA_BaalTyon_NoTalk_Sleeper_11_01|(вздох)||||
+|DIA_BaalTyon_SpecialJoint_11_01|Ммммммм...||||
+|DIA_BaalTyon_Vision_11_00|Во имя Спящего! Меня посетило видение!||||
+|DIA_BaalTyon_Vision_11_01|Это было невероятно! Я видел, что мы встретили нового брата, который был не похож на всех тех, что были до него.||||
+|DIA_BaalTyon_Vision_11_02|Он что-то делал для нас... В руке у него был меч, и он спускался по широкой лестнице. На этом видение закончилось.||||
+|DIA_BaalTyon_Vision_11_03|Он был очень похож на ТЕБЯ. Кто ты? Что тебе нужно?||||
+|DIA_BaalTyon_Vision_11_05|Иди к Кор Галому. Он позаботится о тебе.||||
+
+
 ## Шакал (Grd_201_Jackal)
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
@@ -420,6 +435,44 @@
 |:---|:---|:---:|:---:|:---|
 |DIA_Gilbert_Thorus_04_01|Ты выдал меня Торусу! Сейчас ты поплатишься за это!||||
 |DIA_Gilbert_Thorus_ABOUT_04_01|(злится) Трепач! Я не скажу тебе об этом.||||
+
+
+## Идол Таран (Nov_1331_BaalTaran)
+
+|Dialog_id|Text|Audio file|Dubbed by|Comment|
+|:---|:---|:---:|:---:|:---|
+|DIA_BaalTaran_Beweis_05_01|Он говорит с нами в видениях. Те, кому хоть раз довелось услышать его голос, больше не сомневаются в силе Спящего.||||
+|DIA_BaalTaran_Beweis_05_02|На болоте растет трава, которая поможет тебе стать ближе к Спящему и услышать его голос. Некоторые из нас даже видят посылаемые им образы.||||
+|DIA_BaalTaran_Bruderschaft_05_01|Так мы называем братство последователей новой веры.||||
+|DIA_BaalTaran_Bruderschaft_05_02|Наш Лагерь находится среди болот на востоке. Я пришел сюда, чтобы нести слово Спящего иноверцам - таким, как ты.||||
+|DIA_BaalTaran_Freiheit_05_01|Все мы готовимся к Великой Церемонии, в ходе которой наши братья объединят свои силы и призовут Спящего.||||
+|DIA_BaalTaran_Freiheit_05_02|И тогда Всемогущий откроет нам путь к свободе!||||
+|DIA_BaalTaran_Greet_05_01|Я Идол Братства Спящего, и зовут меня Тэран.||||
+|DIA_BaalTaran_IntoCastle_05_01|Боюсь, что нет, брат мой. Ворота замка открыты лишь для тех членов Братства, кто доставляет Гомезу болотник.||||
+|DIA_BaalTaran_IntoCastle_05_02|Часть собранной на болотах травы мы продаем Старому Лагерю, и получаем взамен вещи из внешнего мира.||||
+|DIA_BaalTaran_IntoCastle_05_03|Если бы ты был одним из гонцов Кор Галома, до без труда проник бы в замок. Но прежде ты должен стать одним из членов Братства.||||
+|DIA_BaalTaran_IntoCastle_05_04|Но что за дела у тебя в замке?||||
+|DIA_BaalTaran_IntoCastle_Exactly_05_01|Я так и знал! Что еще парень, вроде тебя, может хотеть от магов?!||||
+|DIA_BaalTaran_IntoCastle_Exactly_05_02|Вот тебе хороший совет: забудь о них. За свои магические фокусы они просят слишком много руды.||||
+|DIA_BaalTaran_IntoCastle_Exactly_05_03|В нашем Лагере и руны, и эликсиры стоят куда дешевле.||||
+|DIA_BaalTaran_IntoCastle_ForgetIt_05_01|Хорошо, друг. Я просто хотел помочь...||||
+|DIA_BaalTaran_IntoCastle_Letter_05_01|О? Откуда оно у тебя? Тебе его дали маги, прежде чем забросить сюда, верно?||||
+|DIA_BaalTaran_IntoCastle_Letter_05_02|Не стоит болтать об этом письме. Не волнуйся - я никому не расскажу о нем.||||
+|DIA_BaalTaran_IntoCastle_Letter_05_03|Но ради своего же собственного блага больше никому не говори об этом. За это письмо здешний народ не задумываясь перережет тебе глотку.||||
+|DIA_BaalTaran_IntoCastle_Letter_05_04|Каждому захочется получить награду, положенную гонцу, доставившему письмо из внешнего мира.||||
+|DIA_BaalTaran_IntoCastle_Mage_05_01|О! Знаешь, они никогда не покидают замок. Тебе действительно придется как-то попасть внутрь.||||
+|DIA_BaalTaran_IntoCastle_Mage_05_02|Но что тебе от него нужно? Магические руны? Или эликсир?||||
+|DIA_BaalTaran_IntoCastle_MeetSomeone_05_01|В самом деле? И с кем же? Почему ты просто не подождешь, пока он выйдет из замка?||||
+|DIA_BaalTaran_Lehre_05_01|Мощь Спящего неизмерима. Возможно, он даже сильнее Инноса, бога Света.||||
+|DIA_BaalTaran_Lehre_05_02|Дух его с нами, но сам Спящий еще не набрал полную силу. Тысячу лет он провел во сне, но момент его пробуждения близок.||||
+|DIA_BaalTaran_Lehre_05_03|Мы были избраны нести людям слово его, мы же станем свидителями его пробуждения.||||
+|DIA_BaalTaran_Lehre_05_04|Знай, что те, кто присоединится к Спящему, обретут бессмертную душу, неверных же ждет беспощадная кара.||||
+|DIA_BaalTaran_Lehre_05_05|Но в бесконечной милости своей Спящий посылает доказательство своей силы всем, кого терзают сомнения.||||
+|DIA_BaalTaran_Sleeper_05_01|Спящий - это наш спаситель. Пять лет назад он явил себя нашему наставнику Ю'Бериону.||||
+|DIA_BaalTaran_Sleeper_05_02|С тех мы отреклись от трех богов. И тебе тоже стоит отвергнуть их.||||
+|DIA_BaalTaran_Sleeper_05_03|Из своей небесной обители они лишь наблюдают за тем, как мы томимся в этой темнице. Но Спящий приведет нас к свободе!||||
+|DIA_BaalTaran_WayToST_05_01|Я не могу оторваться от дел, но сейчас в этом Лагере находится Идол Парвез.||||
+|DIA_BaalTaran_WayToST_05_02|Ты найдешь его у рынка, по другую сторону замка. Кажется, у него даже есть там своя хижина.||||
 
 
 ## Варраг-Хашор (ORC_Priest_1)
@@ -666,6 +719,26 @@
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
+|DIA_ARTO_What_15_00|Что ты здесь делаешь?||||
+|DIA_BaalTaran_Beweis_15_00|Какие доказательства своей силы посылает твой бог?||||
+|DIA_BaalTaran_Beweis_15_03|Ясно.||||
+|DIA_BaalTaran_Bruderschaft_15_00|Что такое Братство Спящего?||||
+|DIA_BaalTaran_Freiheit_15_00|Каким же он будет, этот путь к свободе?||||
+|DIA_BaalTaran_Greet_15_00|Я здесь новенький. Кто ты?||||
+|DIA_BaalTaran_IntoCastle_15_00|Я должен попасть в замок. Ты можешь помочь мне?||||
+|DIA_BaalTaran_IntoCastle_Exactly_15_00|Угадал.||||
+|DIA_BaalTaran_IntoCastle_ForgetIt_15_00|Тебя это не касается.||||
+|DIA_BaalTaran_IntoCastle_Letter_15_00|У меня есть письмо для Верховного Мага Круга Огня.||||
+|DIA_BaalTaran_IntoCastle_Mage_15_00|Это один из магов.||||
+|DIA_BaalTaran_IntoCastle_MeetSomeone_15_00|Я должен встретиться там с одним человеком.||||
+|DIA_BaalTaran_Lehre_15_00|Расскажи мне об учении Спящего.||||
+|DIA_BaalTaran_Sleeper_15_00|Кто такой Спящий?||||
+|DIA_BaalTaran_WayToST_15_00|Как добраться до Лагеря Братства?||||
+|DIA_BaalTyon_NoTalk_Hi_15_00|Привет! Я здесь новенький!||||
+|DIA_BaalTyon_NoTalk_Imp_15_00|Все в порядке, приятель?||||
+|DIA_BaalTyon_NoTalk_Sleeper_15_00|Да пребудет с тобой Спящий!||||
+|DIA_BaalTyon_SpecialJoint_15_00|Вот, господин мой! Примите сей скромный дар от вашего верного ученика...||||
+|DIA_BaalTyon_Vision_15_04|Я всего лишь скромный слуга Спящего...||||
 |DIA_Cipher_TRADE_Swampherb_15_00|У меня есть болотник.||||
 |DIA_Darrion_TRADE_SWORD_15_00|Я хочу продать выкованные мной мечи.||||
 |DIA_Dexter_Quentin_15_00|Ты можешь что-нибудь сказать о доставке товаров в шахту?||||
@@ -762,6 +835,7 @@
 |DIA_Tpl_1415_Torwache_Sit_15_00|Как дела в Лагере?||||
 |DIA_Tpl_1416_Torwache_Life_15_00|Как живут Стражи Братства?||||
 |DIA_Vlk_520_Quentin_15_00|Что ты знаешь о поставках товаров из внешнего мира?||||
+|DIA_Whistler_StandardKap1_15_00|Как дела?||||
 |GRD_211_Skip_Gilbert_Info_15_00|Ты знаешь Жильбера?||||
 |GUR_1201_CorKalom_ALCHEMY_15_00|Ты можешь научить меня готовить зелья?||||
 |GUR_1201_CorKalom_Learn_ALCHEMY_15_00|Я хочу изучить алхимию.||||
@@ -787,6 +861,7 @@
 |Info_Cronos_YBERION1_15_01|Ю'Берион, глава Лагеря Сектантов, находится без сознания!||||
 |Info_Diego_ThorusSays_15_00|Я поговорил с Торусом.||||
 |Info_GorHanis_ChargeGood_15_01|Да, я готов.||||
+|Info_Gorn_GUARDNCRUNNING_15_01|Как дела?||||
 |Info_Gorn_PROHOD_FOUND_15_01|Да, они могли пройти через земли орков.||||
 |Info_Gorn_PROHOD_FOUND_15_02|Ладно, я пошел.||||
 |Info_Gorn_PROHOD_WATCH_15_01|Что, опять я?||||
@@ -981,6 +1056,7 @@
 |SLD_9900_Soeldner_ABANDONEDMINE_15_02|Тогда уходим отсюда!||||
 |SLD_9900_Soeldner_ABANDONEDMINE_15_03|Но почему?||||
 |Stt_311_Fisk_Quentin_15_00|Что ты знаешь о доставке товаров в шахту?||||
+|Stt_311_Fisk_WhistlersSword_TakeIt_15_00|Беру.||||
 |Thorus_FREEMINE_Info_15_00|Что? Как это могло случиться? Мне нужно немедленно поговорить с Магами Огня.||||
 |Thorus_FREEMINE_Info_15_01|Значит теперь мы остпались без руды?||||
 |Thorus_FREEMINE_KDF_15_00|Вы убили магов огня.||||
@@ -1223,7 +1299,6 @@
 |DIA_Kyle_No_Problem_10_03|Вот возьми еще этот лук, я нашел на нижнем ярусе Старой шахты. Вероятно его бывшего хозяина съели ползуны.|[link](https://drive.google.com/file/d/1LwrXlkwReH94q933i1WDwg1Yh_YCgPM3/view?usp=sharing)|Silero||
 
 
-
 ## Хуно (VLK_538_Huno)
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
@@ -1259,13 +1334,13 @@
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
-|DIA_Mud_FirstEXIT_07_02|Да? И что ты узнал?||||
-|DIA_Mud_House_07_00|(испуганно) Правда?||||
-|DIA_Mud_House_07_01|(бледнея) И что же мне теперь делать?!||||
-|DIA_Mud_House_07_02|Отлично!||||
-|DIA_Mud_House_07_03|Хорошо. Сегодня же я уйду отсюда.||||
-|DIA_Mud_New_House_07_00|Прекрасный дом. Только настоящий глупец мог обменять мой проклятый дом на этот.||||
-|DIA_Mud_New_House_Follow_07_00|Я прогуляюсь с тобой по лагерю, хорошо?||||
+|DIA_Mud_FirstEXIT_07_02|Да? И что ты узнал?|[link](https://drive.google.com/file/d/1MLJUc6yAhaW5KkELE5yMXoAiDUca0BF8/view?usp=sharing)|Silero|Пропало слово `Да`|
+|DIA_Mud_House_07_00|(испуганно) Правда?|[link](https://drive.google.com/file/d/1MLwk0htSY_uStJGGBF6AV9rIbfE-pl_h/view?usp=sharing)|Silero||
+|DIA_Mud_House_07_01|(бледнея) И что же мне теперь делать?!|[link](https://drive.google.com/file/d/1MNJ06Pn3tR31IsrKtapQbU9w1GNpzkVN/view?usp=sharing)|Silero||
+|DIA_Mud_House_07_02|Отлично!|[link](https://drive.google.com/file/d/1MO6Glb6w0dcQx7cj75_xtXfwo5EJsZD9/view?usp=sharing)|Silero||
+|DIA_Mud_House_07_03|Хорошо. Сегодня же я уйду отсюда.|[link](https://drive.google.com/file/d/1MOP2ZP6PyC590U-PA9LFPMa285Q15gf2/view?usp=sharing)|Silero||
+|DIA_Mud_New_House_07_00|Прекрасный дом. Только настоящий глупец мог обменять мой проклятый дом на этот.|[link](https://drive.google.com/file/d/1MPZybI8RNAcmcrwdqiRMbK2DyXfcksWs/view?usp=sharing)|Silero||
+|DIA_Mud_New_House_Follow_07_00|Я прогуляюсь с тобой по лагерю, хорошо?|[link](https://drive.google.com/file/d/1MTwWRkAriHvToCZ-lvNUTS79HuBXIkwK/view?usp=sharing)|Silero||
 
 
 ## Грим (Vlk_580_Grim)

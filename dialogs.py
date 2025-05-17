@@ -32,7 +32,7 @@ def get_dialogs(npc_id):
     # if dia_path in GM_DIALOGS_PATH.glob('*'):
     
     if orig_dia_path:
-        original_script = orig_dia_path.read_text()
+        original_script = orig_dia_path.read_text(encoding='windows-1251')
         
         for line in re.findall(r'AI_Output.*', original_script):
             dia_name = re.findall(r'\"(\w+)', line)[0]
@@ -43,7 +43,7 @@ def get_dialogs(npc_id):
                 orig_npc_replics.append((dia_name, replica))
     
     if dia_path:
-        gm_script = dia_path.read_text()
+        gm_script = dia_path.read_text(encoding='windows-1251')
                 
         for line in re.findall(r'AI_Output.*', gm_script):
             dia_name = re.findall(r'\"(\w+)', line)[0]
@@ -64,7 +64,7 @@ def parse_npcs():
         "voice": "15"
     }})
     for path in GM_NPC_PATH.glob('*'):
-        text = path.read_text()
+        text = path.read_text(encoding='windows-1251')
         npc_id = path.stem
         npc_name = text.split('\n')[3].split('=')[-1].strip(';').strip('"').strip()[1:]
         npc_voice_id = text.split('\n')[7].split('=')[-1].strip(';').strip().zfill(2)
@@ -89,7 +89,8 @@ def parse_npcs():
         for dia_name, dia_text in g_npc:
             npcs[npc_id]['gm_dialogs'][dia_name] = dia_text
         for dia_name, dia_text in g_hero:
-            npcs["PC_Hero"]['gm_dialogs'][dia_name] = dia_text
+            if dia_name not in npcs["PC_Hero"]['orig_dialogs']:
+                npcs["PC_Hero"]['gm_dialogs'][dia_name] = dia_text
     with open(NPC_PATH, 'w') as npc_out:
         json.dump(npcs, npc_out, ensure_ascii=False, indent=4, sort_keys=True)
 
@@ -103,3 +104,5 @@ if __name__ == "__main__":
     #     print(t)
     #     break
     
+    # print(get_dialogs('Nov_1331_BaalTaran'))
+    # print(list(SNOWBALL_DIALOGS_PATH.rglob('DIA_' + 'Nov_1331_BaalTaran' + '.d')))

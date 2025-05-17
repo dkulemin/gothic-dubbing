@@ -16,7 +16,7 @@ MOD_INFO = {
 
 def main():
     for mod_name in AVAILABLE_MODS:
-        with open(MOD_INFO[mod_name]["NPC_PATH"], encoding="windows-1251") as npc_out:
+        with open(MOD_INFO[mod_name]["NPC_PATH"]) as npc_out:
             npcs = json.load(npc_out)
         if MOD_INFO[mod_name]["PROGRESS_MD_PATH"].is_file():
             print("`PROGRESS.md` exists for {} mod. Won't recreate file!".format(mod_name))

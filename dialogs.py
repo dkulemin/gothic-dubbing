@@ -14,6 +14,21 @@ SNOWBALL_DIALOGS_PATH = Path(
 NPC_PATH = Path('Goldenmod/npcs.json')
 
 
+def find_original_dialog_path(npc_id):
+    *npc_id_parts, _ = npc_id.split("_")
+    for path in SNOWBALL_DIALOGS_PATH.glob("*"):
+        orig_npc_id = path.stem
+        _, *orig_npc_id_parts, _ = orig_npc_id.split("_")
+        if (
+            ("DIA_" + npc_id).lower() == orig_npc_id.lower()
+            or (
+                len(npc_id_parts) > 1
+                and "_".join(orig_npc_id_parts).lower() == "_".join(npc_id_parts).lower()
+            )
+        ):
+            return path
+
+
 def get_dialogs(npc_id):
     gm_hero_replics = list()
     gm_npc_replics = list()
@@ -23,13 +38,7 @@ def get_dialogs(npc_id):
     orig_dia_path = None
     for dia_path in GM_DIALOGS_PATH.rglob('DIA_' + npc_id + '.d'):
         break
-    for orig_dia_path in SNOWBALL_DIALOGS_PATH.rglob('DIA_' + npc_id + '.d'):
-        break
-    
-    # dia_path = GM_DIALOGS_PATH.rglob('DIA_' + npc_id + '.d')
-    # orig_dia_path = SNOWBALL_DIALOGS_PATH.rglob('DIA_' + npc_id + '.d')
-
-    # if dia_path in GM_DIALOGS_PATH.glob('*'):
+    orig_dia_path = find_original_dialog_path(npc_id)
     
     if orig_dia_path:
         original_script = orig_dia_path.read_text(encoding='windows-1251')
@@ -55,6 +64,23 @@ def get_dialogs(npc_id):
     return orig_hero_replics, orig_npc_replics, gm_hero_replics, gm_npc_replics
 
 
+# def find_original_npc_id(npc_id):
+#     if Path(SNOWBALL_DIALOGS_PATH / ''.join(['DIA_', npc_id,'.d'])).is_file():
+#         return npc_id
+    
+#     *npc_id_parts, _ = npc_id.split("_")
+
+#     if len(npc_id_parts) < 2:
+#         return npc_id
+
+#     for orig_npc_id_path in SNOWBALL_DIALOGS_PATH.glob('*'):
+#         orig_npc_id = orig_npc_id_path.stem
+#         _, *orig_npc_id_parts, rest = orig_npc_id.split("_")
+#         if "_".join(orig_npc_id_parts).lower() == "_".join(npc_id_parts).lower():
+#             return "_".join(orig_npc_id_parts + [rest])
+#     return npc_id
+
+
 def parse_npcs():
     npcs = dict()
     npcs.update({"PC_Hero": {
@@ -66,6 +92,7 @@ def parse_npcs():
     for path in GM_NPC_PATH.glob('*'):
         text = path.read_text(encoding='windows-1251')
         npc_id = path.stem
+        # orig_npc_id = find_original_npc_id(npc_id)
         npc_name = text.split('\n')[3].split('=')[-1].strip(';').strip('"').strip()[1:]
         npc_voice_id = text.split('\n')[7].split('=')[-1].strip(';').strip().zfill(2)
         
@@ -106,3 +133,5 @@ if __name__ == "__main__":
     
     # print(get_dialogs('Nov_1331_BaalTaran'))
     # print(list(SNOWBALL_DIALOGS_PATH.rglob('DIA_' + 'Nov_1331_BaalTaran' + '.d')))
+
+    # print(get_dialogs('PC_Psionic'))

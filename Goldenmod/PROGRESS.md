@@ -56,61 +56,61 @@
 |DIA_Kyle_Help_With_Problem_5_15_01|Хм... думаю ни чем не могу тебе помочь.|[link](https://drive.google.com/file/d/1LtRSiBfYntmur4oqXnTB5EB4FvSS-xky/view?usp=sharing)|Silero||
 |DIA_Kyle_No_Problem_15_00|(смеется) Мад согласился обменяться домами.|[link](https://drive.google.com/file/d/1M-9aktClG-o3QmEpc5W87zvh9kFnaNiQ/view?usp=sharing)|Silero|Проблема с озвучкой смеха|
 |DIA_Kyle_No_Problem_15_01|Да, иди в дом Мада. А он поселится в твоем доме.|[link](https://drive.google.com/file/d/1M2gVJ6BvwHiT8D4H2bhnMzcnvk3s9Pxj/view?usp=sharing)|Silero||
-|DIA_Lee_Gorn_Help_15_00|Мы выбили стражников из шахты. Теперь Горну нужно подкрепление.||||
-|DIA_Lee_Gorn_Prohod_15_00|Мы с Горном нашли проход в горах у Свободной шахты. Он находится слева от выхода из небольшой пещеры.||||
-|DIA_Lee_Gorn_Prohod_15_01|Горн уверен, что стражники пришли оттуда.||||
+|DIA_Lee_Gorn_Help_15_00|Мы выбили стражников из шахты. Теперь Горну нужно подкрепление.|[link](https://drive.google.com/file/d/1PKTJFoqYicmHcOUdB_oaVFq1Eg3sNj7X/view?usp=sharing)|Silero||
+|DIA_Lee_Gorn_Prohod_15_00|Мы с Горном нашли проход в горах у Свободной шахты. Он находится слева от выхода из небольшой пещеры.|[link](https://drive.google.com/file/d/1PLrC_QyXr8jETl1RAMzueFaeMTjm2y_F/view?usp=sharing)|Silero||
+|DIA_Lee_Gorn_Prohod_15_01|Горн уверен, что стражники пришли оттуда.|[link](https://drive.google.com/file/d/1PMJVGXrUWQintB2H9d7rwafBb19PI7l9/view?usp=sharing)|Silero||
 |DIA_Mud_FirstEXIT_15_00|Я тут кое-что узнал о твоем доме.|[link](https://drive.google.com/file/d/1MLcvmfrbVszBI4ZcTX7r19pwcVrJDJPZ/view?usp=sharing)|Silero||
 |DIA_Mud_House_15_00|Сегодня я прочитал древние письмена, в которых говорится о страшном проклятьи, которое наложено на этот дом...|[link](https://drive.google.com/file/d/1MOc5i59UH0QK94ERaxd9NatSU1IrnuZ0/view?usp=sharing)|Silero||
 |DIA_Mud_House_15_01|Честное слово!|[link](https://drive.google.com/file/d/1MOeFBpPg-93MWiyEdfS7UOOYMUbFIXpv/view?usp=sharing)|Silero||
-|DIA_Mud_House_15_02|Тебе повезло, я могу помочь тебе поменятся с одним рудокопом домами.|[link](https://drive.google.com/file/d/1MOovlYyvpSULna4F5rtN9Sqs9Rt5nHX8/view?usp=sharing)|||
+|DIA_Mud_House_15_02|Тебе повезло, я могу помочь тебе поменятся с одним рудокопом домами.|[link](https://drive.google.com/file/d/1MOovlYyvpSULna4F5rtN9Sqs9Rt5nHX8/view?usp=sharing)|Silero||
 |DIA_Mud_House_15_03|Дом находится у котлована справа от ворот, в нем 2 входа.|[link](https://drive.google.com/file/d/1MOpUr1R6lo8WA0gKh4HOGwCqEPlXtPE3/view?usp=sharing)|Silero||
 |DIA_Mud_New_House_15_00|Нравится ли тебе новый дом?|[link](https://drive.google.com/file/d/1MQu2Qaxcbx3ujyqLa7KVcdcagHz_Rqai/view?usp=sharing)|Silero||
-|DIA_Orry_GuardGate_No_15_00|Нет.||||
-|DIA_Ricelord_Horatio_15_00|Держись со своей шайкой подальше от крестьян. Если хоть один из них еще раз пожалуется на тебя, я вернусь!||||
-|DIA_Scatty_GorHanisSuccess_15_00|Я дрался с Гор Ханисом!||||
-|DIA_Scatty_WannaBet_15_01|Я собираюсь драться с Гор Ханисом.||||
-|DIA_Scatty_WannaBet_15_02|Хорошо, я поставлю...||||
-|DIA_Scatty_WannaBet_A_15_00|... 150 кусков руды.||||
-|DIA_Scatty_WannaBet_B_15_00|... 100 кусков руды.||||
-|DIA_Scatty_WannaBet_C_15_00|... 50 кусков руды.||||
-|DIA_Scatty_WannaBet_NO_15_00|... я передумал.||||
-|DIA_Scatty_WannaFight_15_01|Флетчер поставит на меня 150 кусков руды.||||
-|DIA_Scatty_WannaFight_15_02|С Гор Ханисом.||||
-|DIA_Senyan_SPIRIT_15_00|Слушай, ты любишь выпить?||||
-|DIA_Senyan_SPIRIT_15_01|Ты умеешь делать рисовый шнапс?||||
-|DIA_Senyan_SPIRIT_15_02|Ты можешь заменить Иеремию?||||
-|DIA_Senyan_SPIRIT_15_03|500 кусков руды и ты в деле, идет?||||
-|DIA_Senyan_SPIRIT_AFTER_15_00|Как тебе работа?||||
-|DIA_Senyan_SPIRIT_OK_15_00|Держи.||||
-|DIA_Silas_SPIRIT_15_00|Мне нужен спирт.||||
-|DIA_Silas_SPIRIT_Jeremiah_15_00|Кто-нибудь должен заменить Иеремию.||||
-|DIA_Silas_SPIRIT_OK_15_00|Вот руда.||||
+|DIA_Orry_GuardGate_No_15_00|Нет.|[link](https://drive.google.com/file/d/1PM_slMBjINHXhRxPdvp5XrKAEFGZmk-k/view?usp=sharing)|Silero||
+|DIA_Ricelord_Horatio_15_00|Держись со своей шайкой подальше от крестьян. Если хоть один из них еще раз пожалуется на тебя, я вернусь!|[link](https://drive.google.com/file/d/1PNRU4_nDfWS96Kp5lZz4Q2Xr-QIDn8l8/view?usp=sharing)|Silero||
+|DIA_Scatty_GorHanisSuccess_15_00|Я дрался с Гор Ханисом!|[link](https://drive.google.com/file/d/1POOmKXG5CXRYjJo-e7dvpKDULKnTgPpU/view?usp=sharing)|Silero||
+|DIA_Scatty_WannaBet_15_01|Я собираюсь драться с Гор Ханисом.|[link](https://drive.google.com/file/d/1PP-uLYX0IXLTUgRIF_jqRS9vGI_5y1QC/view?usp=sharing)|Silero||
+|DIA_Scatty_WannaBet_15_02|Хорошо, я поставлю...|[link](https://drive.google.com/file/d/1PP0t2PvqdxF5yHYvepJ8PXXxVU3CtBCO/view?usp=sharing)|Silero||
+|DIA_Scatty_WannaBet_A_15_00|... 150 кусков руды.|[link](https://drive.google.com/file/d/1PPH-qaA_L9fKxKOx6BE4eFjYj7eBzKFX/view?usp=sharing)|Silero||
+|DIA_Scatty_WannaBet_B_15_00|... 100 кусков руды.|[link](https://drive.google.com/file/d/1PPkdHkxm4vwSJwvZVGGJxrT3P-PzV48Q/view?usp=sharing)|Silero||
+|DIA_Scatty_WannaBet_C_15_00|... 50 кусков руды.|[link](https://drive.google.com/file/d/1PPofWQEZ-uSyNHj0xq4iJnG0cD6Eq6GE/view?usp=sharing)|Silero||
+|DIA_Scatty_WannaBet_NO_15_00|... я передумал.|[link](https://drive.google.com/file/d/1PSmkxmEgJ_4pLc0tH96N6Q-GMfhzgBx1/view?usp=sharing)|Silero||
+|DIA_Scatty_WannaFight_15_01|Флетчер поставит на меня 150 кусков руды.|[link](https://drive.google.com/file/d/1PTk7ZOeP4QjR8WJvwD7297_io1CF2s_9/view?usp=sharing)|Silero||
+|DIA_Scatty_WannaFight_15_02|С Гор Ханисом.|[link](https://drive.google.com/file/d/1PUIOGJe4cFcpb6PKnIrl6JTrxxio28NE/view?usp=sharing)|Silero||
+|DIA_Senyan_SPIRIT_15_00|Слушай, ты любишь выпить?|[link](https://drive.google.com/file/d/1PUP3JEZs1OJVaaeHHWvkG_Ij1IBZHosP/view?usp=sharing)|Silero||
+|DIA_Senyan_SPIRIT_15_01|Ты умеешь делать рисовый шнапс?|[link](https://drive.google.com/file/d/1PVbAnLc6J6TfHq94Obs3y7A2S6S_Zsnm/view?usp=sharing)|Silero||
+|DIA_Senyan_SPIRIT_15_02|Ты можешь заменить Иеремию?|[link](https://drive.google.com/file/d/1PWXI6xmQyw0D0HJFxcNQl4yOBnt34hEL/view?usp=sharing)|Silero||
+|DIA_Senyan_SPIRIT_15_03|500 кусков руды и ты в деле, идет?|[link](https://drive.google.com/file/d/1PZ5u6XLdvWF1kVS_u08NZ8Z0FW5HSjj8/view?usp=sharing)|Silero||
+|DIA_Senyan_SPIRIT_AFTER_15_00|Как тебе работа?|[link](https://drive.google.com/file/d/1P_QMCnBAzll30RQWVU3J3fYx1tcfVB2B/view?usp=sharing)|Silero||
+|DIA_Senyan_SPIRIT_OK_15_00|Держи.|[link](https://drive.google.com/file/d/1PauHIc8a9p0p5OqCgJT5Znj01LW05xIo/view?usp=sharing)|Silero||
+|DIA_Silas_SPIRIT_15_00|Мне нужен спирт.|[link](https://drive.google.com/file/d/1PdWPeXB_ZHb8AZ8jAgoWIPZ4jZkEcMsw/view?usp=sharing)|Silero||
+|DIA_Silas_SPIRIT_Jeremiah_15_00|Кто-нибудь должен заменить Иеремию.|[link](https://drive.google.com/file/d/1Pdu8WA7ZzhQi6-T-hiSbAIZ3f-G2uEqj/view?usp=sharing)|Silero||
+|DIA_Silas_SPIRIT_OK_15_00|Вот руда.|[link](https://drive.google.com/file/d/1Oq_3sqM9BgJVxXZx3Hn7RdRTuQMVFxBW/view?usp=sharing)|Silero||
 |DIA_Skip_TRADE_SWORD_15_00|Я хочу продать выкованные мной мечи.|[link](https://drive.google.com/file/d/1Mmq8aamgSHBJjnq9BhcWKuI7ZkcSzM0i/view?usp=sharing)|Silero||
-|DIA_Stone_Gilbert_15_00|Что ты знаешь о Жильбере?||||
-|DIA_Stone_Gilbert_15_01|Он работал в этой кузнице.||||
+|DIA_Stone_Gilbert_15_00|Что ты знаешь о Жильбере?|[link](https://drive.google.com/file/d/1Pes6cW8td1n3OHOeZqpFzQboj-nqdYqS/view?usp=sharing)|Silero||
+|DIA_Stone_Gilbert_15_01|Он работал в этой кузнице.|[link](https://drive.google.com/file/d/1Pf2w6UrMXoN9WasPt2IU-fLndmAE2xS1/view?usp=sharing)|Silero||
 |DIA_Stone_TRADE_SWORD_15_00|Я хочу продать выкованные мной мечи.|[link](https://drive.google.com/file/d/1Mn3nhcOFd2tTK8Zup74gwFIJ9PkEUoFD/view?usp=sharing)|Silero||
-|DIA_Vlk_520_Quentin_15_00|Что ты знаешь о поставках товаров из внешнего мира?||||
-|GRD_211_Skip_Gilbert_Info_15_00|Ты знаешь Жильбера?||||
-|GUR_1201_CorKalom_ALCHEMY_15_00|Ты можешь научить меня готовить зелья?||||
-|GUR_1201_CorKalom_Learn_ALCHEMY_15_00|Я хочу изучить алхимию.||||
-|GUR_1201_CorKalom_Learn_POTIONS_BACK_15_00|Я зайду в другой раз.||||
-|GUR_1201_CorKalom_Learn_POTIONS_HASTE_15_00|... эликсир проворства.||||
-|GUR_1201_CorKalom_Learn_POTIONS_HEALTH_15_00|... эссенция исцеления.||||
-|GUR_1201_CorKalom_Learn_POTIONS_MANA_15_00|... эссенция магической энергии.||||
-|GUR_1201_CorKalom_SACHE_JA_15_01|Да.||||
-|GUR_1201_CorKalom_SACHE_NEIN_15_01|Нет.||||
-|GUR_1201_CorKalom_VISION_Info_15_01|Продолжай!||||
-|Info_Bloodwyn_Gilbert_15_00|Тебе что-нибудь говорит имя Жильбер?||||
-|Info_Bloodwyn_Gilbert_15_01|Это парень, который давным-давно обворовал Торуса.||||
-|Info_Bloodwyn_Gilbert_15_02|Жильбера!||||
-|Info_Bloodwyn_Gilbert_15_03|Я хочу знать какую именно вещь он украл у Торуса.||||
-|Info_Bloodwyn_Gilbert_NO_15_00|У меня нет столько руды.||||
-|Info_Bloodwyn_Gilbert_YES_15_00|Вот возьми.||||
-|Info_Bloodwyn_Gilbert_YES_15_01|Эй! Теперь скажи мне что украл Жильбер.||||
-|Info_CoErpresser_Exit_Info_15_00|Постой!||||
-|Info_CorAngar_HealthWater_OK_Success_15_00|Вот эликсир для Ю'Бериона.||||
-|Info_CorAngar_HealthWater_Running_15_00|Я собрал травы.||||
-|Info_Cronos_YBERION1_15_01|Ю'Берион, глава Лагеря Сектантов, находится без сознания!||||
+|DIA_Vlk_520_Quentin_15_00|Что ты знаешь о поставках товаров из внешнего мира?|[link](https://drive.google.com/file/d/1Ph3sqHQrx01pd46lkMhsGWD5ustE31Ou/view?usp=sharing)|Silero||
+|GRD_211_Skip_Gilbert_Info_15_00|Ты знаешь Жильбера?|[link](https://drive.google.com/file/d/1PhRDWJBlpxg3YAuL8Zns8IuohDXC06CO/view?usp=sharing)|Silero||
+|GUR_1201_CorKalom_ALCHEMY_15_00|Ты можешь научить меня готовить зелья?|[link](https://drive.google.com/file/d/1PhhZQB8spWf_KzxUoL6yRGCjE4oNkyOA/view?usp=sharing)|Silero||
+|GUR_1201_CorKalom_Learn_ALCHEMY_15_00|Я хочу изучить алхимию.|[link](https://drive.google.com/file/d/1PhoH-1-sTw-RHpiXLD43HGa-X0qgjL7s/view?usp=sharing)|Silero||
+|GUR_1201_CorKalom_Learn_POTIONS_BACK_15_00|Я зайду в другой раз.|[link](https://drive.google.com/file/d/1PjcyTSi24cNj-zLliL3UrvU5LqzUMiqd/view?usp=sharing)|Silero||
+|GUR_1201_CorKalom_Learn_POTIONS_HASTE_15_00|... эликсир проворства.|[link](https://drive.google.com/file/d/1PlC9RcWmIKD-A-yRSctlLVaLpBZe807j/view?usp=sharing)|Silero||
+|GUR_1201_CorKalom_Learn_POTIONS_HEALTH_15_00|... эссенция исцеления.|[link](https://drive.google.com/file/d/1Ple9hFC23TSwMQ0osANeD_FbD_6kPgBZ/view?usp=sharing)|Silero||
+|GUR_1201_CorKalom_Learn_POTIONS_MANA_15_00|... эссенция магической энергии.|[link](https://drive.google.com/file/d/1PnDec3ukMRErTvj2Ozh2Hg8dM5-VM_z2/view?usp=sharing)|Silero||
+|GUR_1201_CorKalom_SACHE_JA_15_01|Да.|[link](https://drive.google.com/file/d/1PofltdRtFvpPHmh27Gek2WfISEAx3qfY/view?usp=sharing)|Silero||
+|GUR_1201_CorKalom_SACHE_NEIN_15_01|Нет.|[link](https://drive.google.com/file/d/1Pp9bzi3uI05uh0S3E4oLmCXmVidG-Szv/view?usp=sharing)|Silero||
+|GUR_1201_CorKalom_VISION_Info_15_01|Продолжай!|[link](https://drive.google.com/file/d/1Pq-aps1XYw0aPI7gwd9JzxbNp_UPf0Zk/view?usp=sharing)|Silero||
+|Info_Bloodwyn_Gilbert_15_00|Тебе что-нибудь говорит имя Жильбер?|[link](https://drive.google.com/file/d/1PrQ5kAiB8KVf2xAcQaHa-pv7A8Z7G50o/view?usp=sharing)|Silero||
+|Info_Bloodwyn_Gilbert_15_01|Это парень, который давным-давно обворовал Торуса.|[link](https://drive.google.com/file/d/1PrbW9wkkzFlwSAR1seJYCEFseHZBxubZ/view?usp=sharing)|Silero||
+|Info_Bloodwyn_Gilbert_15_02|Жильбера|[link](https://drive.google.com/file/d/1PvPW1p9W7Kux5_xdrcj_PkZvzRGJWBu3/view?usp=sharing)|Silero|||
+|Info_Bloodwyn_Gilbert_15_03|Я хочу знать какую именно вещь он украл у Торуса.|[link](https://drive.google.com/file/d/1PvgS26405ig6HlJ-IaOiKZsW8LDL06wu/view?usp=sharing)|Silero||
+|Info_Bloodwyn_Gilbert_NO_15_00|У меня нет столько руды.|[link](https://drive.google.com/file/d/1Pvl3_pwMk8Uvf3jOiPnDqbjniY1GNPkA/view?usp=sharing)|Silero||
+|Info_Bloodwyn_Gilbert_YES_15_00|Вот возьми.|[link](https://drive.google.com/file/d/1Pwdok22TNHs_0DPzX3uoT4DoQCrbbJhR/view?usp=sharing)|Silero||
+|Info_Bloodwyn_Gilbert_YES_15_01|Эй! Теперь скажи мне что украл Жильбер.|[link](https://drive.google.com/file/d/1PxCGUWpRyOM9J3MsB5nDil-bPuQQfZ7f/view?usp=sharing)|Silero||
+|Info_CoErpresser_Exit_Info_15_00|Постой!|[link](https://drive.google.com/file/d/1PyDTFaBlfU5kmj1Bw_6gduDCAd3eKP9T/view?usp=sharing)|Silero||
+|Info_CorAngar_HealthWater_OK_Success_15_00|Вот эликсир для Ю'Бериона.|[link](https://drive.google.com/file/d/1PykA5DgABKK-w5zajmd4RCBZmW_Cvj52/view?usp=sharing)|Silero||
+|Info_CorAngar_HealthWater_Running_15_00|Я собрал травы.|[link](https://drive.google.com/file/d/1PzIwtqRv_Mzp3c33BU3KLfxwS6LeCCwU/view?usp=sharing)|Silero||
+|Info_Cronos_YBERION1_15_01|Ю'Берион, глава Лагеря Сектантов, находится без сознания!|[link](https://drive.google.com/file/d/1Q-JqhW24Jqr6N-_SfoC1J325JcqvEOQY/view?usp=sharing)|Silero||
 |Info_Diego_ThorusSays_15_00|Я поговорил с Торусом.||||
 |Info_GorHanis_ChargeGood_15_01|Да, я готов.||||
 |Info_Gorn_PROHOD_FOUND_15_01|Да, они могли пройти через земли орков.||||

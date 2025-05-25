@@ -74,9 +74,10 @@ def get_dialogs(mod_name, npc_id):
 
 def parse_npcs():
     for mod in AVAILABLE_MODS:
+        mod_dialogs_key = MOD_INFO[mod]["MOD_DIALOGS_KEY"]
         npcs = dict()
         npcs.update({"PC_Hero": {
-            MOD_INFO[mod]["MOD_DIALOGS_KEY"]: {},
+            mod_dialogs_key: {},
             "orig_dialogs": {},
             "name": "Я",
             "voice": "15"
@@ -93,7 +94,7 @@ def parse_npcs():
                     "name": "",
                     "voice": "",
                     "orig_dialogs": {},
-                    MOD_INFO[mod]["MOD_DIALOGS_KEY"]: {}
+                    mod_dialogs_key: {}
                 }
             )
             npcs[npc_id]["name"] = npc_name
@@ -105,11 +106,17 @@ def parse_npcs():
             for dia_name, dia_text in o_hero:
                 npcs["PC_Hero"]['orig_dialogs'][dia_name] = dia_text
             for dia_name, dia_text in g_npc:
-                npcs[npc_id]['gm_dialogs'][dia_name] = dia_text
+                npcs[npc_id][mod_dialogs_key][dia_name] = dia_text
             for dia_name, dia_text in g_hero:
                 if dia_name not in npcs["PC_Hero"]['orig_dialogs']:
-                    npcs["PC_Hero"]['gm_dialogs'][dia_name] = dia_text
-        with open(MOD_INFO[mod]["OUT"], 'w') as npc_out:
+                    npcs["PC_Hero"][mod_dialogs_key][dia_name] = dia_text
+        corrected_dialogs = {
+            dia_id: text
+            for dia_id, text in npcs["PC_Hero"][mod_dialogs_key].items()
+            if dia_id not in npcs["PC_Hero"]['orig_dialogs']
+        }
+        npcs["PC_Hero"][mod_dialogs_key] = corrected_dialogs
+        with open(MOD_INFO[mod]["OUT"], 'w', encoding="utf-8") as npc_out:
             json.dump(npcs, npc_out, ensure_ascii=False, indent=4, sort_keys=True)
 
 

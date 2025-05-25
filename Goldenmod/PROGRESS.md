@@ -27,7 +27,6 @@
 |DIA_Gorn_BDT_15_01|Я знаю Квентина.|[link](https://drive.google.com/file/d/1OEj9YT5ZMN70fbP4oe3_MAEy50ijOj8b/view?usp=sharing)|Silero||
 |DIA_Gorn_BDT_15_02|А кто такой, этот Квентин?|[link](https://drive.google.com/file/d/1OF4pygqeu2voo8xN4D-g9a10s1de07uw/view?usp=sharing)|Silero||
 |DIA_Gorn_BDT_WERE_15_00|Так где я могу найти Квентина?|[link](https://drive.google.com/file/d/1OFYCt5pKUbsJE66HPUhlkqQmnHrWZr2w/view?usp=sharing)|Silero||
-|DIA_Gorn_DuHehler_15_06|(перебивает) Понятно.|[link](https://drive.google.com/file/d/1OGCMNgQNmlUE5a0b-Dyc65dkl4U6zxd1/view?usp=sharing)|Silero||
 |DIA_Gravo_Gilbert_15_00|Тебе говорит о чем-нибудь имя Жильбер?|[link](https://drive.google.com/file/d/1OHu-bNnjb8DQMN_TIfAVZyKQPB5ZhzF4/view?usp=sharing)|Silero||
 |DIA_Gravo_Gilbert_15_02|Я нашел его. Он прячется в пещере недалеко от Старого лагеря.|[link](https://drive.google.com/file/d/1OHwcTvOU4UHXcndelKMdJEqagvc0_LrA/view?usp=sharing)|Silero||
 |DIA_Gravo_Gilbert_15_03|Ну, по крайней мере был, когда я его нашел.|[link](https://drive.google.com/file/d/1OIAwd8-olZdrsjukk0ftLMHcX_1f8Hy_/view?usp=sharing)|Silero||
@@ -45,7 +44,6 @@
 |DIA_Jeremiah_SPIRIT_15_00|Ты можешь дать мне спирт?|[link](https://drive.google.com/file/d/1OUEZR8w1uQykACTSCzCFUXaK2OcrMW9L/view?usp=sharing)|Silero||
 |DIA_Jeremiah_SPIRIT_15_01|Думаю, хватит 10 мензурок.|[link](https://drive.google.com/file/d/1OVjT6u4CQuZNa7NGhdKCxVa02y9agZuf/view?usp=sharing)|Silero||
 |DIA_Jeremiah_SPIRIT_OK_15_00|Шеньян согласился заменить тебя.|[link](https://drive.google.com/file/d/1OXpPqpQleT2lk-kghti3o_Uzg_iGtMX4/view?usp=sharing)|Silero||
-|DIA_Jesse_Hallo_15_00|Как дела?|[link](https://drive.google.com/file/d/1NpnSFrzFG76fVqhHTGQt8y6bdD908_qk/view?usp=sharing)|Silero||
 |DIA_Kyle_About_Problem_15_00|А ты не пробовал построить другой дом?|[link](https://drive.google.com/file/d/1L5DbgbKPqjPzUk6ByDiYoHZ6kGN8dor-/view?usp=sharing)|Silero||
 |DIA_Kyle_After_No_Problem_15_00|Как тебе новый дом?|[link](https://drive.google.com/file/d/1L628SDLnjjbC8DCk_dnhh5JF3HMl9EKz/view?usp=sharing)|Silero||
 |DIA_Kyle_Help_With_Problem_15_00|А ты не думал переселиться в другое место?|[link](https://drive.google.com/file/d/1L8HO4m_GkSRV_UNO5gzDf5ThS_0f0AYe/view?usp=sharing)|Silero||
@@ -65,7 +63,6 @@
 |DIA_Mud_House_15_02|Тебе повезло, я могу помочь тебе поменятся с одним рудокопом домами.|[link](https://drive.google.com/file/d/1MOovlYyvpSULna4F5rtN9Sqs9Rt5nHX8/view?usp=sharing)|Silero||
 |DIA_Mud_House_15_03|Дом находится у котлована справа от ворот, в нем 2 входа.|[link](https://drive.google.com/file/d/1MOpUr1R6lo8WA0gKh4HOGwCqEPlXtPE3/view?usp=sharing)|Silero||
 |DIA_Mud_New_House_15_00|Нравится ли тебе новый дом?|[link](https://drive.google.com/file/d/1MQu2Qaxcbx3ujyqLa7KVcdcagHz_Rqai/view?usp=sharing)|Silero||
-|DIA_Orry_GuardGate_No_15_00|Нет.|[link](https://drive.google.com/file/d/1PM_slMBjINHXhRxPdvp5XrKAEFGZmk-k/view?usp=sharing)|Silero||
 |DIA_Ricelord_Horatio_15_00|Держись со своей шайкой подальше от крестьян. Если хоть один из них еще раз пожалуется на тебя, я вернусь!|[link](https://drive.google.com/file/d/1PNRU4_nDfWS96Kp5lZz4Q2Xr-QIDn8l8/view?usp=sharing)|Silero||
 |DIA_Scatty_GorHanisSuccess_15_00|Я дрался с Гор Ханисом!|[link](https://drive.google.com/file/d/1POOmKXG5CXRYjJo-e7dvpKDULKnTgPpU/view?usp=sharing)|Silero||
 |DIA_Scatty_WannaBet_15_01|Я собираюсь драться с Гор Ханисом.|[link](https://drive.google.com/file/d/1PP-uLYX0IXLTUgRIF_jqRS9vGI_5y1QC/view?usp=sharing)|Silero||
@@ -97,9 +94,6 @@
 |GUR_1201_CorKalom_Learn_POTIONS_HASTE_15_00|... эликсир проворства.|[link](https://drive.google.com/file/d/1PlC9RcWmIKD-A-yRSctlLVaLpBZe807j/view?usp=sharing)|Silero||
 |GUR_1201_CorKalom_Learn_POTIONS_HEALTH_15_00|... эссенция исцеления.|[link](https://drive.google.com/file/d/1Ple9hFC23TSwMQ0osANeD_FbD_6kPgBZ/view?usp=sharing)|Silero||
 |GUR_1201_CorKalom_Learn_POTIONS_MANA_15_00|... эссенция магической энергии.|[link](https://drive.google.com/file/d/1PnDec3ukMRErTvj2Ozh2Hg8dM5-VM_z2/view?usp=sharing)|Silero||
-|GUR_1201_CorKalom_SACHE_JA_15_01|Да.|[link](https://drive.google.com/file/d/1PofltdRtFvpPHmh27Gek2WfISEAx3qfY/view?usp=sharing)|Silero||
-|GUR_1201_CorKalom_SACHE_NEIN_15_01|Нет.|[link](https://drive.google.com/file/d/1Pp9bzi3uI05uh0S3E4oLmCXmVidG-Szv/view?usp=sharing)|Silero||
-|GUR_1201_CorKalom_VISION_Info_15_01|Продолжай!|[link](https://drive.google.com/file/d/1Pq-aps1XYw0aPI7gwd9JzxbNp_UPf0Zk/view?usp=sharing)|Silero||
 |Info_Bloodwyn_Gilbert_15_00|Тебе что-нибудь говорит имя Жильбер?|[link](https://drive.google.com/file/d/1PrQ5kAiB8KVf2xAcQaHa-pv7A8Z7G50o/view?usp=sharing)|Silero||
 |Info_Bloodwyn_Gilbert_15_01|Это парень, который давным-давно обворовал Торуса.|[link](https://drive.google.com/file/d/1PrbW9wkkzFlwSAR1seJYCEFseHZBxubZ/view?usp=sharing)|Silero||
 |Info_Bloodwyn_Gilbert_15_02|Жильбера|[link](https://drive.google.com/file/d/1PvPW1p9W7Kux5_xdrcj_PkZvzRGJWBu3/view?usp=sharing)|Silero|||
@@ -111,7 +105,6 @@
 |Info_CorAngar_HealthWater_OK_Success_15_00|Вот эликсир для Ю'Бериона.|[link](https://drive.google.com/file/d/1PykA5DgABKK-w5zajmd4RCBZmW_Cvj52/view?usp=sharing)|Silero||
 |Info_CorAngar_HealthWater_Running_15_00|Я собрал травы.|[link](https://drive.google.com/file/d/1PzIwtqRv_Mzp3c33BU3KLfxwS6LeCCwU/view?usp=sharing)|Silero||
 |Info_Cronos_YBERION1_15_01|Ю'Берион, глава Лагеря Сектантов, находится без сознания!|[link](https://drive.google.com/file/d/1Q-JqhW24Jqr6N-_SfoC1J325JcqvEOQY/view?usp=sharing)|Silero||
-|Info_Diego_ThorusSays_15_00|Я поговорил с Торусом.||||
 |Info_GorHanis_ChargeGood_15_01|Да, я готов.||||
 |Info_Gorn_PROHOD_FOUND_15_01|Да, они могли пройти через земли орков.||||
 |Info_Gorn_PROHOD_FOUND_15_02|Ладно, я пошел.||||
@@ -145,7 +138,6 @@
 |Info_Org_869_Raeuber_TRADE_15_00|Ты что-нибудь продаешь?||||
 |Info_Pacho_GRD_FM_15_02|Я пришел, как только мне сообщил Торус.||||
 |Info_Pacho_GRD_FM_END_15_02|Ну, я...||||
-|Info_SFB_1_DieLage_15_00|Как дела?||||
 |Info_Saturas_ABANDONEDMINE_15_00|В Заброшенной шахте происходят ужасные вещи.||||
 |Info_Saturas_ABANDONEDMINE_15_01|В дальнем проходе послелился демон. И он напал на воров и намеников, обследовавших шахту.||||
 |Info_Saturas_ABANDONEDMINE_15_02|Многие погибли и превратились в нежить. А те, кто выжил, стали слугами этого демона.||||
@@ -159,8 +151,6 @@
 |Info_Saturas_QUENTIN_15_00|И?||||
 |Info_Saturas_QUENTIN_15_01|Квентин погиб?||||
 |Info_Sld_11_DieLage_15_00|Ты в порядке?||||
-|Info_Swiney_Schuerfer_Ja_15_00|Да.||||
-|Info_Swiney_Schuerfer_Nein_15_00|Нет.||||
 |Info_Thorus_Gilbert_15_00|Я слышал тебя интересует Жильбер?||||
 |Info_Thorus_Gilbert_15_01|Даже то, что я нашел его убежище?||||
 |Info_Thorus_Gilbert_15_02|Поверь мне.||||
@@ -176,8 +166,6 @@
 |KDF_401_Damarok_Learn_POTIONS_HASTE_15_00|... эликсир быстроты.||||
 |KDF_401_Damarok_Learn_POTIONS_HEALTH_15_00|... вытяжка исцеления.||||
 |KDF_401_Damarok_Learn_POTIONS_MANA_15_00|... вытяжка магической энергии.||||
-|KDF_402_Corristo_KDFTEST_JA_Info_15_01|Да.||||
-|KDF_402_Corristo_KDFTEST_NO_Info_15_01|Нет.||||
 |KDW_600_Saturas_TIMESUP1_Info_15_00|Да, он пока не знает, как взорвать гору...||||
 |KDW_600_Saturas_TIMESUP1_Info_15_01|Он работает над этом.||||
 |KDW_600_Saturas_TIMESUP1_Info_15_02|Я скажу тебе, когда что-нибудь выяснится.||||
@@ -281,7 +269,6 @@
 |Thorus_FREEMINE_KDF_15_00|Вы убили магов огня.||||
 |Thorus_FREEMINE_NO_15_00|Я больше не служу Гомезу.||||
 |Thorus_FREEMINE_YES_15_00|В атаку!||||
-|VLK_585_Aleph_Exit_Info_15_01|Удачи.||||
 
 
 ## Горацио (BAU_901_Horatio)

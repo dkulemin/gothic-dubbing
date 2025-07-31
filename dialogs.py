@@ -15,7 +15,7 @@ MOD_INFO = {
         "OUT": Path('Goldenmod/npcs.json'),
         "DIALOGS_PATH": Path('Goldenmod/_decompiled/PrjGOTHIC/Story/MISSIONS'),
         "ORIG_DIALOGS_PATH": Path(
-            'gothic-1-classic-scripts-more-updated/unified/Unified-RU-Russobit-M/_work/Data/Scripts/Content/Story/MISSIONS'
+            'gothic-1-classic-scripts-more-updated/unified/Unified-RU-Snowball/_work/Data/Scripts/Content/Story/Missions'
         ),
         "MOD_DIALOGS_KEY": "gm_dialogs"
     }

@@ -86,7 +86,9 @@ def parse_npcs():
             text = path.read_text(encoding='windows-1251')
             npc_id = path.stem
             npc_name = text.split('\n')[3].split('=')[-1].strip(';').strip('"').strip()[1:]
-            npc_voice_id = text.split('\n')[7].split('=')[-1].strip(';').strip().zfill(2)
+            # npc_voice_id = text.split('\n')[7].split('=')[-1].strip(';').strip().zfill(2)
+            npc_voice_id = re.search(r"voice\s*=\s*(\d+)", text, flags=re.IGNORECASE)
+            npc_voice_id = npc_voice_id.group(1).zfill(2) if npc_voice_id else "00"
             
             npcs.setdefault(
                 npc_id,

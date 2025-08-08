@@ -2,3 +2,4 @@
 .vscode
 **/Content/Data
 .DS_Store
+data/*

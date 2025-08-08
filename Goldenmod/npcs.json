@@ -231,7 +231,7 @@
             "DIA_Homer_Success_02_02": "Теперь, наконец-то, я смогу немного поспать.",
             "DIA_Homer_WannaHelp_02_01": "Конечно. Просто убеди эту тварь не подтачивать мою плотину."
         },
-        "voice": "00"
+        "voice": "02"
     },
     "Bau_900_Ricelord": {
         "gm_dialogs": {
@@ -261,37 +261,37 @@
         "gm_dialogs": {},
         "name": "Эскорт1",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "11"
     },
     "CS_Eskorte2": {
         "gm_dialogs": {},
         "name": "Эскорт2",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "11"
     },
     "CS_Eskorte3": {
         "gm_dialogs": {},
         "name": "Эскорт3",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "11"
     },
     "CS_Eskorte4": {
         "gm_dialogs": {},
         "name": "Эскорт4",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "11"
     },
     "CS_Eskorte5": {
         "gm_dialogs": {},
         "name": "Эскорт5",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "11"
     },
     "CS_Eskorte6": {
         "gm_dialogs": {},
         "name": "Эскорт6",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "11"
     },
     "CS_Richter": {
         "gm_dialogs": {},
@@ -847,7 +847,7 @@
         "gm_dialogs": {},
         "name": "AME_Gardist",
         "orig_dialogs": {},
-        "voice": "15"
+        "voice": "07"
     },
     "GRD_229_Gardist": {
         "gm_dialogs": {},
@@ -859,7 +859,7 @@
         "gm_dialogs": {},
         "name": "AME_Gardist",
         "orig_dialogs": {},
-        "voice": "20"
+        "voice": "06"
     },
     "GRD_231_Gardist": {
         "gm_dialogs": {},
@@ -1030,7 +1030,7 @@
         "gm_dialogs": {},
         "name": "AME_Gardist",
         "orig_dialogs": {},
-        "voice": "15"
+        "voice": "06"
     },
     "GRD_251_Kirgo": {
         "gm_dialogs": {
@@ -1344,7 +1344,7 @@
         "gm_dialogs": {},
         "name": "AME_Gardist",
         "orig_dialogs": {},
-        "voice": "20"
+        "voice": "06"
     },
     "GRD_281_Gardist": {
         "gm_dialogs": {},
@@ -1478,7 +1478,7 @@
             "Sit_2_PSI_Yberion_BringFocus_OK_12_02": "Возьми эту карту. На ней отмечено место, где находится юнитор.",
             "Sit_2_PSI_Yberion_BringFocus_WO_12_02": "На выходе из Лагеря поверни направо и поднимайся на высокую скалу. За лесом ты увидишь море, и там ты найдешь юнитор."
         },
-        "voice": "NPC_FLAG_IMMORTAL"
+        "voice": "12"
     },
     "GUR_1201_CorKalom": {
         "gm_dialogs": {
@@ -1667,7 +1667,7 @@
             "Mis_3_NC_CorAngar_FindHerb_08_04": "Принеси мне целебные травы с болота. Пяти кустов самого сильного сорта должно быть достаточно.",
             "Mis_3_NC_CorAngar_FindHerb_08_05": "Прошу тебя, поторопись!"
         },
-        "voice": "NPC_FLAG_IMMORTAL"
+        "voice": "08"
     },
     "GUR_1203_BaalTondral": {
         "gm_dialogs": {},
@@ -1699,7 +1699,7 @@
             "DIA_BaalTondral_YouTalked_13_02": "Я ощущаю в тебе великую духовную силу! Скоро ты будешь допущен в круг избранных.",
             "DIA_BaalTondral_YouTalked_13_03": "Я заговорил с тобой, дабы дать тебе шанс проявить себя."
         },
-        "voice": "00"
+        "voice": "13"
     },
     "GUR_1204_BaalNamib": {
         "gm_dialogs": {
@@ -1724,7 +1724,7 @@
             "Info_BaalNamib_BROTHERHOOD_YBWAS_02_05": "Если бы это было так просто, артефакт был бы уже у нас. Прежде поговори с Ю`Берионом. Он тебе все объяснит.",
             "Info_BaalNamib_BROTHERHOOD_YBWO_02_02": "Холм. Как и всегда, впрочем."
         },
-        "voice": "NPC_FLAG_IMMORTAL"
+        "voice": "02"
     },
     "GUR_1208_BaalCadar": {
         "gm_dialogs": {},
@@ -1807,7 +1807,7 @@
             "DIA_BaalTyon_Vision_11_03": "Он был очень похож на ТЕБЯ. Кто ты? Что тебе нужно?",
             "DIA_BaalTyon_Vision_11_05": "Иди к Кор Галому. Он позаботится о тебе."
         },
-        "voice": "NPC_FLAG_IMMORTAL"
+        "voice": "11"
     },
     "GUR_1211_BaalLukor": {
         "gm_dialogs": {},
@@ -1863,7 +1863,7 @@
             "Info_BaalLukor_TELEPORT_13_04": "Идем дальше.",
             "Info_BaalLukor_WHATNOW_13_02": "Большой зал, через который мы проходили, показался мне очень... странным... местом. Вернемся туда!"
         },
-        "voice": "50"
+        "voice": "13"
     },
     "GUR_1212_MadCorKalom": {
         "gm_dialogs": {},
@@ -2235,7 +2235,7 @@
             "KDW_604_Cronos_MANA_Info_08_02": "Я могу помочь тебе увеличить силу. Используй ее с умом.",
             "KDW_604_Cronos_WELCOME_Info_08_01": "Ты принял правильное решение - присоединиться к магам Воды. Добро пожаловать, брат!"
         },
-        "voice": "28"
+        "voice": "08"
     },
     "KDW_605_Riordian": {
         "gm_dialogs": {
@@ -2684,7 +2684,7 @@
             "DIA_Joru_Tester_07_02": "Раз в несколько дней его помощник выдает нам новые образцы. И мы испытываем их.",
             "DIA_Joru_Tester_07_03": "Эта трава раскрывает твое сознание. Приняв правильную дозу, ты можешь говорить со Спящим."
         },
-        "voice": "00"
+        "voice": "07"
     },
     "NOV_1306_Novize": {
         "gm_dialogs": {},
@@ -2784,7 +2784,7 @@
         "gm_dialogs": {},
         "name": "AME_Novize",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "05"
     },
     "NOV_1320_Novize": {
         "gm_dialogs": {},
@@ -2820,13 +2820,13 @@
         "gm_dialogs": {},
         "name": "AME_Novize",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1326_Novize": {
         "gm_dialogs": {},
         "name": "AME_Novize",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1327_Novize": {
         "gm_dialogs": {},
@@ -2947,13 +2947,13 @@
         "gm_dialogs": {},
         "name": "AME_Novize",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1341_Novize": {
         "gm_dialogs": {},
         "name": "AME_Novize",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "02"
     },
     "NOV_1342_Novize": {
         "gm_dialogs": {},
@@ -2989,7 +2989,7 @@
         "gm_dialogs": {},
         "name": "AME_Novize",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "05"
     },
     "NOV_1348_Novize": {
         "gm_dialogs": {},
@@ -3007,31 +3007,31 @@
         "gm_dialogs": {},
         "name": "AME_Novize",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1351_Novize": {
         "gm_dialogs": {},
         "name": "AME_Novize",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1353_Novize": {
         "gm_dialogs": {},
         "name": "AME_Novize",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1354_Novize": {
         "gm_dialogs": {},
         "name": "AME_Novize",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "05"
     },
     "NOV_1355_Novize": {
         "gm_dialogs": {},
         "name": "AME_Novize",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1356_Shrat": {
         "gm_dialogs": {},
@@ -3088,73 +3088,73 @@
         "gm_dialogs": {},
         "name": "AME_MadNovice",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1360_Novize": {
         "gm_dialogs": {},
         "name": "AME_MadNovice",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1361_Novize": {
         "gm_dialogs": {},
         "name": "AME_MadNovice",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1362_Novize": {
         "gm_dialogs": {},
         "name": "AME_MadNovice",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1363_Novize": {
         "gm_dialogs": {},
         "name": "AME_MadNovice",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1364_Novize": {
         "gm_dialogs": {},
         "name": "AME_MadNovice",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1365_Novize": {
         "gm_dialogs": {},
         "name": "AME_MadNovice",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1366_Novize": {
         "gm_dialogs": {},
         "name": "AME_MadNovice",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1367_Novize": {
         "gm_dialogs": {},
         "name": "AME_MadNovice",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1368_Novize": {
         "gm_dialogs": {},
         "name": "AME_MadNovice",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1369_Novize": {
         "gm_dialogs": {},
         "name": "AME_MadNovice",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1370_Novize": {
         "gm_dialogs": {},
         "name": "AME_MadNovice",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "03"
     },
     "NOV_1371_BaalNetbek": {
         "gm_dialogs": {
@@ -3172,7 +3172,7 @@
             "Nov_1371_BaalNetbek_CRAZY_Info_03_04": "Они повсюду. Деревья! Они ходят и поют, и танцуют...",
             "Nov_1371_BaalNetbek_CRAZY_Info_03_06": "Постой, ты должен помочь мне! Я собираюсь превратить это болото в гигантский цветущий луг!"
         },
-        "voice": "00"
+        "voice": "03"
     },
     "Non_1500_Gilbert": {
         "gm_dialogs": {
@@ -3233,7 +3233,7 @@
             "Nov_1300_Talas_READY_Info_02_02": "Иди за мной.",
             "Nov_1300_Talas_UR_Info_02_02": "Оставь меня в покое, я не хочу об этом говорить!"
         },
-        "voice": "NPC_FLAG_IMMORTAL"
+        "voice": "02"
     },
     "Nov_1303_Nyras": {
         "gm_dialogs": {},
@@ -3418,7 +3418,7 @@
             "Info_OrcShaman_YOUHERE_17_03": "Ур-Шак думает: КРУШАК скоро проснется!",
             "Info_OrcShaman_YOUHERE_17_04": "Ур-Шак ждет здесь. Будет сражаться, когда КРУШАК проснется! "
         },
-        "voice": "25"
+        "voice": "17"
     },
     "ORG_800_Organisator": {
         "gm_dialogs": {},
@@ -3927,7 +3927,7 @@
         "gm_dialogs": {},
         "name": "Раб орков",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "17"
     },
     "Org_801_Lares": {
         "gm_dialogs": {},
@@ -6868,25 +6868,25 @@
         "gm_dialogs": {},
         "name": "AME_Schuerfer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "01"
     },
     "SFB_1034_Schuerfer": {
         "gm_dialogs": {},
         "name": "AME_Schuerfer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "02"
     },
     "SFB_1035_Schuerfer": {
         "gm_dialogs": {},
         "name": "AME_Schuerfer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "05"
     },
     "SFB_1036_Schuerfer": {
         "gm_dialogs": {},
         "name": "AME_Schuerfer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "01"
     },
     "SFB_1037_Swiney": {
         "gm_dialogs": {},
@@ -6906,49 +6906,49 @@
             "Info_Swiney_Schuerfer_Nein_09_03": "Здесь где-то неподалеку валялась кирка.",
             "Info_Swiney_Schuerfer_Nein_09_04": "Правда, с ней ты много не наработаешь, так что..."
         },
-        "voice": "00"
+        "voice": "09"
     },
     "SFB_1038_Schuerfer": {
         "gm_dialogs": {},
         "name": "AME_Schuerfer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "05"
     },
     "SFB_1039_Schuerfer": {
         "gm_dialogs": {},
         "name": "AME_Schuerfer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "01"
     },
     "SFB_1040_Schuerfer": {
         "gm_dialogs": {},
         "name": "AME_Schuerfer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "02"
     },
     "SFB_1041_Schuerfer": {
         "gm_dialogs": {},
         "name": "AME_Schuerfer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "05"
     },
     "SFB_1042_Schuerfer": {
         "gm_dialogs": {},
         "name": "AME_Schuerfer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "01"
     },
     "SFB_1043_Schuerfer": {
         "gm_dialogs": {},
         "name": "AME_Schuerfer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "02"
     },
     "SFB_1044_Schuerfer": {
         "gm_dialogs": {},
         "name": "AME_Schuerfer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "05"
     },
     "SLD_701_Orik": {
         "gm_dialogs": {},
@@ -7104,7 +7104,7 @@
             "Sld_728_Jarvis_AUFNAHMESOLDIER_Info_08_01": "Эй, я слышал, ты задал жару ползунам в шахте!",
             "Sld_728_Jarvis_AUFNAHMESOLDIER_Info_08_02": "Думаю, Ли с радостью примет тебя в ряды наемников. Просто поговори с ним."
         },
-        "voice": "NPC_FLAG_IMMORTAL"
+        "voice": "08"
     },
     "SLD_730_Soeldner": {
         "gm_dialogs": {},
@@ -7354,7 +7354,7 @@
             "STT_301_IAN_ORE_Info_13_03": "Из той руды, что мы поставляем королю, можно выплавить не одну сотню клинков.",
             "STT_301_IAN_WANTLIST_Info_13_02": "Ну надо же. Проваливай!"
         },
-        "voice": "NPC_FLAG_IMMORTAL"
+        "voice": "13"
     },
     "STT_302_Viper": {
         "gm_dialogs": {},
@@ -7798,7 +7798,7 @@
             "Tpl_1400_GorNaBar_SUGGEST_Info_09_04": "Логово ползунов! Наконец-то! Мой меч к твоим услугам!",
             "Tpl_1400_GorNaBar_VICTORY_Info_09_02": "Ты доказал свою смелость и силу духа. Нам нужны такие люди, как ты!"
         },
-        "voice": "00"
+        "voice": "09"
     },
     "TPL_1401_GorNaKosh": {
         "gm_dialogs": {},
@@ -7813,7 +7813,7 @@
             "Tpl_1401_GorNaKosh_SUGGEST_Info_13_02": "Мой клинок к твоим услугам! Я иду с тобой.",
             "Tpl_1401_GorNaKosh_VICTORY_Info_13_02": "Превосходно! Теперь возвращайся в Лагерь - Кор Галом ждет тебя."
         },
-        "voice": "00"
+        "voice": "13"
     },
     "TPL_1402_GorNaToth": {
         "gm_dialogs": {},
@@ -7855,7 +7855,7 @@
         "gm_dialogs": {},
         "name": "AME_Templer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "08"
     },
     "TPL_1404_Templer": {
         "gm_dialogs": {},
@@ -7875,7 +7875,7 @@
             "Info_TPL_1405_GorNaRan_Info_13_05": "Ты жалкий червь! Тебе и таким, как ты, нечего делать здесь в момент пробуждения Спящего! И я позабочусь об этом!",
             "Info_TPL_1405_GorNaRan_Info_13_07": "Это все слова, парень! За Спящего!"
         },
-        "voice": "00"
+        "voice": "13"
     },
     "TPL_1406_Templer": {
         "gm_dialogs": {},
@@ -7889,25 +7889,25 @@
         "gm_dialogs": {},
         "name": "AME_Templer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "13"
     },
     "TPL_1408_Templer": {
         "gm_dialogs": {},
         "name": "AME_Templer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "08"
     },
     "TPL_1409_Templer": {
         "gm_dialogs": {},
         "name": "AME_Templer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "13"
     },
     "TPL_1410_Templer": {
         "gm_dialogs": {},
         "name": "AME_Templer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "13"
     },
     "TPL_1411_Templer": {
         "gm_dialogs": {},
@@ -8035,7 +8035,7 @@
             "Tpl_1433_GorNavid_VICTORY_Info_13_02": "Я благодарю тебя от имени всего Братства!",
             "Tpl_1433_GorNavid_VICTORY_Info_13_03": "Да убережет тебя незримая рука Спящего!"
         },
-        "voice": "00"
+        "voice": "13"
     },
     "TPL_1434_Templer": {
         "gm_dialogs": {},
@@ -8047,7 +8047,7 @@
         "gm_dialogs": {},
         "name": "AME_Templer",
         "orig_dialogs": {},
-        "voice": "1435"
+        "voice": "13"
     },
     "TPL_1436_Templer": {
         "gm_dialogs": {},
@@ -8056,7 +8056,7 @@
             "Tpl_1436_Templer_CRAWLER_Info_13_02": "Мы здесь охотимся на ползунов. Одновременно получается, что мы защищаем от них рудокопов, - и все довольны.",
             "Tpl_1436_Templer_CRAWLER_Info_13_03": "На самом деле, нам нужна только слюна этих хищных тварей. Из слюны, которая добывается из челюстей ползунов, наш Гуру Кор Галом готовит магические эликсиры."
         },
-        "voice": "00"
+        "voice": "13"
     },
     "TPL_1437_Templer": {
         "gm_dialogs": {},
@@ -8071,7 +8071,7 @@
             "Tpl_1437_Templer_LEAVE_Info_13_02": "Минуту покоя, ладно? Исчезни и поговори с кем-нибудь еще - с кем угодно, только не со мной!",
             "Tpl_1437_Templer_NERV_Info_13_02": "Послушай, ты собрался доставать здесь всех или только меня?"
         },
-        "voice": "00"
+        "voice": "13"
     },
     "TPL_1438_Templer": {
         "gm_dialogs": {},
@@ -8089,7 +8089,7 @@
             "Tpl_1438_Templer_WHY_Info_13_04": "Ядовитая. И только Кор Галом знает, как готовить из нее эликсиры.",
             "Tpl_1438_Templer_ZANGEN_Info_13_02": "Это не так-то просто. Но я могу тебя научить."
         },
-        "voice": "00"
+        "voice": "13"
     },
     "TPL_1439_GorNaDrak": {
         "gm_dialogs": {},
@@ -8110,7 +8110,7 @@
         "gm_dialogs": {},
         "name": "AME_Templer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "13"
     },
     "TPL_1441_Templer": {
         "gm_dialogs": {},
@@ -8121,7 +8121,7 @@
             "Info_TPL_1441_FirstWarn_Condition_YBERION_13_02": "Лжецам у нас обычно вырывают язык, так что хорошенько подумай, прежде чем говорить.",
             "Info_TPL_1441_LastWarn_13_01": "Еще один шаг, и ты покойник!"
         },
-        "voice": "00"
+        "voice": "13"
     },
     "TPL_1442_Templer": {
         "gm_dialogs": {},
@@ -8138,25 +8138,25 @@
         "gm_dialogs": {},
         "name": "AME_Templer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "13"
     },
     "TPL_1444_Templer": {
         "gm_dialogs": {},
         "name": "AME_Templer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "13"
     },
     "TPL_1445_Templer": {
         "gm_dialogs": {},
         "name": "AME_Templer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "13"
     },
     "TPL_1446_Templer": {
         "gm_dialogs": {},
         "name": "AME_Templer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "13"
     },
     "TPL_1447_Templer": {
         "gm_dialogs": {},
@@ -8292,7 +8292,7 @@
         "gm_dialogs": {},
         "name": "AME_Templer",
         "orig_dialogs": {},
-        "voice": "00"
+        "voice": "13"
     },
     "VLK_5001_Buddler": {
         "gm_dialogs": {},

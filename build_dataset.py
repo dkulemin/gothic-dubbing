@@ -1,6 +1,7 @@
 from pathlib import Path
-from typing import List, Tuple
-import json
+import re
+
+from datasets import Dataset, Audio
 
 
 AVAILABLE_MODS = [
@@ -16,20 +17,62 @@ MOD_INFO = {
 }
 
 
-def get_data(npcs_path: Path, speech_path: Path) -> List[Tuple[str, str, str]]:
-    npcs_json = json.loads(Path("Goldenmod/npcs.json").read_text())
-    available_audios = {
-        audio.stem.lower(): audio
-        for audio in list(speech_path.glob("**/*"))
-    }
-    result = list()
-    for npc_id, npc_data in npcs_json.items():
-        for dialog_id, text in npc_data["orig_dialogs"].items():
-            audio_path = available_audios.get(dialog_id.lower())
-            if audio_path:
-                result.append((npc_id, text, audio_path.as_posix()))
-    return result
+SPEECH_PATH = Path("/Users/d.kulemin/Library/CloudStorage/GoogleDrive-blablamaildk@gmail.com/Мой диск/GOTHIC/orig/_WORK/DATA/SOUND/SPEECH/")
+ORIG_PATH = Path("gothic-1-classic-scripts-more-updated/unified/Unified-RU-Snowball/_work/Data/Scripts/Content/Story")
+
+
+def get_data() -> Dataset:
+    data = []
+    available_audios = {audio.stem.lower(): audio for audio in SPEECH_PATH.glob("*")}
+    missions_path = ORIG_PATH / "Missions"
+    npc_path = ORIG_PATH / "NPC"
+    npc_ids_and_paths = {path.stem.lower(): path for path in npc_path.glob("*")}
+
+    for mission_path in missions_path.glob("*"):
+        mission = mission_path.read_text(encoding="windows-1251")
+        npc_id = re.search(r"npc\s*=\s*(\w+)", mission, flags=re.IGNORECASE)
+        npc_id = npc_id.group(1).lower() if npc_id else "-"
+        if npc_id in npc_ids_and_paths:
+            npc = npc_ids_and_paths[npc_id].read_text(encoding="windows-1251")
+            npc_voice_id = re.search(r"voice\s*=\s*(\d+)", npc, flags=re.IGNORECASE)
+            npc_voice_id = npc_voice_id.group(1).zfill(2) if npc_voice_id else "00"
+        else:
+            npc_voice_id = "00"
+
+        npc_dialogs = re.findall(
+            r'AI_Output\s*\(self,\s*.*,\s*\"(\w+)\"\);\s*//(.*)',
+            mission,
+            flags=re.IGNORECASE
+        )
+        pc_hero_dialogs = re.findall(
+            r'AI_Output\s*\(.*,\s*self,\s*\"(\w+)\"\);\s*//(.*)',
+            mission,
+            flags=re.IGNORECASE
+        )
+
+        for dialogs, vid in [(npc_dialogs, npc_voice_id), (pc_hero_dialogs, "15")]:
+            for dialog_id, text in dialogs:
+                if dialog_id.lower() in available_audios:
+                    _vid = vid
+                    if _vid == "00":
+                        _vid = dialog_id.split("_")[-2]
+                    data.append(
+                        {
+                            "source": _vid,
+                            "text": text.strip(),
+                            "audio": available_audios[dialog_id.lower()].as_posix()
+                        }
+                    )
+                else:
+                    print("`%s`: `%s` is not found!" % (dialog_id, text.strip()))
+    return Dataset.from_list(data).cast_column("audio", Audio())
 
 
 if __name__ == "__main__":
-    print(get_data(MOD_INFO["GM"]["NPC_PATH"], MOD_INFO["GM"]["ORIG_SPEECH_PATH"]))
+    ## export DYLD_LIBRARY_PATH="/usr/local/lib:$DYLD_LIBRARY_PATH"
+
+    ds = get_data()
+    print(ds[0])
+
+    ds.save_to_disk("data/gothic_orig_ru_dialogues")
+    ds.push_to_hub("gothic_orig_ru_dialogues")

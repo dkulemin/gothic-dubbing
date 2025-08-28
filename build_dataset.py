@@ -113,6 +113,7 @@ def build_ljspeech_dataset():
                         ), file=fout)
                 else:
                     print("`%s`: `%s` is not found!" % (dialog_id, text.strip()))
+    shutil.make_archive("data/ljspeech_gothic", "zip", "data/ljspeech_gothic")
 
 
 if __name__ == "__main__":

@@ -106,7 +106,7 @@ def build_ljspeech_dataset():
                         _vid = dialog_id.split("_")[-2]
                     Path(f"data/ljspeech_gothic/{_vid}/wavs").mkdir(parents=True, exist_ok=True)
                     audio_file = available_audios[dialog_id.lower()]
-                    shutil.copy(audio_file, f"data/ljspeech_gothic/{_vid}/wavs/{audio_file.name}")
+                    shutil.copy(audio_file, f"data/ljspeech_gothic/{_vid}/wavs/{audio_file.stem}.wav")
                     with open(f"data/ljspeech_gothic/{_vid}/metadata.txt", "a") as fout:
                         print("%s|%s|%s" % (
                             available_audios[dialog_id.lower()].stem, text.strip(), text.strip()

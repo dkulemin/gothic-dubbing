@@ -101,10 +101,10 @@
 |Info_Bloodwyn_Gilbert_NO_15_00|У меня нет столько руды.|[link](https://drive.google.com/file/d/1Pvl3_pwMk8Uvf3jOiPnDqbjniY1GNPkA/view?usp=sharing)|XTTS||
 |Info_Bloodwyn_Gilbert_YES_15_00|Вот возьми.|[link](https://drive.google.com/file/d/1Pwdok22TNHs_0DPzX3uoT4DoQCrbbJhR/view?usp=sharing)|XTTS||
 |Info_Bloodwyn_Gilbert_YES_15_01|Эй! Теперь скажи мне что украл Жильбер.|[link](https://drive.google.com/file/d/1PxCGUWpRyOM9J3MsB5nDil-bPuQQfZ7f/view?usp=sharing)|XTTS||
-|Info_CoErpresser_Exit_Info_15_00|Постой!|[link](https://drive.google.com/file/d/1PyDTFaBlfU5kmj1Bw_6gduDCAd3eKP9T/view?usp=sharing)|Silero||
-|Info_CorAngar_HealthWater_OK_Success_15_00|Вот эликсир для Ю'Бериона.|[link](https://drive.google.com/file/d/1PykA5DgABKK-w5zajmd4RCBZmW_Cvj52/view?usp=sharing)|Silero||
-|Info_CorAngar_HealthWater_Running_15_00|Я собрал травы.|[link](https://drive.google.com/file/d/1PzIwtqRv_Mzp3c33BU3KLfxwS6LeCCwU/view?usp=sharing)|Silero||
-|Info_Cronos_YBERION1_15_01|Ю'Берион, глава Лагеря Сектантов, находится без сознания!|[link](https://drive.google.com/file/d/1Q-JqhW24Jqr6N-_SfoC1J325JcqvEOQY/view?usp=sharing)|Silero||
+|Info_CoErpresser_Exit_Info_15_00|Постой!|[link](https://drive.google.com/file/d/1PyDTFaBlfU5kmj1Bw_6gduDCAd3eKP9T/view?usp=sharing)|XTTS||
+|Info_CorAngar_HealthWater_OK_Success_15_00|Вот эликсир для Ю'Бериона.|[link](https://drive.google.com/file/d/1PykA5DgABKK-w5zajmd4RCBZmW_Cvj52/view?usp=sharing)|XTTS||
+|Info_CorAngar_HealthWater_Running_15_00|Я собрал травы.|[link](https://drive.google.com/file/d/1PzIwtqRv_Mzp3c33BU3KLfxwS6LeCCwU/view?usp=sharing)|XTTS||
+|Info_Cronos_YBERION1_15_01|Ю'Берион, глава Лагеря Сектантов, находится без сознания!|[link](https://drive.google.com/file/d/1Q-JqhW24Jqr6N-_SfoC1J325JcqvEOQY/view?usp=sharing)|XTTS||
 |Info_GorHanis_ChargeGood_15_01|Да, я готов.||||
 |Info_Gorn_PROHOD_FOUND_15_01|Да, они могли пройти через земли орков.||||
 |Info_Gorn_PROHOD_FOUND_15_02|Ладно, я пошел.||||
@@ -491,7 +491,7 @@
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
 |DIA_Skip_TRADE_SWORD_12_00|Я даю по 100 кусков руды за одим меч.||||
-|DIA_Skip_TRADE_SWORD_NO|Я зайду позже.|[link](https://drive.google.com/file/d/1MjL2AclHVYgaRsyiyusqKwOacv_zchOZ/view?usp=sharing)|Silero|Реплика PC_Hero|
+|DIA_Skip_TRADE_SWORD_NO|Я зайду позже.|[link](https://drive.google.com/file/d/1MjL2AclHVYgaRsyiyusqKwOacv_zchOZ/view?usp=sharing)|XTTS|Реплика PC_Hero|
 |GRD_211_Skip_Gilbert_Info_12_01|Да, он работал здесь несколько месяцев.||||
 |GRD_211_Skip_Gilbert_Info_12_02|Но его не видели в лагере уже очень давно.||||
 
@@ -577,7 +577,7 @@
 |:---|:---|:---:|:---:|:---|
 |DIA_Darrion_TRADE_SWORD_11_00|Хорошо! Так я смогу быстрее подготовить оружие для наших стражей.|[link](https://drive.google.com/file/d/1M_OLdn6D78VzLQVcL1CdYtV7ujyJrOFI/view?usp=sharing)|Silero||
 |DIA_Darrion_TRADE_SWORD_11_01|Я дам тебе 80 кусков руды за каждый меч.|[link](https://drive.google.com/file/d/1M_c088AM39PY4lFYAJFX0722btlbibVw/view?usp=sharing)|Silero||
-|DIA_Darrion_TRADE_SWORD_NO|Я зайду позже.|[link](https://drive.google.com/file/d/1MaLaXYC4zl2vuUd_B6Srg4WeqptYVbhs/view?usp=sharing)|Silero|Реплика PC_Hero|
+|DIA_Darrion_TRADE_SWORD_NO|Я зайду позже.|[link](https://drive.google.com/file/d/1MaLaXYC4zl2vuUd_B6Srg4WeqptYVbhs/view?usp=sharing)|XTTS|Реплика PC_Hero|
 
 
 ## Фортуно (NOV_1357_Fortuno)
@@ -1015,7 +1015,7 @@
 |DIA_Huno_HowsYourBusiness_09_04|Лучше бы сам что-нибудь сделал!|[link](https://drive.google.com/file/d/1Mov8EN9eYN1mPDHK0VmgLjpMYVc0bJvi/view?usp=sharing)|Silero||
 |DIA_Huno_LEARNSMITH_09_09|И ты можешь продавать мне свои мечи.|[link](https://drive.google.com/file/d/1Mrm3HQGS6IPrGLl__sMxPBs4EhhnmR_2/view?usp=sharing)|Silero||
 |DIA_Huno_TRADE_SWORD_09_00|Я заплачу тебе 70 кусков руды за каждый меч.|[link](https://drive.google.com/file/d/1MsGLC5tZhznzKBjNQt1MG7sxieyciL_u/view?usp=sharing)|Silero||
-|DIA_Huno_TRADE_SWORD_NO|Я зайду позже.|[link](https://drive.google.com/file/d/1MinDK_MP0wJxSvacbHr2y-Tyog2Q3D31/view?usp=sharing)|Silero|Реплика PC_Hero|
+|DIA_Huno_TRADE_SWORD_NO|Я зайду позже.|[link](https://drive.google.com/file/d/1MinDK_MP0wJxSvacbHr2y-Tyog2Q3D31/view?usp=sharing)|XTTS|Реплика PC_Hero|
 
 
 ## Граво (VLK_572_Gravo)

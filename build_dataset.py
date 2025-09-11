@@ -97,13 +97,13 @@ def build_ljspeech_dataset():
             mission,
             flags=re.IGNORECASE
         )
-        
-        for dialogs, vid in [(npc_dialogs, npc_voice_id), (pc_hero_dialogs, "15")]:
+
+        for dialogs, vid in [(npc_dialogs, "%s/%s" % (npc_voice_id, npc_id)), (pc_hero_dialogs, "15")]:
             for dialog_id, text in dialogs:
                 if dialog_id.lower() in available_audios:
                     _vid = vid
-                    if _vid == "00":
-                        _vid = dialog_id.split("_")[-2]
+                    if _vid.startswith("00"):
+                        _vid = "%s/%s" % (dialog_id.split("_")[-2], npc_id)
                     Path(f"data/ljspeech_gothic/{_vid}/wavs").mkdir(parents=True, exist_ok=True)
                     audio_file = available_audios[dialog_id.lower()]
                     shutil.copy(audio_file, f"data/ljspeech_gothic/{_vid}/wavs/{audio_file.stem}.wav")
@@ -113,6 +113,7 @@ def build_ljspeech_dataset():
                         ), file=fout)
                 else:
                     print("`%s`: `%s` is not found!" % (dialog_id, text.strip()))
+
     shutil.make_archive("data/ljspeech_gothic", "zip", "data/ljspeech_gothic")
 
 

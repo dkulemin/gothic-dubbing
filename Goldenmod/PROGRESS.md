@@ -152,7 +152,7 @@
 |Info_Saturas_QUENTIN_15_01|Квентин погиб?|[link](https://drive.google.com/file/d/1MHBzj2MZ5UZ3BlRXgzSAFQ02uXTs5arL/view?usp=sharing)|XTTS||
 |Info_Sld_11_DieLage_15_00|Ты в порядке?|[link](https://drive.google.com/file/d/1xJqvQrQe8IJpdvITDnwXg5krjdwf5VBc/view?usp=sharing)|XTTS||
 |Info_Thorus_Gilbert_15_00|Я слышал тебя интересует Жильбер?|[link](https://drive.google.com/file/d/1OA338XG9BBtHEzhtrSzX0ME0i5t414oL/view?usp=sharing)|XTTS||
-|Info_Thorus_Gilbert_15_01|Даже то, что я нашел его убежище?||||
+|Info_Thorus_Gilbert_15_01|Даже то, что я нашел его убежище?|[link](https://drive.google.com/file/d/1JXMpuQqcL544y2kyO8pCNZ3Et0hAHek5/view?usp=sharing)|XTTS||
 |Info_Thorus_Gilbert_15_02|Поверь мне.|[link](https://drive.google.com/file/d/1KdhLdlluoynKAZwygp3ERpNzjmp7gYqI/view?usp=sharing)|XTTS||
 |Info_Thorus_Gilbert_ABOUT_15_00|А что мне будет, если я соглашусь?|[link](https://drive.google.com/file/d/1d5KvJAp7SRIXngRBhEktnxkhxZJdIQQK/view?usp=sharing)|XTTS||
 |Info_Thorus_Gilbert_Key_15_00|Я забрал у Жильбера этот ключ.|[link](https://drive.google.com/file/d/1xuDQyqRy5X2iWzt3YKcTKlQUhZ1gJ5AM/view?usp=sharing)|XTTS||
@@ -175,7 +175,7 @@
 |KDW_600_Saturas_TIMESUP1_Info_15_10|Тогда, я пойду.|[link](https://drive.google.com/file/d/11cCGtwrBGVfCFNTEHGGkXqteztsUj68s/view?usp=sharing)|XTTS||
 |KDW_605_Riordian_ALCHEMY_15_00|Ты можешь обучить меня алхимии?|[link](https://drive.google.com/file/d/1VV54zpt6JAQWQSAqNk-o5bUTDlwPV0IH/view?usp=sharing)|XTTS||
 |KDW_605_Riordian_Learn_ALCHEMY_15_00|Я хочу изучить алхимию.|[link](https://drive.google.com/file/d/1FGhULtrC0IRzK3U0ZxOZJuR5sGmZo5vT/view?usp=sharing)|XTTS||
-|KDW_605_Riordian_Learn_POTIONS_15_00|Научи меня готовить...||||
+|KDW_605_Riordian_Learn_POTIONS_15_00|Научи меня готовить...|[link](https://drive.google.com/file/d/1f1Fnl_PdI7TwQYz8-HRSEne6Y_Huv3xp/view?usp=sharing)|XTTS||
 |KDW_605_Riordian_Learn_POTIONS_BACK_15_00|Я зайду в другой раз.|[link](https://drive.google.com/file/d/13qbLyIczAAJaiO2He-gf-OZJ5joBFJE7/view?usp=sharing)|XTTS||
 |KDW_605_Riordian_Learn_POTIONS_HASTE_15_00|... эликсир скорости.|[link](https://drive.google.com/file/d/11GlpvpbruMtnaWfe1aIPPLitoM3j1mJX/view?usp=sharing)|XTTS||
 |KDW_605_Riordian_Learn_POTIONS_HEALTH_15_00|... целебный эликсир.|[link](https://drive.google.com/file/d/1C_jud5i2edh3y0wTRYi7DF0m5Bswq84i/view?usp=sharing)|XTTS||

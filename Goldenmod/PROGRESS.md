@@ -117,158 +117,158 @@
 |Info_Jackal_Gilbert_15_03|Торус поручил мне вернуть украденное.|[link](https://drive.google.com/file/d/1rAFmDPXFAsD5yOv3YdFZKk4oYtE9AZkr/view?usp=sharing)|XTTS||
 |Info_Jackal_Gilbert_15_04|Так ты поможешь мне?|[link](https://drive.google.com/file/d/1JPqbVN-EQJSUhycC0vjyRHlPU92ekf_G/view?usp=sharing)|XTTS||
 |Info_Jackal_Gilbert_15_05|ЧТО ИМЕННО украл Жильбер у Торуса?|[link](https://drive.google.com/file/d/1GF37VYkldUdKhKGLRILZv8ExLWEqVY0z/view?usp=sharing)|XTTS||
-|Info_Kirgo_Quentin_15_00|Ты что-нибудь знаешь о доставке товаров в шахту?|[link]()|XTTS||
-|Info_Kirgo_Quentin_15_01|Сколько стражников будут сопровождать следущую доставку груза?|[link]()|XTTS||
-|Info_Milten_YBerion_15_00|Мне нужно Кольцо Стихий.|[link]()|XTTS||
-|Info_Milten_YBerion_A_15_00|Для проведения ритуала огня.|[link]()|XTTS||
-|Info_Milten_YBerion_B_15_00|Для одного эксперимента.|[link]()|XTTS||
-|Info_Milten_YBerion_C_15_00|Я работаю на одного гуру.|[link]()|XTTS||
-|Info_Milten_YBerion_D_15_00|Я помогаю господину Ю'Бериону.|[link]()|XTTS||
-|Info_Milten_YBerion_E_15_00|Он просто проведет один эксперимент.|[link]()|XTTS||
-|Info_Milten_YBerion_F_15_00|Он хочет вернуть послушников к истинной вере.|[link]()|XTTS||
-|Info_Milten_YBerion_NOT_PAY_15_00|Это слишком дорого для меня.|[link]()|XTTS||
-|Info_Milten_YBerion_OK_15_00|Так ты даешь мне кольцо?|[link]()|XTTS||
-|Info_Milten_YBerion_PAY_15_00|Ладно, я куплю кольцо.|[link]()|XTTS||
-|Info_Mine_Sld_8_DieLage_15_00|Все в порядке?|[link]()|XTTS||
-|Info_Nefarius_OCNews_15_02|Ладно, я пойду.|[link]()|XTTS||
-|Info_Org_6_WichtigePersonen_15_00|Кто здесь главный?|[link]()|XTTS||
-|Info_Org_860_Renyu_BDT_15_00|Мне кажется, Квентин забирает почти все товары.|[link]()|XTTS||
-|Info_Org_861_Killian_BDT_15_00|По-моему, Квентин берет слишком много товара.|[link]()|XTTS||
-|Info_Org_868_Raeuber_EXIT_15_00|Что именно я должен сделать?|[link]()|XTTS||
-|Info_Org_869_Raeuber_TRADE_15_00|Ты что-нибудь продаешь?|[link]()|XTTS||
-|Info_Pacho_GRD_FM_15_02|Я пришел, как только мне сообщил Торус.|[link]()|XTTS||
-|Info_Pacho_GRD_FM_END_15_02|Ну, я...|[link]()|XTTS||
-|Info_Saturas_ABANDONEDMINE_15_00|В Заброшенной шахте происходят ужасные вещи.|[link]()|XTTS||
-|Info_Saturas_ABANDONEDMINE_15_01|В дальнем проходе послелился демон. И он напал на воров и намеников, обследовавших шахту.|[link]()|XTTS||
-|Info_Saturas_ABANDONEDMINE_15_02|Многие погибли и превратились в нежить. А те, кто выжил, стали слугами этого демона.|[link]()|XTTS||
-|Info_Saturas_ABANDONEDMINE_15_03|Блейду удалось сбежать, и мы вместе вернулись в шахту чтобы уничтожить демона.|[link]()|XTTS||
-|Info_Saturas_ABANDONEDMINE_15_04|Но обычное оружие не причинает ему никакого урона.|[link]()|XTTS||
-|Info_Saturas_GURU_15_01|Мы можем попросить гуру о помощи.|[link]()|XTTS||
-|Info_Saturas_GURU_15_03|У нас нет другого выхода.|[link]()|XTTS||
-|Info_Saturas_GURU_15_06|Я уверен, Ю'Берион согласится участвовать в осуществлении нашего плана.|[link]()|XTTS||
-|Info_Saturas_GURU_OK_15_00|Да... Может мы уже начнем уничтожение барьера?|[link]()|XTTS||
-|Info_Saturas_GURU_OK_15_01|Но я тоже маг.|[link]()|XTTS||
-|Info_Saturas_QUENTIN_15_00|И?|[link]()|XTTS||
-|Info_Saturas_QUENTIN_15_01|Квентин погиб?|[link]()|XTTS||
-|Info_Sld_11_DieLage_15_00|Ты в порядке?|[link]()|XTTS||
-|Info_Thorus_Gilbert_15_00|Я слышал тебя интересует Жильбер?|[link]()|XTTS||
-|Info_Thorus_Gilbert_15_01|Даже то, что я нашел его убежище?|[link]()|XTTS||
-|Info_Thorus_Gilbert_15_02|Поверь мне.|[link]()|XTTS||
-|Info_Thorus_Gilbert_ABOUT_15_00|А что мне будет, если я соглашусь?|[link]()|XTTS||
-|Info_Thorus_Gilbert_Key_15_00|Я забрал у Жильбера этот ключ.|[link]()|XTTS||
-|Info_Thorus_Gilbert_Key_15_01|Но у него больше ничего не было.|[link]()|XTTS||
-|Info_Thorus_Gilbert_OK_15_00|Кажется я нашел твою вещь. Это кольцо.|[link]()|XTTS||
-|Info_Thorus_Gilbert_OK_15_01|Хм. Как на счет награды?|[link]()|XTTS||
-|Info_Thorus_Gilbert_YES_15_00|Хорошо. Я согласен.|[link]()|XTTS||
-|KDF_401_Damarok_ALCHEMY_15_00|Ты можешь обучить меня приготовлению эликсиров?|[link]()|XTTS||
-|KDF_401_Damarok_Learn_ALCHEMY_15_00|Я хочу изучить алхимию.|[link]()|XTTS||
-|KDF_401_Damarok_Learn_POTIONS_BACK_15_00|Я зайду в другой раз.|[link]()|XTTS||
-|KDF_401_Damarok_Learn_POTIONS_HASTE_15_00|... эликсир быстроты.|[link]()|XTTS||
-|KDF_401_Damarok_Learn_POTIONS_HEALTH_15_00|... вытяжка исцеления.|[link]()|XTTS||
-|KDF_401_Damarok_Learn_POTIONS_MANA_15_00|... вытяжка магической энергии.|[link]()|XTTS||
-|KDW_600_Saturas_TIMESUP1_Info_15_00|Да, он пока не знает, как взорвать гору...|[link]()|XTTS||
-|KDW_600_Saturas_TIMESUP1_Info_15_01|Он работает над этом.|[link]()|XTTS||
-|KDW_600_Saturas_TIMESUP1_Info_15_02|Я скажу тебе, когда что-нибудь выяснится.|[link]()|XTTS||
-|KDW_600_Saturas_TIMESUP1_Info_15_07|Я говорил с Ксардасом. Он уверен, что взрыв магической руды не уничтожит барьер.|[link]()|XTTS||
-|KDW_600_Saturas_TIMESUP1_Info_15_08|Ксардас изучал оркские пророчества.|[link]()|XTTS||
-|KDW_600_Saturas_TIMESUP1_Info_15_09|Я, кажется, знаю, как нам выбраться отсюда.|[link]()|XTTS||
-|KDW_600_Saturas_TIMESUP1_Info_15_10|Тогда, я пойду.|[link]()|XTTS||
-|KDW_605_Riordian_ALCHEMY_15_00|Ты можешь обучить меня алхимии?|[link]()|XTTS||
-|KDW_605_Riordian_Learn_ALCHEMY_15_00|Я хочу изучить алхимию.|[link]()|XTTS||
-|KDW_605_Riordian_Learn_POTIONS_15_00|Научи меня готовить...|[link]()|XTTS||
-|KDW_605_Riordian_Learn_POTIONS_BACK_15_00|Я зайду в другой раз.|[link]()|XTTS||
-|KDW_605_Riordian_Learn_POTIONS_HASTE_15_00|... эликсир скорости.|[link]()|XTTS||
-|KDW_605_Riordian_Learn_POTIONS_HEALTH_15_00|... целебный эликсир.|[link]()|XTTS||
-|KDW_605_Riordian_Learn_POTIONS_MANA_15_00|... эликсир магической энергии.|[link]()|XTTS||
-|Nov_1371_BaalNetbek_Bloodwood_Again_Info_15_01|У меня есть еще одно семя бука...|[link]()|XTTS||
-|Nov_1371_BaalNetbek_Bloodwood_Info_15_01|Я принес тебе семя бука...|[link]()|XTTS||
-|Nov_1371_BaalNetbek_Towerwood_Info_15_01|Я принес тебе семя дуба...|[link]()|XTTS||
-|Nov_9000_Escaped_Amulette_A_15_00|Я куплю амулет.|[link]()|XTTS||
-|Nov_9000_Escaped_Amulette_A_15_02|У меня не хватает руды, ты не можешь снизить цену?|[link]()|XTTS||
-|Nov_9000_Escaped_Amulette_B_15_00|Мне придется сказать гуру, где вы находитесь.|[link]()|XTTS||
-|Nov_9000_Escaped_Amulette_C_15_00|Тогда я заберу амулет силой!|[link]()|XTTS||
-|Nov_9000_Escaped_Amulette_Info_15_00|Вы сбежали из лагеря!|[link]()|XTTS||
-|Nov_9000_Escaped_Amulette_Info_15_01|Я только хочу вернуть амулет, который вы украли у господина Ю'Бериона.|[link]()|XTTS||
-|Nov_9000_Escaped_Exit_Info_15_00|Постой!|[link]()|XTTS||
-|Nov_9001_Escaped_Exit_Info_15_00|Эй!|[link]()|XTTS||
-|Org_818_Ratford_Map_15_00|Я принес тебе карту.|[link]()|XTTS||
-|Org_818_Ratford_Map_BUY_15_00|Я купил ее у картографа.|[link]()|XTTS||
-|Org_818_Ratford_Map_STEAL_15_00|Я стянул ее у картографа.|[link]()|XTTS||
-|Org_858_Quentin_BULLIT_15_00|И что ты можешь мне предложить?|[link]()|XTTS||
-|Org_858_Quentin_BULLIT_15_01|Эту мразь? С удовольствием. У меня с ним давние счеты.|[link]()|XTTS||
-|Org_858_Quentin_BULLIT_15_02|Понятно. А что я получу за это?|[link]()|XTTS||
-|Org_858_Quentin_BULLIT_15_03|Вижу, дело намечается серьезное.|[link]()|XTTS||
-|Org_858_Quentin_BULLIT_KILLED_15_00|Я убил его.|[link]()|XTTS||
-|Org_858_Quentin_BULLIT_KILLED_15_02|Где то, что ты обещал?!|[link]()|XTTS||
-|Org_858_Quentin_BULLIT_KILLED_15_03|Другое дело.|[link]()|XTTS||
-|Org_858_Quentin_BULLIT_KILLED_15_04|Хорошее вино.|[link]()|XTTS||
-|Org_858_Quentin_BULLIT_LATER_15_00|Я принес бумаги.|[link]()|XTTS||
-|Org_858_Quentin_GORN_ABOUT_15_00|Почему ты сам не пойдешь в Cтарый лагерь?|[link]()|XTTS||
-|Org_858_Quentin_GORN_Info_15_00|Ты тот самый Квентин?|[link]()|XTTS||
-|Org_858_Quentin_GORN_Info_15_01|Горн сказал, ты можешь предложить мне работу.|[link]()|XTTS||
-|Org_858_Quentin_GORN_Info_15_02|Я ищу работу.|[link]()|XTTS||
-|Org_858_Quentin_GORN_NO_15_00|Нет, это не для меня.|[link]()|XTTS||
-|Org_858_Quentin_GORN_OK_Info_15_00|Я выполнил задание.|[link]()|XTTS||
-|Org_858_Quentin_GORN_OK_Info_15_02|Караван отправится через день после того, как Ян пришлет список товаров Торусу.|[link]()|XTTS||
-|Org_858_Quentin_GORN_OK_Info_15_03|Его как обычно будут сопровождать 5, или 7 стражников.|[link]()|XTTS||
-|Org_858_Quentin_GORN_YES_15_00|Хорошо, я приступлю сегодня же.|[link]()|XTTS||
-|Org_858_Quentin_GUARD_Info_15_01|Я просто гулял по лесу...|[link]()|XTTS||
-|Org_858_Quentin_QT_OK_15_00|Некоторые бандиты возмущены тем, что ты берешь себе слишком много.|[link]()|XTTS||
-|Org_858_Quentin_QT_OK_15_01|Половина твоего лагеря.|[link]()|XTTS||
-|Org_858_Quentin_QT_OK_15_02|(ухмыляясь) Хорошо.|[link]()|XTTS||
-|Org_863_Raeuber_BDT_OK_15_00|Квентин будет давать вам больше вещей.|[link]()|XTTS||
-|Org_864_Raeuber_BDT_OK_15_00|Теперь Квентин будет давать вам больше товаров.|[link]()|XTTS||
-|Org_867_Raeuber_About_15_01|А кто это сделал?|[link]()|XTTS||
-|Org_867_Raeuber_About_15_02|И кто же теперь возглавляет лагерь?|[link]()|XTTS||
-|Org_867_Raeuber_Banditencamp_15_00|А что это за место?|[link]()|XTTS||
-|Org_867_Raeuber_GUARD_Info_15_01|А в чем проблема?|[link]()|XTTS||
-|Org_867_Raeuber_Organisators_15_00|Вы воры из Нового лагеря?|[link]()|XTTS||
-|Org_867_Raeuber_Organisators_15_01|А где остальные?|[link]()|XTTS||
-|Org_867_Raeuber_WereIsMain_15_00|Где можно найти Квентина?|[link]()|XTTS||
-|Org_868_Raeuber_BDT_15_00|А ты не думал обчистить эту пещеру и забрать все себе?|[link]()|XTTS||
-|Org_868_Raeuber_BDT_OK_15_00|Квентин согласился отдавать вам больше вещей.|[link]()|XTTS||
-|Org_868_Raeuber_BDT_OK_15_01|Теперь он будет забирать только треть товара.|[link]()|XTTS||
-|Org_868_Raeuber_GUARD_15_00|Тебе не кажется, что это несправедливо?|[link]()|XTTS||
-|Org_868_Raeuber_GoAway_15_00|Не могу? А что находится в этой пещере?|[link]()|XTTS||
-|Org_868_Raeuber_GoAway_15_01|Тогда где остальная половина?|[link]()|XTTS||
-|SLD_704_Blade_ABANDONEDMINE_15_00|Успокойся. Что произошло?|[link]()|XTTS||
-|SLD_704_Blade_ABANDONEDMINE_15_01|А что случилось в шахте?|[link]()|XTTS||
-|SLD_704_Blade_ABANDONEDMINE_15_02|А где эти люди, с которыми ты ходил в шахту?|[link]()|XTTS||
-|SLD_704_Blade_ABANDONEDMINE_ABOUT_15_00|Здесь все спокойно?|[link]()|XTTS||
-|SLD_704_Blade_ABANDONEDMINE_WHAT_15_01|А как же я? Я говорил с ним!|[link]()|XTTS||
-|SLD_704_Blade_ABANDONEDMINE_WHAT_15_02|Вроде бы да.|[link]()|XTTS||
-|SLD_704_Blade_AFTER_ABANDONEDMINE_15_00|Что?!|[link]()|XTTS||
-|SLD_704_Blade_AXT_15_00|Я нашел твой топор.|[link]()|XTTS||
-|SLD_704_Blade_GO_15_00|Идем в шахту.|[link]()|XTTS||
-|SLD_704_Blade_MINE_15_00|Могу я чем-нибудь помочь?|[link]()|XTTS||
-|SLD_704_Blade_MINE_15_01|Да, я хочу выяснить что там произошло.|[link]()|XTTS||
-|SLD_704_Blade_MINE_15_02|И где же твой топор?|[link]()|XTTS||
-|SLD_704_Blade_MINE_15_03|Я найду твой топор.|[link]()|XTTS||
-|SLD_704_Blade_NEAR_MINE_BEER_15_00|Пиво.|[link]()|XTTS||
-|SLD_704_Blade_NEAR_MINE_BOOZE_15_00|Шнапс.|[link]()|XTTS||
-|SLD_704_Blade_NEAR_MINE_NOTHING_15_00|Извини, я не прихватил с собой.|[link]()|XTTS||
-|SLD_704_Blade_NEAR_MINE_WINE_15_00|Вино.|[link]()|XTTS||
-|SLD_704_Blade_TO_MINE_15_00|Так мы идем, или нет?|[link]()|XTTS||
-|SLD_704_Blade_TO_MINE_15_01|Хватит ныть! Ты кто – наемник или трус?|[link]()|XTTS||
-|SLD_9200_Soeldner_ABANDONEDMINE_15_00|Здесь не происходило ничего необычного?|[link]()|XTTS||
-|SLD_9704_Blade_AFTER_DMT_ABANDONEDMINE_15_00|Лорда демонов невозможно убить обычным оружием.|[link]()|XTTS||
-|SLD_9704_Blade_AFTER_DMT_ABANDONEDMINE_15_01|Выжившие люди Лареса теперь стали слугами демонов. Мы должны скорее выбираться отсюда.|[link]()|XTTS||
-|SLD_9704_Blade_BEFORE_DMT_ABANDONEDMINE_15_00|Я должен справиться с ними один?|[link]()|XTTS||
-|SLD_9704_Blade_BEFORE_DMT_ABANDONEDMINE_15_01|Посмотрим, что мне удасться сделать.|[link]()|XTTS||
-|SLD_9704_Blade_DMT_ABANDONEDMINE_15_00|Хм, не похоже, чтобы здесь недавно происходил бой. Странно.|[link]()|XTTS||
-|SLD_9704_Blade_INSIDE_ABANDONEDMINE_15_00|Что в этих ящиках?|[link]()|XTTS||
-|SLD_9704_Blade_INSIDE_ABANDONEDMINE_15_01|Успокойся. По-моему, мы пришли сюда разобраться с демонами и найти этого вора, если он еще в шахте.|[link]()|XTTS||
-|SLD_9704_Blade_INSIDE_ABANDONEDMINE_OK_15_00|Да, идем к выходу.|[link]()|XTTS||
-|SLD_9900_Soeldner_ABANDONEDMINE_15_00|Я пришел сюда с Блейдом.|[link]()|XTTS||
-|SLD_9900_Soeldner_ABANDONEDMINE_15_01|Кто-нибудь выжил?|[link]()|XTTS||
-|SLD_9900_Soeldner_ABANDONEDMINE_15_02|Тогда уходим отсюда!|[link]()|XTTS||
-|SLD_9900_Soeldner_ABANDONEDMINE_15_03|Но почему?|[link]()|XTTS||
-|Stt_311_Fisk_Quentin_15_00|Что ты знаешь о доставке товаров в шахту?|[link]()|XTTS||
-|Thorus_FREEMINE_Info_15_00|Что? Как это могло случиться? Мне нужно немедленно поговорить с Магами Огня.|[link]()|XTTS||
-|Thorus_FREEMINE_Info_15_01|Значит теперь мы остпались без руды?|[link]()|XTTS||
-|Thorus_FREEMINE_KDF_15_00|Вы убили магов огня.|[link]()|XTTS||
-|Thorus_FREEMINE_NO_15_00|Я больше не служу Гомезу.|[link]()|XTTS||
-|Thorus_FREEMINE_YES_15_00|В атаку!|[link]()|XTTS||
+|Info_Kirgo_Quentin_15_00|Ты что-нибудь знаешь о доставке товаров в шахту?|[link](https://drive.google.com/file/d/1-4Vgwv6qrvG-ugfDsBtD6zI2T9rSsfUz/view?usp=sharing)|XTTS||
+|Info_Kirgo_Quentin_15_01|Сколько стражников будут сопровождать следущую доставку груза?|[link](https://drive.google.com/file/d/17AcBf_D8wH_EeBTfNmQB0VT7vhrYTn24/view?usp=sharing)|XTTS||
+|Info_Milten_YBerion_15_00|Мне нужно Кольцо Стихий.|[link](https://drive.google.com/file/d/1b-2b3v1qfPC15O_aR11z_GCg9Dz01h_T/view?usp=sharing)|XTTS||
+|Info_Milten_YBerion_A_15_00|Для проведения ритуала огня.|[link](https://drive.google.com/file/d/1hGKe8uVuOsbq8iyGbGhemL-JSMg_q6zy/view?usp=sharing)|XTTS||
+|Info_Milten_YBerion_B_15_00|Для одного эксперимента.|[link](https://drive.google.com/file/d/1LF133hcK3n0yuIX311Z38f1EUYqtYtfU/view?usp=sharing)|XTTS||
+|Info_Milten_YBerion_C_15_00|Я работаю на одного гуру.|[link](https://drive.google.com/file/d/1MKeNNMv1bky4A7Al__tal1BdA9XiNkKE/view?usp=sharing)|XTTS||
+|Info_Milten_YBerion_D_15_00|Я помогаю господину Ю'Бериону.|[link](https://drive.google.com/file/d/1d_vu6V5I3GuRKgeW39x1IzyzKhqU2GXW/view?usp=sharing)|XTTS||
+|Info_Milten_YBerion_E_15_00|Он просто проведет один эксперимент.|[link](https://drive.google.com/file/d/1U7pqYIJoaUcFQPQYh-9-mkuVXDh5zX1t/view?usp=sharing)|XTTS||
+|Info_Milten_YBerion_F_15_00|Он хочет вернуть послушников к истинной вере.|[link](https://drive.google.com/file/d/1Nsa1zqkRRPhX5KLD7X6T2v8QbVGUWGlF/view?usp=sharing)|XTTS||
+|Info_Milten_YBerion_NOT_PAY_15_00|Это слишком дорого для меня.|[link](https://drive.google.com/file/d/1RaCirivre4xXQDLHgmGZmxnTHHPQQjYT/view?usp=sharing)|XTTS||
+|Info_Milten_YBerion_OK_15_00|Так ты даешь мне кольцо?|[link](https://drive.google.com/file/d/1jzrD7r4xMjg1H2ciW94nWzaj0iVHd58Z/view?usp=sharing)|XTTS||
+|Info_Milten_YBerion_PAY_15_00|Ладно, я куплю кольцо.|[link](https://drive.google.com/file/d/1dzQ-MxJaRGJhr9zGQ7nM-sCJPSnlItOe/view?usp=sharing)|XTTS||
+|Info_Mine_Sld_8_DieLage_15_00|Все в порядке?|[link](https://drive.google.com/file/d/16L-hcYMuPgoqou7nzcKApn62_qoLcBK2/view?usp=sharing)|XTTS||
+|Info_Nefarius_OCNews_15_02|Ладно, я пойду.|[link](https://drive.google.com/file/d/1mcJAxDvMJh9F8otN9qw51l-sJJWm-s9Q/view?usp=sharing)|XTTS||
+|Info_Org_6_WichtigePersonen_15_00|Кто здесь главный?|[link](https://drive.google.com/file/d/1_-nomyHbK6rYWISZKEJr4YLXtVxBMupY/view?usp=sharing)|XTTS||
+|Info_Org_860_Renyu_BDT_15_00|Мне кажется, Квентин забирает почти все товары.|[link](https://drive.google.com/file/d/1zhENG0uyawqpOpIK2k637xyMGBcpYBi_/view?usp=sharing)|XTTS||
+|Info_Org_861_Killian_BDT_15_00|По-моему, Квентин берет слишком много товара.|[link](https://drive.google.com/file/d/1hHQZapI8YoI9WPIqdpBs2igSQn-osoXn/view?usp=sharing)|XTTS||
+|Info_Org_868_Raeuber_EXIT_15_00|Что именно я должен сделать?|[link](https://drive.google.com/file/d/1E3wtFiQcam9fUAFY6IrmVnKB9Uop-Kke/view?usp=sharing)|XTTS||
+|Info_Org_869_Raeuber_TRADE_15_00|Ты что-нибудь продаешь?|[link](https://drive.google.com/file/d/1VbHysjEuoWV2BQdO6MfDcNYe9PnvC16e/view?usp=sharing)|XTTS||
+|Info_Pacho_GRD_FM_15_02|Я пришел, как только мне сообщил Торус.|[link](https://drive.google.com/file/d/1MzzK5pWTnpw1tbPKFIQR9wym773saW-c/view?usp=sharing)|XTTS||
+|Info_Pacho_GRD_FM_END_15_02|Ну, я...|[link](https://drive.google.com/file/d/10Jg0zYWwb6CNovVAtp1FCUoa4nezTZG_/view?usp=sharing)|XTTS||
+|Info_Saturas_ABANDONEDMINE_15_00|В Заброшенной шахте происходят ужасные вещи.|[link](https://drive.google.com/file/d/1IEbhXqw-DMhZdvOxpt-ypfn-mRdmsRgM/view?usp=sharing)|XTTS||
+|Info_Saturas_ABANDONEDMINE_15_01|В дальнем проходе послелился демон. И он напал на воров и намеников, обследовавших шахту.|[link](https://drive.google.com/file/d/11tl-O5j0_2fSVt_YfdIKsNuNXrYEDmRW/view?usp=sharing)|XTTS||
+|Info_Saturas_ABANDONEDMINE_15_02|Многие погибли и превратились в нежить. А те, кто выжил, стали слугами этого демона.|[link](https://drive.google.com/file/d/14pBF2O7qFdKkM8MY5X-3NxuzuZsjo5Yc/view?usp=sharing)|XTTS||
+|Info_Saturas_ABANDONEDMINE_15_03|Блейду удалось сбежать, и мы вместе вернулись в шахту чтобы уничтожить демона.|[link](https://drive.google.com/file/d/1_ZlrwIygmKLWiMQtbWFZ0y4asfOYx5Zt/view?usp=sharing)|XTTS||
+|Info_Saturas_ABANDONEDMINE_15_04|Но обычное оружие не причинает ему никакого урона.|[link](https://drive.google.com/file/d/13WqzIFh4IH3g56BcEqY1s1J118QvOqmp/view?usp=sharing)|XTTS||
+|Info_Saturas_GURU_15_01|Мы можем попросить гуру о помощи.|[link](https://drive.google.com/file/d/1k9YCO3OzfeCCPIXbfVx2YIDUUtS00Qgr/view?usp=sharing)|XTTS||
+|Info_Saturas_GURU_15_03|У нас нет другого выхода.|[link](https://drive.google.com/file/d/1j8w0YIrRSs9iQz539NUKc66m_VJpPUgf/view?usp=sharing)|XTTS||
+|Info_Saturas_GURU_15_06|Я уверен, Ю'Берион согласится участвовать в осуществлении нашего плана.|[link](https://drive.google.com/file/d/1hJcaX4Ft-QyeGBA8fo_B0PXZJ6NL1fTO/view?usp=sharing)|XTTS||
+|Info_Saturas_GURU_OK_15_00|Да... Может мы уже начнем уничтожение барьера?|[link](https://drive.google.com/file/d/1ymGZMXzWchGhmwWa2nD0fxTX4lpyqwW6/view?usp=sharing)|XTTS||
+|Info_Saturas_GURU_OK_15_01|Но я тоже маг.|[link](https://drive.google.com/file/d/17HSQ-GFfrIrsmQYIfgxTV4Ct7ET990bQ/view?usp=sharing)|XTTS||
+|Info_Saturas_QUENTIN_15_00|И?|[link](https://drive.google.com/file/d/1obQJ8OxKUQvn1bv7Zg2Msc_PR5OjSl9s/view?usp=sharing)|XTTS||
+|Info_Saturas_QUENTIN_15_01|Квентин погиб?|[link](https://drive.google.com/file/d/1MHBzj2MZ5UZ3BlRXgzSAFQ02uXTs5arL/view?usp=sharing)|XTTS||
+|Info_Sld_11_DieLage_15_00|Ты в порядке?|[link](https://drive.google.com/file/d/1xJqvQrQe8IJpdvITDnwXg5krjdwf5VBc/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_15_00|Я слышал тебя интересует Жильбер?|[link](https://drive.google.com/file/d/1OA338XG9BBtHEzhtrSzX0ME0i5t414oL/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_15_01|Даже то, что я нашел его убежище?||||
+|Info_Thorus_Gilbert_15_02|Поверь мне.|[link](https://drive.google.com/file/d/1KdhLdlluoynKAZwygp3ERpNzjmp7gYqI/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_ABOUT_15_00|А что мне будет, если я соглашусь?|[link](https://drive.google.com/file/d/1d5KvJAp7SRIXngRBhEktnxkhxZJdIQQK/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_Key_15_00|Я забрал у Жильбера этот ключ.|[link](https://drive.google.com/file/d/1xuDQyqRy5X2iWzt3YKcTKlQUhZ1gJ5AM/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_Key_15_01|Но у него больше ничего не было.|[link](https://drive.google.com/file/d/1LHw3l7IuLDpI_RVhQYX2YsOeImhdvSWP/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_OK_15_00|Кажется я нашел твою вещь. Это кольцо.|[link](https://drive.google.com/file/d/1VXyF00qMd7ytCnEZTRH47jC1zRxMFH2M/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_OK_15_01|Хм. Как на счет награды?|[link](https://drive.google.com/file/d/1He4F8ZBYXV2VTUuH4JZRGLczJCtVxFjA/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_YES_15_00|Хорошо. Я согласен.|[link](https://drive.google.com/file/d/1dG2k4BSPewaL8P7458wawgQJeZVB35pd/view?usp=sharing)|XTTS||
+|KDF_401_Damarok_ALCHEMY_15_00|Ты можешь обучить меня приготовлению эликсиров?|[link](https://drive.google.com/file/d/1IyVC1sJ_3OOUB4oefXTc7pYTFjRNXvFQ/view?usp=sharing)|XTTS||
+|KDF_401_Damarok_Learn_ALCHEMY_15_00|Я хочу изучить алхимию.|[link](https://drive.google.com/file/d/1etV0HPJt6yzPmFYz3O7vTrfGZAtaGrki/view?usp=sharing)|XTTS||
+|KDF_401_Damarok_Learn_POTIONS_BACK_15_00|Я зайду в другой раз.|[link](https://drive.google.com/file/d/1gUa6wBKSIATTpuUfpLGVW_LyaP3VbdmJ/view?usp=sharing)|XTTS||
+|KDF_401_Damarok_Learn_POTIONS_HASTE_15_00|... эликсир быстроты.|[link](https://drive.google.com/file/d/15TLkxKpMmF-bcoijlQq1Bs3FOJOX4Hsj/view?usp=sharing)|XTTS||
+|KDF_401_Damarok_Learn_POTIONS_HEALTH_15_00|... вытяжка исцеления.|[link](https://drive.google.com/file/d/1V5yGTPn8XwvXOsYsklUa_g6QickAkKjU/view?usp=sharing)|XTTS||
+|KDF_401_Damarok_Learn_POTIONS_MANA_15_00|... вытяжка магической энергии.|[link](https://drive.google.com/file/d/1TaBPf0rbJvSR_tXgXLCVYRU2ABWoG_HL/view?usp=sharing)|XTTS||
+|KDW_600_Saturas_TIMESUP1_Info_15_00|Да, он пока не знает, как взорвать гору...|[link](https://drive.google.com/file/d/1Gh5Ifs8ziVl84dPY8i88wX86tnI2HaWA/view?usp=sharing)|XTTS||
+|KDW_600_Saturas_TIMESUP1_Info_15_01|Он работает над этом.|[link](https://drive.google.com/file/d/164vnf9IuBrKDViFCjlfiigfo84IkkVwF/view?usp=sharing)|XTTS||
+|KDW_600_Saturas_TIMESUP1_Info_15_02|Я скажу тебе, когда что-нибудь выяснится.|[link](https://drive.google.com/file/d/1bxUNPfGo-Bjdl2G6PYQS7RtOPKT4S5Fo/view?usp=sharing)|XTTS||
+|KDW_600_Saturas_TIMESUP1_Info_15_07|Я говорил с Ксардасом. Он уверен, что взрыв магической руды не уничтожит барьер.|[link](https://drive.google.com/file/d/1xK4q8jKuVc0Z9vx4RmQcWU_4zSPsdScn/view?usp=sharing)|XTTS||
+|KDW_600_Saturas_TIMESUP1_Info_15_08|Ксардас изучал оркские пророчества.|[link](https://drive.google.com/file/d/1hlq4ojPk6c0JBHmWnRl-8WuCHdothSJJ/view?usp=sharing)|XTTS||
+|KDW_600_Saturas_TIMESUP1_Info_15_09|Я, кажется, знаю, как нам выбраться отсюда.|[link](https://drive.google.com/file/d/1zXyLdwxM1sK4QRsy7RgSEgylLT4RDgtR/view?usp=sharing)|XTTS||
+|KDW_600_Saturas_TIMESUP1_Info_15_10|Тогда, я пойду.|[link](https://drive.google.com/file/d/11cCGtwrBGVfCFNTEHGGkXqteztsUj68s/view?usp=sharing)|XTTS||
+|KDW_605_Riordian_ALCHEMY_15_00|Ты можешь обучить меня алхимии?|[link](https://drive.google.com/file/d/1VV54zpt6JAQWQSAqNk-o5bUTDlwPV0IH/view?usp=sharing)|XTTS||
+|KDW_605_Riordian_Learn_ALCHEMY_15_00|Я хочу изучить алхимию.|[link](https://drive.google.com/file/d/1FGhULtrC0IRzK3U0ZxOZJuR5sGmZo5vT/view?usp=sharing)|XTTS||
+|KDW_605_Riordian_Learn_POTIONS_15_00|Научи меня готовить...||||
+|KDW_605_Riordian_Learn_POTIONS_BACK_15_00|Я зайду в другой раз.|[link](https://drive.google.com/file/d/13qbLyIczAAJaiO2He-gf-OZJ5joBFJE7/view?usp=sharing)|XTTS||
+|KDW_605_Riordian_Learn_POTIONS_HASTE_15_00|... эликсир скорости.|[link](https://drive.google.com/file/d/11GlpvpbruMtnaWfe1aIPPLitoM3j1mJX/view?usp=sharing)|XTTS||
+|KDW_605_Riordian_Learn_POTIONS_HEALTH_15_00|... целебный эликсир.|[link](https://drive.google.com/file/d/1C_jud5i2edh3y0wTRYi7DF0m5Bswq84i/view?usp=sharing)|XTTS||
+|KDW_605_Riordian_Learn_POTIONS_MANA_15_00|... эликсир магической энергии.|[link](https://drive.google.com/file/d/1xBkUho5o8Ls5U30-LRf8Xyn4JqdUR-WG/view?usp=sharing)|XTTS||
+|Nov_1371_BaalNetbek_Bloodwood_Again_Info_15_01|У меня есть еще одно семя бука...|[link](https://drive.google.com/file/d/15zgM6B8ULm7GT2RtT5QU0ttGkrNlARLA/view?usp=sharing)|XTTS||
+|Nov_1371_BaalNetbek_Bloodwood_Info_15_01|Я принес тебе семя бука...|[link](https://drive.google.com/file/d/1EkZisy4CSXI02pRURuK1Z7RQb3ZQCOIq/view?usp=sharing)|XTTS||
+|Nov_1371_BaalNetbek_Towerwood_Info_15_01|Я принес тебе семя дуба...|[link](https://drive.google.com/file/d/17ZlP0QDC4RonFt_TDUPYaUOY5xaHcsfe/view?usp=sharing)|XTTS||
+|Nov_9000_Escaped_Amulette_A_15_00|Я куплю амулет.|[link](https://drive.google.com/file/d/1yLWhyKBptq3RroHPPujKaOu7lUZ1H_54/view?usp=sharing)|XTTS||
+|Nov_9000_Escaped_Amulette_A_15_02|У меня не хватает руды, ты не можешь снизить цену?|[link](https://drive.google.com/file/d/1lb_ggDMx2khQ9uIbv6SDb9BDfyTaDSeL/view?usp=sharing)|XTTS||
+|Nov_9000_Escaped_Amulette_B_15_00|Мне придется сказать гуру, где вы находитесь.|[link](https://drive.google.com/file/d/14kyM0eEA2aSSZ-SEn_I5vTyB4nR8hcb6/view?usp=sharing)|XTTS||
+|Nov_9000_Escaped_Amulette_C_15_00|Тогда я заберу амулет силой!|[link](https://drive.google.com/file/d/1OM_x9ZJhhtntrwhrVds-Gjsgis0gMIUg/view?usp=sharing)|XTTS||
+|Nov_9000_Escaped_Amulette_Info_15_00|Вы сбежали из лагеря!|[link](https://drive.google.com/file/d/1pzPzzDfkD6jqKoZH0lNyWMubYnJANkxm/view?usp=sharing)|XTTS||
+|Nov_9000_Escaped_Amulette_Info_15_01|Я только хочу вернуть амулет, который вы украли у господина Ю'Бериона.|[link](https://drive.google.com/file/d/12ktWoa23rT1lB5rh6n9TUHp2Sb9eTslx/view?usp=sharing)|XTTS||
+|Nov_9000_Escaped_Exit_Info_15_00|Постой!|[link](https://drive.google.com/file/d/1B0YvufW1HFOVqDnfGdrhYOZ-_SYhBV-5/view?usp=sharing)|XTTS||
+|Nov_9001_Escaped_Exit_Info_15_00|Эй!|[link](https://drive.google.com/file/d/1lfr96OiXJoMotIGvPPSjE6HuK57Huved/view?usp=sharing)|XTTS||
+|Org_818_Ratford_Map_15_00|Я принес тебе карту.|[link](https://drive.google.com/file/d/1Cgqtl8vW1JpuV569E5ZiyYYosFJQUqjL/view?usp=sharing)|XTTS||
+|Org_818_Ratford_Map_BUY_15_00|Я купил ее у картографа.|[link](https://drive.google.com/file/d/1nf_9QFL6xMtCJTohkvWRd580x7O_gwQP/view?usp=sharing)|XTTS||
+|Org_818_Ratford_Map_STEAL_15_00|Я стянул ее у картографа.|[link](https://drive.google.com/file/d/1BDOvcXs36Oz0u5HUBcD62fXaPn_CoaUO/view?usp=sharing)|XTTS||
+|Org_858_Quentin_BULLIT_15_00|И что ты можешь мне предложить?|[link](https://drive.google.com/file/d/1o4hDeAptKkBLkQ-_9Dge5pJy-WE22yJf/view?usp=sharing)|XTTS||
+|Org_858_Quentin_BULLIT_15_01|Эту мразь? С удовольствием. У меня с ним давние счеты.|[link](https://drive.google.com/file/d/1z-62rHEMVOkkyiz7KPKWAU3PR2RkB09R/view?usp=sharing)|XTTS||
+|Org_858_Quentin_BULLIT_15_02|Понятно. А что я получу за это?|[link](https://drive.google.com/file/d/1WfIpdVU1XDblvxldkCxmT6yOmBWxqHk-/view?usp=sharing)|XTTS||
+|Org_858_Quentin_BULLIT_15_03|Вижу, дело намечается серьезное.|[link](https://drive.google.com/file/d/1OSPyp9uLoeUc-3t7nHkd3HgasPFLULIc/view?usp=sharing)|XTTS||
+|Org_858_Quentin_BULLIT_KILLED_15_00|Я убил его.|[link](https://drive.google.com/file/d/1Ysi6dk4qp3slnmOdq9ICTxgiyGB8aIQr/view?usp=sharing)|XTTS||
+|Org_858_Quentin_BULLIT_KILLED_15_02|Где то, что ты обещал?!|[link](https://drive.google.com/file/d/1gFAB_1NLIOMqiaBxaSVkX9xxtiGp2YUL/view?usp=sharing)|XTTS||
+|Org_858_Quentin_BULLIT_KILLED_15_03|Другое дело.|[link](https://drive.google.com/file/d/1jUIUjIirWBu1eR9R_aqXL1fx6wzRhLz1/view?usp=sharing)|XTTS||
+|Org_858_Quentin_BULLIT_KILLED_15_04|Хорошее вино.|[link](https://drive.google.com/file/d/1JYMZQqWAKQp3WTwdm6rS9lkdSHSI7q7o/view?usp=sharing)|XTTS||
+|Org_858_Quentin_BULLIT_LATER_15_00|Я принес бумаги.|[link](https://drive.google.com/file/d/15VPdMq-Jn9geLdF-K32C8EcrYGThPGWb/view?usp=sharing)|XTTS||
+|Org_858_Quentin_GORN_ABOUT_15_00|Почему ты сам не пойдешь в Cтарый лагерь?|[link](https://drive.google.com/file/d/1V-hriV3bZKi0Fmrm7LaNPPmQFpVNXG9H/view?usp=sharing)|XTTS||
+|Org_858_Quentin_GORN_Info_15_00|Ты тот самый Квентин?|[link](https://drive.google.com/file/d/1zaPmMzKr-q18qbibgG5QIRaCcWPE12FH/view?usp=sharing)|XTTS||
+|Org_858_Quentin_GORN_Info_15_01|Горн сказал, ты можешь предложить мне работу.|[link](https://drive.google.com/file/d/1HYvt_Yz7qebRJXbT94sK377XT5NhXsIs/view?usp=sharing)|XTTS||
+|Org_858_Quentin_GORN_Info_15_02|Я ищу работу.|[link](https://drive.google.com/file/d/1woXnF5CUbX9BS7vgtCXEBYUtWd6JF_mG/view?usp=sharing)|XTTS||
+|Org_858_Quentin_GORN_NO_15_00|Нет, это не для меня.|[link](https://drive.google.com/file/d/1ysc0ZPRWYrj5UsXUxjsc_qEjrf2kLpcA/view?usp=sharing)|XTTS||
+|Org_858_Quentin_GORN_OK_Info_15_00|Я выполнил задание.|[link](https://drive.google.com/file/d/1uOIFLhvmwJnYWf8MZbxus3uVhwcQHA86/view?usp=sharing)|XTTS||
+|Org_858_Quentin_GORN_OK_Info_15_02|Караван отправится через день после того, как Ян пришлет список товаров Торусу.|[link](https://drive.google.com/file/d/1LimGG6yQD_9nNTQDvObnjblBDcPcEhyz/view?usp=sharing)|XTTS||
+|Org_858_Quentin_GORN_OK_Info_15_03|Его как обычно будут сопровождать 5, или 7 стражников.|[link](https://drive.google.com/file/d/1Cdh2KtnVfuy5Sk61XL6IbkBSOdUyyd8k/view?usp=sharing)|XTTS||
+|Org_858_Quentin_GORN_YES_15_00|Хорошо, я приступлю сегодня же.|[link](https://drive.google.com/file/d/1UYCUKBAOO1cEFPB7ftzk75TpntEUNiGt/view?usp=sharing)|XTTS||
+|Org_858_Quentin_GUARD_Info_15_01|Я просто гулял по лесу...|[link](https://drive.google.com/file/d/1ts5Y6w9_uw_dgehm7V5ErvFn1pQ5JZSE/view?usp=sharing)|XTTS||
+|Org_858_Quentin_QT_OK_15_00|Некоторые бандиты возмущены тем, что ты берешь себе слишком много.|[link](https://drive.google.com/file/d/1DovSyyWhO6PJJelViSDg9hyEeMIuEb-5/view?usp=sharing)|XTTS||
+|Org_858_Quentin_QT_OK_15_01|Половина твоего лагеря.|[link](https://drive.google.com/file/d/14ljcLPt7TAfPaVZ7dNZfeeIFKivdixat/view?usp=sharing)|XTTS||
+|Org_858_Quentin_QT_OK_15_02|(ухмыляясь) Хорошо.|[link](https://drive.google.com/file/d/124rNeXN3zmNqypNAS3TrAMntm5BMMtEC/view?usp=sharing)|XTTS||
+|Org_863_Raeuber_BDT_OK_15_00|Квентин будет давать вам больше вещей.|[link](https://drive.google.com/file/d/1KESyTALC3Wi8fz3u41Ku5IR5u_r26NPi/view?usp=sharing)|XTTS||
+|Org_864_Raeuber_BDT_OK_15_00|Теперь Квентин будет давать вам больше товаров.|[link](https://drive.google.com/file/d/1GS6hpw7a3PgbqmhwUwC4wGVW8dR3G-K0/view?usp=sharing)|XTTS||
+|Org_867_Raeuber_About_15_01|А кто это сделал?|[link](https://drive.google.com/file/d/1XZdlyOIGOyBDcIf8cerPoTPNUXH24c5G/view?usp=sharing)|XTTS||
+|Org_867_Raeuber_About_15_02|И кто же теперь возглавляет лагерь?|[link](https://drive.google.com/file/d/1k6q4PlQwOjn4MTXCtz1zPJIp0ewbnL48/view?usp=sharing)|XTTS||
+|Org_867_Raeuber_Banditencamp_15_00|А что это за место?|[link](https://drive.google.com/file/d/1KUIese3KxNlOm8picWdOH1dTPuRn4Laq/view?usp=sharing)|XTTS||
+|Org_867_Raeuber_GUARD_Info_15_01|А в чем проблема?|[link](https://drive.google.com/file/d/1amykIsEiC_Yhu-VgHNvPPO67yDFsZtub/view?usp=sharing)|XTTS||
+|Org_867_Raeuber_Organisators_15_00|Вы воры из Нового лагеря?|[link](https://drive.google.com/file/d/1aUlMzMAoOVnalqNhl0_BBBmmvACLp1Ea/view?usp=sharing)|XTTS||
+|Org_867_Raeuber_Organisators_15_01|А где остальные?|[link](https://drive.google.com/file/d/1vZuCDYdvJ6T-c11A55VkaQaKFZpl0tYL/view?usp=sharing)|XTTS||
+|Org_867_Raeuber_WereIsMain_15_00|Где можно найти Квентина?|[link](https://drive.google.com/file/d/16RmhqI6fD1itaNJVuIAvBqZgb6rzUa70/view?usp=sharing)|XTTS||
+|Org_868_Raeuber_BDT_15_00|А ты не думал обчистить эту пещеру и забрать все себе?|[link](https://drive.google.com/file/d/1hRPGtp6V4HJaMiXHL7az6vEXizAkt4nn/view?usp=sharing)|XTTS||
+|Org_868_Raeuber_BDT_OK_15_00|Квентин согласился отдавать вам больше вещей.|[link](https://drive.google.com/file/d/1dcDu6xvFWNTp8DjFCgUAO9TvjF2cY2Us/view?usp=sharing)|XTTS||
+|Org_868_Raeuber_BDT_OK_15_01|Теперь он будет забирать только треть товара.|[link](https://drive.google.com/file/d/1RBMp4phVerva8UBE5BE1urlJlr050y17/view?usp=sharing)|XTTS||
+|Org_868_Raeuber_GUARD_15_00|Тебе не кажется, что это несправедливо?|[link](https://drive.google.com/file/d/12ZrRxOh31VfQBY-RR9f6W_L_R7qajuXj/view?usp=sharing)|XTTS||
+|Org_868_Raeuber_GoAway_15_00|Не могу? А что находится в этой пещере?|[link](https://drive.google.com/file/d/1modRzoWfONQTtArke4HLZzA6Ws9GG4sB/view?usp=sharing)|XTTS||
+|Org_868_Raeuber_GoAway_15_01|Тогда где остальная половина?|[link](https://drive.google.com/file/d/1ssbpsJdOL_KwGplc48OHqNhZAbd46RmU/view?usp=sharing)|XTTS||
+|SLD_704_Blade_ABANDONEDMINE_15_00|Успокойся. Что произошло?|[link](https://drive.google.com/file/d/1GgQLQU_0ZQYLgix37LFhbfB1JdDBrlXM/view?usp=sharing)|XTTS||
+|SLD_704_Blade_ABANDONEDMINE_15_01|А что случилось в шахте?|[link](https://drive.google.com/file/d/1JXKKCqNKklgFDo0TcaMgt6SJ47d-Iqw1/view?usp=sharing)|XTTS||
+|SLD_704_Blade_ABANDONEDMINE_15_02|А где эти люди, с которыми ты ходил в шахту?|[link](https://drive.google.com/file/d/1sQGhl9JOTN6HinCe9KnRteuqijU1XbW2/view?usp=sharing)|XTTS||
+|SLD_704_Blade_ABANDONEDMINE_ABOUT_15_00|Здесь все спокойно?|[link](https://drive.google.com/file/d/1QyegIibCaSCDIbH5O9Kn1GCfY_D8yoQg/view?usp=sharing)|XTTS||
+|SLD_704_Blade_ABANDONEDMINE_WHAT_15_01|А как же я? Я говорил с ним!|[link](https://drive.google.com/file/d/1hBIQv1-jbqCvOZFMuIFcMoNuV_RY3zJ4/view?usp=sharing)|XTTS||
+|SLD_704_Blade_ABANDONEDMINE_WHAT_15_02|Вроде бы да.|[link](https://drive.google.com/file/d/1AVwIFCbrJoTJlHJY0utKxgbneY4sIaNo/view?usp=sharing)|XTTS||
+|SLD_704_Blade_AFTER_ABANDONEDMINE_15_00|Что?!|[link](https://drive.google.com/file/d/1lAdQnE6wvcgtMfQp4jlh6g6NnN83D1Cc/view?usp=sharing)|XTTS||
+|SLD_704_Blade_AXT_15_00|Я нашел твой топор.|[link](https://drive.google.com/file/d/1lfvy0GLP6ky704tqvXAii1q_PN9xyRmc/view?usp=sharing)|XTTS||
+|SLD_704_Blade_GO_15_00|Идем в шахту.|[link](https://drive.google.com/file/d/1zzKt9gzUUOjoiWW8UsBz9t-6-9f0Q8Gb/view?usp=sharing)|XTTS||
+|SLD_704_Blade_MINE_15_00|Могу я чем-нибудь помочь?|[link](https://drive.google.com/file/d/1Wtkip-LDqULdZEs_qCu5QzYvYvu0hC34/view?usp=sharing)|XTTS||
+|SLD_704_Blade_MINE_15_01|Да, я хочу выяснить что там произошло.|[link](https://drive.google.com/file/d/1znCSEhOlJ5H2XQ36FCp8mEY6GP1FXFPV/view?usp=sharing)|XTTS||
+|SLD_704_Blade_MINE_15_02|И где же твой топор?|[link](https://drive.google.com/file/d/1H430-JU_A0jk3mM3QKmR2fjWtyMkZ_p2/view?usp=sharing)|XTTS||
+|SLD_704_Blade_MINE_15_03|Я найду твой топор.|[link](https://drive.google.com/file/d/15wAawD8rDpnmVWqWKXbnEUwwe-YhdBE2/view?usp=sharing)|XTTS||
+|SLD_704_Blade_NEAR_MINE_BEER_15_00|Пиво.|[link](https://drive.google.com/file/d/1nfPz2MlUO598C75ZleaqbuF3vsKNIWdT/view?usp=sharing)|XTTS||
+|SLD_704_Blade_NEAR_MINE_BOOZE_15_00|Шнапс.|[link](https://drive.google.com/file/d/1QSMtS4wzNugdYEIIDs1P1kuHPu_IqryJ/view?usp=sharing)|XTTS||
+|SLD_704_Blade_NEAR_MINE_NOTHING_15_00|Извини, я не прихватил с собой.|[link](https://drive.google.com/file/d/1Ck2J3UFmr7lSjgdS1IwVfhh28YAj9ruq/view?usp=sharing)|XTTS||
+|SLD_704_Blade_NEAR_MINE_WINE_15_00|Вино.|[link](https://drive.google.com/file/d/1PTMUV3RUcxYdnoaOH0_zquLYDGqsFWSC/view?usp=sharing)|XTTS||
+|SLD_704_Blade_TO_MINE_15_00|Так мы идем, или нет?|[link](https://drive.google.com/file/d/1msddX23jFHms266zn-S_KUX14IhfmqpV/view?usp=sharing)|XTTS||
+|SLD_704_Blade_TO_MINE_15_01|Хватит ныть! Ты кто – наемник или трус?|[link](https://drive.google.com/file/d/1YQH-LGwQES3AXECnUtPipIkeVZXNWHvw/view?usp=sharing)|XTTS||
+|SLD_9200_Soeldner_ABANDONEDMINE_15_00|Здесь не происходило ничего необычного?|[link](https://drive.google.com/file/d/1s0H36tI4oman0zPnZ0JK9tVvPU64kMlM/view?usp=sharing)|XTTS||
+|SLD_9704_Blade_AFTER_DMT_ABANDONEDMINE_15_00|Лорда демонов невозможно убить обычным оружием.|[link](https://drive.google.com/file/d/1dSAjG5ho7nfHx8KF-w1PAYcQK1HP2FZe/view?usp=sharing)|XTTS||
+|SLD_9704_Blade_AFTER_DMT_ABANDONEDMINE_15_01|Выжившие люди Лареса теперь стали слугами демонов. Мы должны скорее выбираться отсюда.|[link](https://drive.google.com/file/d/1quI0ee3N4f1q6FIyQuQ3Y_gf09lLqEpO/view?usp=sharing)|XTTS||
+|SLD_9704_Blade_BEFORE_DMT_ABANDONEDMINE_15_00|Я должен справиться с ними один?|[link](https://drive.google.com/file/d/1uRXiF8C8fPexaAQpnshztqeG71SZC24C/view?usp=sharing)|XTTS||
+|SLD_9704_Blade_BEFORE_DMT_ABANDONEDMINE_15_01|Посмотрим, что мне удасться сделать.|[link](https://drive.google.com/file/d/1RqGflfdaQ3vGEWYx0e7qTF5Grlx94WiL/view?usp=sharing)|XTTS||
+|SLD_9704_Blade_DMT_ABANDONEDMINE_15_00|Хм, не похоже, чтобы здесь недавно происходил бой. Странно.|[link](https://drive.google.com/file/d/1v5dFsqh3rFf7TVPBRKrjEmUdSItcOXJf/view?usp=sharing)|XTTS||
+|SLD_9704_Blade_INSIDE_ABANDONEDMINE_15_00|Что в этих ящиках?|[link](https://drive.google.com/file/d/1qjVIJiXuZEO4HHwb0JOXxUh_Ba03Jz-3/view?usp=sharing)|XTTS||
+|SLD_9704_Blade_INSIDE_ABANDONEDMINE_15_01|Успокойся. По-моему, мы пришли сюда разобраться с демонами и найти этого вора, если он еще в шахте.|[link](https://drive.google.com/file/d/1kOBO-om4QHVqDAOgEjJud8hMcV8Nof1j/view?usp=sharing)|XTTS||
+|SLD_9704_Blade_INSIDE_ABANDONEDMINE_OK_15_00|Да, идем к выходу.|[link](https://drive.google.com/file/d/1tBI_HrZ6YAGcw81H5ymqxrERBlU6GBeW/view?usp=sharing)|XTTS||
+|SLD_9900_Soeldner_ABANDONEDMINE_15_00|Я пришел сюда с Блейдом.|[link](https://drive.google.com/file/d/1UOmPbbEBLnD-IkUfz4LQYObZ2Gpozk-X/view?usp=sharing)|XTTS||
+|SLD_9900_Soeldner_ABANDONEDMINE_15_01|Кто-нибудь выжил?|[link](https://drive.google.com/file/d/1kmxo0WFurXoe5W_cVPfWZA2GLstUH3qN/view?usp=sharing)|XTTS||
+|SLD_9900_Soeldner_ABANDONEDMINE_15_02|Тогда уходим отсюда!|[link](https://drive.google.com/file/d/1vP4IG3DOdFKkP6XhV9U0F4W8VcXAifP7/view?usp=sharing)|XTTS||
+|SLD_9900_Soeldner_ABANDONEDMINE_15_03|Но почему?|[link](https://drive.google.com/file/d/1lqcdG-zHZRfl8PnkmsD3tBlI3iQ7Imah/view?usp=sharing)|XTTS||
+|Stt_311_Fisk_Quentin_15_00|Что ты знаешь о доставке товаров в шахту?|[link](https://drive.google.com/file/d/1JkXENjzGLjgGvHqvt6yDY8eTJx0L-HK0/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_Info_15_00|Что? Как это могло случиться? Мне нужно немедленно поговорить с Магами Огня.|[link](https://drive.google.com/file/d/1q_2atij2215JmwPZCaJ3B9Gidkdm4-Dj/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_Info_15_01|Значит теперь мы остпались без руды?|[link](https://drive.google.com/file/d/1hI36ess7iDwsR2_D-6KGoyUfnWPWQPXd/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_KDF_15_00|Вы убили магов огня.|[link](https://drive.google.com/file/d/1y59585K6ZBX500kHtHDjGXIFd2Su1DzJ/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_NO_15_00|Я больше не служу Гомезу.|[link](https://drive.google.com/file/d/11QG68IKw-ACzfdxUqGWBL5lP2yYq9mIa/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_YES_15_00|В атаку!|[link](https://drive.google.com/file/d/1yvXYCYl259GhybKNOQxmE7FPBDy6IuVJ/view?usp=sharing)|XTTS||
 
 
 ## Горацио (BAU_901_Horatio)

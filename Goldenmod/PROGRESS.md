@@ -14,8 +14,8 @@
 |DIA_Fletcher_Gilbert_15_03|Да. Это парень, который его обчистил.|[link](https://drive.google.com/file/d/1O24xlnsLmc_rT257_LPlwhgn69XMx2TV/view?usp=sharing)|XTTS||
 |DIA_Fletcher_Gilbert_15_04|Он украл какую-то вещь у Торуса. Мне надо знать, что это было.|[link](https://drive.google.com/file/d/1O2GxJH6VXt_8y7R5YwyFjB3xLuHhtLpo/view?usp=sharing)|XTTS||
 |DIA_Fletcher_NoProblem_15_00|Я думаю, что смогу помочь тебе уладить проблему со Скатти.|[link](https://drive.google.com/file/d/1O2S-purSQgRpVBqNbodl4x6mcYXQKCXS/view?usp=sharing)|XTTS||
-|DIA_Fletcher_NoProblem_15_01|Нет. Но я знаю, как сделать, чтобы ее стало много у тебя.|[link](https://drive.google.com/file/d/1O3MkbwDJ5FMpGCRys2b_NxHV1mUUVlc1/view?usp=sharing)|XTTS||
-|DIA_Fletcher_NoProblem_15_02|Скоро состоится бой. Ты можешь поставить на меня, и я обязательно выиграю!|[link](https://drive.google.com/file/d/1O3ZVjSEvbVDO9AvO882TGbYIPURqI6qr/view?usp=sharing)|XTTS||
+|DIA_Fletcher_NoProblem_15_01|Нет. Но я знаю, как сделать, чтобы ее стало много у тебя.|[link](https://drive.google.com/file/d/1ZsxiHg-YMZBR5ThkXYyyNJ7ZVPSRC0ZL/view?usp=sharing)|XTTS||
+|DIA_Fletcher_NoProblem_15_02|Скоро состоится бой. Ты можешь поставить на меня, и я обязательно выиграю!|[link](https://drive.google.com/file/d/1qBrEF9B8Hmad8a8gjRPW7WTN959GzWjz/view?usp=sharing)|XTTS||
 |DIA_Fletcher_NoProblem_Finish_15_00|Я сражался с Гор Ханисом.|[link](https://drive.google.com/file/d/1O4BAGLf_vsvX2TYqUXFLQD2BRj7tiVxK/view?usp=sharing)|XTTS||
 |DIA_Fletcher_NoProblem_Start_15_00|Вот руда.|[link](https://drive.google.com/file/d/1O4HyeFBpmshRiM3RJmZ7TO17NhbCxL7k/view?usp=sharing)|XTTS||
 |DIA_Fortuno_HealthWater_15_00|Ты должен сварить целебный эликсир для Ю'Бериона.|[link](https://drive.google.com/file/d/1O4MIyUsb26O8coIC5n4lxagaoRNW5UE_/view?usp=sharing)|XTTS||
@@ -29,7 +29,7 @@
 |DIA_Gorn_BDT_WERE_15_00|Так где я могу найти Квентина?|[link](https://drive.google.com/file/d/1OFYCt5pKUbsJE66HPUhlkqQmnHrWZr2w/view?usp=sharing)|XTTS||
 |DIA_Gravo_Gilbert_15_00|Тебе говорит о чем-нибудь имя Жильбер?|[link](https://drive.google.com/file/d/1OHu-bNnjb8DQMN_TIfAVZyKQPB5ZhzF4/view?usp=sharing)|XTTS||
 |DIA_Gravo_Gilbert_15_02|Я нашел его. Он прячется в пещере недалеко от Старого лагеря.|[link](https://drive.google.com/file/d/1OHwcTvOU4UHXcndelKMdJEqagvc0_LrA/view?usp=sharing)|XTTS||
-|DIA_Gravo_Gilbert_15_03|Ну, по крайней мере был, когда я его нашел.|[link](https://drive.google.com/file/d/1OIAwd8-olZdrsjukk0ftLMHcX_1f8Hy_/view?usp=sharing)|XTTS||
+|DIA_Gravo_Gilbert_15_03|Ну, по крайней мере был, когда я его нашел.|[link](https://drive.google.com/file/d/12gT8VvO8lhkEwC15-NzPs_8DLF7ECIPG/view?usp=sharing)|XTTS||
 |DIA_Gravo_Gilbert_ABOUT_15_00|Почему Жильбер сбежал из лагеря?|[link](https://drive.google.com/file/d/1OJQg7Iagd5xjUukG1tAB00viBnc4DwQQ/view?usp=sharing)|XTTS||
 |DIA_Gravo_Gilbert_ABOUT_15_01|А где он взял столько руды?|[link](https://drive.google.com/file/d/1OKPiqLXbQbdv0Rgz1RYX-C59dSQD9jVm/view?usp=sharing)|XTTS||
 |DIA_Gravo_Gilbert_ABOUT_15_02|И? Что это было?|[link](https://drive.google.com/file/d/1OM6M7vOPo1Vf9CFVEUv1BYmtHWtEK8Yn/view?usp=sharing)|XTTS||
@@ -275,8 +275,8 @@
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
-|DIA_Horatio_Lord_09_01|Но я не просил тебя никого убивать.||||
-|DIA_Horatio_Lord_09_02|Я вижу ты верен своему слову. Я научу тебя, как сделать удар еще сильнее.||||
+|DIA_Horatio_Lord_09_01|Но я не просил тебя никого убивать.|[link](https://drive.google.com/file/d/1WvW9kSMfUWcG0T5NvpPB3_VHf9ODh_ZX/view?usp=sharing)|XTTS||
+|DIA_Horatio_Lord_09_02|Я вижу ты верен своему слову. Я научу тебя, как сделать удар еще сильнее.|[link](https://drive.google.com/file/d/1-UA3h46DZ-fbjTgxECwCjMR-i0Ta39jj/view?usp=sharing)|XTTS||
 
 
 ## Иеремия (BAU_912_Jeremiah)
@@ -303,38 +303,38 @@
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
-|IThorus_FREEMINE_YES_09_01|Подожди, я соберу остальных парней.	||XTTS||
-|Info_Thorus_Gilbert_09_00|Что? Ничего не хочу знать об этом гаденыше!||XTTS||
-|Info_Thorus_Gilbert_09_01|Этого не может быть! Он давно должен был сдохнуть!||XTTS||
-|Info_Thorus_Gilbert_09_02|(задумчиво) Так значит он жив... Послушай у меня будет для тебя задание.||XTTS||
-|Info_Thorus_Gilbert_09_03|Перед тем, как сбежать из лагеря, он взял кое-что принадлежащее мне. Я хочу чтобы ты вернул мне эту вещь.||XTTS||
-|Info_Thorus_Gilbert_ABOUT_09_00|Лучше спроси, чего у тебя не будет. У тебя не будет проблем со мной!||XTTS||
-|Info_Thorus_Gilbert_Key_09_00|Я просил тебя принести украденную вещь, а не какой-то ключ.||XTTS||
-|Info_Thorus_Gilbert_Key_09_01|Тогда найди то, что открывает этот ключ.||XTTS||
-|Info_Thorus_Gilbert_NO_09_00|Ты еще пожалеешь об этом.||XTTS||
-|Info_Thorus_Gilbert_NO_09_01|Скажи спасибо богам, что ты принадлежишь Старому лагерю. А то бы я тебе показал!||XTTS||
-|Info_Thorus_Gilbert_NO_09_02|Тебе повезло, что ты находишься под покровительством магов. А то бы я тебе показал!||XTTS||
-|Info_Thorus_Gilbert_NO_09_03|Тебе повезло, что Гомезу нужен болотник. А то бы я тебе показал!||XTTS||
-|Info_Thorus_Gilbert_OK_09_00|Да, то оно. Давай его сюда!||XTTS||
-|Info_Thorus_Gilbert_OK_09_01|О! За него мне ничего не жалко. Я дам тебе 100, нет, 50 кусков руды.||XTTS||
-|Info_Thorus_Gilbert_YES_09_00|Вот и отлично. Иди к этому подонку!||XTTS||
-|Info_Thorus_ReadyForGomez_09_07|Нет.||XTTS||
-|SVM_9_ALGreetings|За Гомеза!||XTTS||
-|Thorus_FREEMINE_Info_09_00|А вот и ты. Долго тебя небыло. Ты уже слышал новость?||XTTS||
-|Thorus_FREEMINE_Info_09_01|Старую шахту затопило и она рухнула.||XTTS||
-|Thorus_FREEMINE_Info_09_02|И сейчас мы нападем на Свободную шахту.||XTTS||
-|Thorus_FREEMINE_Info_09_03|Это невозможно, парень! Маги вздумали перечить Гомезу, и это стоило им жизни.||XTTS||
-|Thorus_FREEMINE_Info_09_04|А нет руды - нет товаров из внешнего мира. Ты же не собираешься подыхать здесь от голода!||XTTS||
-|Thorus_FREEMINE_Info_09_05|Пойдем с нами. Это приказ Гомеза!||XTTS||
-|Thorus_FREEMINE_KDF_09_01|И что теперь?||XTTS||
-|Thorus_FREEMINE_NO_09_01|Это было неверное решение!||XTTS||
-|Thorus_FREEMINE_WAR_END_Info_09_02|Дело сделано! Мы выбили этих грязных наемников из шахты!||XTTS||
-|Thorus_FREEMINE_WAR_END_Info_09_04|Скоро прибудет подкерпление из Старого лагеря и мы начнем добычу руды.||||
-|Thorus_FREEMINE_WAR_END_Info_09_05|А пока мы должны оставаться здесь и следить за тем, чтобы люди из Нового лагеря не попыталить вернуть себе шахту.||||
-|Thorus_FREEMINE_WAR_Info_09_02|За поворотом находится лагерь скребков у Свободной шахты.||||
-|Thorus_FREEMINE_WAR_Info_09_03|Вперед, парни, атакуем!||||
-|Thorus_FREEMINE_WAR_Info_09_04|Ты пойдешь вперед.||||
-|Thorus_FREEMINE_YES_09_02|Возьми эту карту и направляйся к шахте. Там тебя будет ждать Пачо, он мой разведчик.||||
+|IThorus_FREEMINE_YES_09_01|Подожди, я соберу остальных парней.|[link](https://drive.google.com/file/d/1Q-CPyXY6FyPYARobiz9FwEvvpHkMUkUk/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_09_00|Что? Ничего не хочу знать об этом гаденыше!|[link](https://drive.google.com/file/d/1mrm6qB-yEpnjn0AFwxhzfkzVLpqkBkww/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_09_01|Этого не может быть! Он давно должен был сдохнуть!|[link](https://drive.google.com/file/d/1bKU6KMNZwy-hg-c18Ke9dCamDOOwgxMW/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_09_02|(задумчиво) Так значит он жив... Послушай у меня будет для тебя задание.|[link](https://drive.google.com/file/d/1ryi0aKk6GU89-1d5jBhbbIC-qYS7ZrwO/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_09_03|Перед тем, как сбежать из лагеря, он взял кое-что принадлежащее мне. Я хочу чтобы ты вернул мне эту вещь.|[link](https://drive.google.com/file/d/1sP0G_OmyXazj7ODGtIlxoxPgcDUN-fmP/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_ABOUT_09_00|Лучше спроси, чего у тебя не будет. У тебя не будет проблем со мной!|[link](https://drive.google.com/file/d/110hsnArowsNzSGGa4wG8Ovf8sbKddKq5/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_Key_09_00|Я просил тебя принести украденную вещь, а не какой-то ключ.|[link](https://drive.google.com/file/d/1z1eHk1bAcDFsVTTGnCju2YbToJ5dmFLv/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_Key_09_01|Тогда найди то, что открывает этот ключ.|[link](https://drive.google.com/file/d/1UllhIiLB9rg9xfQlZmH7Nf5Jo9REclTM/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_NO_09_00|Ты еще пожалеешь об этом.|[link](https://drive.google.com/file/d/1dD9Qq4UWhL4ZTU29LF8bgWmd8Vr4w-ue/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_NO_09_01|Скажи спасибо богам, что ты принадлежишь Старому лагерю. А то бы я тебе показал!|[link](https://drive.google.com/file/d/18HxCMP3jYMVpQ_DJ8MonrUnGtbcrxGq-/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_NO_09_02|Тебе повезло, что ты находишься под покровительством магов. А то бы я тебе показал!|[link](https://drive.google.com/file/d/1OAY015DjmfZoGY4jIgRMkLK104aPkbSi/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_NO_09_03|Тебе повезло, что Гомезу нужен болотник. А то бы я тебе показал!|[link](https://drive.google.com/file/d/1C61JzhRmTFnPnbOLeYWd76Kn4uxCkdr4/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_OK_09_00|Да, то оно. Давай его сюда!|[link](https://drive.google.com/file/d/1_I0G9ibxWBmeW1IPqP-KEnWRd5mbn7AB/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_OK_09_01|О! За него мне ничего не жалко. Я дам тебе 100, нет, 50 кусков руды.|[link](https://drive.google.com/file/d/1bA_DuslemjUh3s9vBRcOq9vqnve3aYTY/view?usp=sharing)|XTTS||
+|Info_Thorus_Gilbert_YES_09_00|Вот и отлично. Иди к этому подонку!|[link](https://drive.google.com/file/d/1342kycwyPUU2h3l8KN31U5ZzInx1Yzgc/view?usp=sharing)|XTTS||
+|Info_Thorus_ReadyForGomez_09_07|Нет.|[link](https://drive.google.com/file/d/1eK8HH0y05kQ95VuB7pdEu7FVbojkWbRG/view?usp=sharing)|XTTS||
+|SVM_9_ALGreetings|За Гомеза!|[link](https://drive.google.com/file/d/1SS1zpAA_y8ZgZ70znWARnGI1rOY64oeF/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_Info_09_00|А вот и ты. Долго тебя небыло. Ты уже слышал новость?|[link](https://drive.google.com/file/d/1ylzWxjIbg1NOdi2nsM1E6uN6o-f9HEXb/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_Info_09_01|Старую шахту затопило и она рухнула.|[link](https://drive.google.com/file/d/1Asjv9SdazvatKjIV4ST1xfABNoO7aOtD/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_Info_09_02|И сейчас мы нападем на Свободную шахту.|[link](https://drive.google.com/file/d/1XY-rVvya8Mrkz4fKr4KZzKh2mzhzBUje/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_Info_09_03|Это невозможно, парень! Маги вздумали перечить Гомезу, и это стоило им жизни.|[link](https://drive.google.com/file/d/1V6X8ego8W3rj9j-0XKZNIOY3w-hRv24k/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_Info_09_04|А нет руды - нет товаров из внешнего мира. Ты же не собираешься подыхать здесь от голода!|[link](https://drive.google.com/file/d/1_FKoXnJUtb__77TcJ0adr8nN5M7fVZx2/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_Info_09_05|Пойдем с нами. Это приказ Гомеза!|[link](https://drive.google.com/file/d/1ZS-aivOHzB8p4SAjXR9FMD8DoBQ-fraP/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_KDF_09_01|И что теперь?|[link](https://drive.google.com/file/d/1POhLP9rVInNDqD-z7cfyWtTLDc0hCn5b/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_NO_09_01|Это было неверное решение!|[link](https://drive.google.com/file/d/1cdNfvM6MMf2p2G9XL4QxLLgsPF45rjng/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_WAR_END_Info_09_02|Дело сделано! Мы выбили этих грязных наемников из шахты!|[link](https://drive.google.com/file/d/1JsF9Y1USr86qDXEnsulLBZ5bgkqxCKmv/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_WAR_END_Info_09_04|Скоро прибудет подкерпление из Старого лагеря и мы начнем добычу руды.|[link](https://drive.google.com/file/d/1mBquEDDW3LxkqB0vSbo2Q9spI7ZFEhfi/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_WAR_END_Info_09_05|А пока мы должны оставаться здесь и следить за тем, чтобы люди из Нового лагеря не попыталить вернуть себе шахту.|[link](https://drive.google.com/file/d/1PaPxP6vFz_Zd7e_lseAkKYB27VPK7OGc/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_WAR_Info_09_02|За поворотом находится лагерь скребков у Свободной шахты.|[link](https://drive.google.com/file/d/13h4qoShqtSkbrfwSkJcCQM-AgqAYj9uA/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_WAR_Info_09_03|Вперед, парни, атакуем!|[link](https://drive.google.com/file/d/1PZwMfL1_bycD4jwLugqkcDmXzR1KSRAJ/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_WAR_Info_09_04|Ты пойдешь вперед.|[link](https://drive.google.com/file/d/1m1zq7hX3MR53ZGnWyXnAmovYlDVu5L2f/view?usp=sharing)|XTTS||
+|Thorus_FREEMINE_YES_09_02|Возьми эту карту и направляйся к шахте. Там тебя будет ждать Пачо, он мой разведчик.|[link](https://drive.google.com/file/d/19RQf4tU0xFGwHAH4Rl_uBW2WwfRQir6R/view?usp=sharing)|XTTS||
 
 
 ## Скатти (GRD_210_Scatty)
@@ -577,7 +577,7 @@
 |:---|:---|:---:|:---:|:---|
 |DIA_Darrion_TRADE_SWORD_11_00|Хорошо! Так я смогу быстрее подготовить оружие для наших стражей.|[link](https://drive.google.com/file/d/1M_OLdn6D78VzLQVcL1CdYtV7ujyJrOFI/view?usp=sharing)|Silero||
 |DIA_Darrion_TRADE_SWORD_11_01|Я дам тебе 80 кусков руды за каждый меч.|[link](https://drive.google.com/file/d/1M_c088AM39PY4lFYAJFX0722btlbibVw/view?usp=sharing)|Silero||
-|DIA_Darrion_TRADE_SWORD_NO|Я зайду позже.|[link](https://drive.google.com/file/d/1MaLaXYC4zl2vuUd_B6Srg4WeqptYVbhs/view?usp=sharing)|XTTS|Реплика PC_Hero|
+|DIA_Darrion_TRADE_SWORD_NO|Я зайду позже.|[link](https://drive.google.com/file/d/1j25KdEaryHhVmalvwn2Qs7-vzoWoa2jD/view?usp=sharing)|XTTS|Реплика PC_Hero|
 
 
 ## Фортуно (NOV_1357_Fortuno)
@@ -646,8 +646,8 @@
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
-|ORG_855_Wolf_TRAINAGAIN_Info_09_06|Сначала принеси мне руду, парень.||||
-|ORG_855_Wolf_TRAIN_Info_09_04|У тебя недостаточно руды.||||
+|ORG_855_Wolf_TRAINAGAIN_Info_09_06|Сначала принеси мне руду, парень.|[link](https://drive.google.com/file/d/1uOym7WZUSu3oqMuBv9tl76cWxTLWuAn6/view?usp=sharing)|XTTS||
+|ORG_855_Wolf_TRAIN_Info_09_04|У тебя недостаточно руды.|[link](https://drive.google.com/file/d/1ArfS5xS6whuep3qxcwdT09o9FM7aDrEU/view?usp=sharing)|XTTS||
 
 
 ## Сайфер (ORG_873_Cipher)
@@ -838,18 +838,18 @@
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
-|DIA_Gorn_BDT_09_00|Да, ты можешь поработать на Квентина.||||
-|DIA_Gorn_BDT_09_01|Тогда ты сам сможешь его найти.||||
-|DIA_Gorn_BDT_09_02|Он главарь шайки бандитов, грабящих людей из Старого Лагеря.||||
-|DIA_Gorn_BDT_09_03|Я тебе не скажу, вдруг ты шпион Cтарого лагеря.||||
-|DIA_Gorn_BDT_WERE_09_00|Сейчас Квентин осматривает местность вокруг шахты, ты можешь найти его там.||||
-|Info_Gorn_FMWATCH_09_05|Ли прислал покрепление. Теперь все под контролем.||||
-|Info_Gorn_PROHOD_FOUND_09_02|Похоже, что стражники пришли отсюда.||||
-|Info_Gorn_PROHOD_FOUND_09_03|Ты должен сообщить об этом Ли.||||
-|Info_Gorn_PROHOD_FOUND_09_04|А я еще немного побуду здесь.||||
-|Info_Gorn_PROHOD_WATCH_09_02|Постой. Мы должны найти проход в горах, чтобы не допустить повторную атаку стражников.||||
-|Info_Gorn_PROHOD_WATCH_09_03|А на кого я еще могу положиться?||||
-|Info_Gorn_PROHOD_WATCH_09_04|Иди вперед.||||
+|DIA_Gorn_BDT_09_00|Да, ты можешь поработать на Квентина.|[link](https://drive.google.com/file/d/1cFqUHqy2nmsanLVaEGMMH1eL2nf3fHBy/view?usp=sharing)|XTTS||
+|DIA_Gorn_BDT_09_01|Тогда ты сам сможешь его найти.|[link](https://drive.google.com/file/d/1FOTIHFCkuOC1Nv7ybvLd-wpxOwUPKFx9/view?usp=sharing)|XTTS||
+|DIA_Gorn_BDT_09_02|Он главарь шайки бандитов, грабящих людей из Старого Лагеря.|[link](https://drive.google.com/file/d/1-7nAgEHGrKs_AF6LsKiOaSx1BtYdaDr6/view?usp=sharing)|XTTS||
+|DIA_Gorn_BDT_09_03|Я тебе не скажу, вдруг ты шпион Cтарого лагеря.|[link](https://drive.google.com/file/d/19Ogur-tZz2ND07GuY5Tl-pjWrVRzdCWj/view?usp=sharing)|XTTS||
+|DIA_Gorn_BDT_WERE_09_00|Сейчас Квентин осматривает местность вокруг шахты, ты можешь найти его там.|[link](https://drive.google.com/file/d/1Y4YlbDLhxh-AZ5QiNHQK3IVd4QbPbyIw/view?usp=sharing)|XTTS||
+|Info_Gorn_FMWATCH_09_05|Ли прислал покрепление. Теперь все под контролем.|[link](https://drive.google.com/file/d/1Jt1z_1momrI69LkVIphZcJrMOsawbE9j/view?usp=sharing)|XTTS||
+|Info_Gorn_PROHOD_FOUND_09_02|Похоже, что стражники пришли отсюда.|[link](https://drive.google.com/file/d/1-5KWoGApRuUTrGJgSTuh9vTaoBDiLpAk/view?usp=sharing)|XTTS||
+|Info_Gorn_PROHOD_FOUND_09_03|Ты должен сообщить об этом Ли.|[link](https://drive.google.com/file/d/1TywQy1jifIloA5zJeNj-Y95HxseFMCxV/view?usp=sharing)|XTTS||
+|Info_Gorn_PROHOD_FOUND_09_04|А я еще немного побуду здесь.|[link](https://drive.google.com/file/d/1dJbAZgRlSPZzT_KTxxAlrg4dsk1d5iNJ/view?usp=sharing)|XTTS||
+|Info_Gorn_PROHOD_WATCH_09_02|Постой. Мы должны найти проход в горах, чтобы не допустить повторную атаку стражников.|[link](https://drive.google.com/file/d/1kvis1w0nFV4j1l23cRt5JYcwlfW61SUh/view?usp=sharing)|XTTS||
+|Info_Gorn_PROHOD_WATCH_09_03|А на кого я еще могу положиться?|[link](https://drive.google.com/file/d/1eE8_vxbADIHsUm8nDTlAj_sqG9Iq2CSB/view?usp=sharing)|XTTS||
+|Info_Gorn_PROHOD_WATCH_09_04|Иди вперед.|[link](https://drive.google.com/file/d/1TCC4QcreAsAKr3i_NGgvUStlXDOEpa69/view?usp=sharing)|XTTS||
 
 
 ## Мильтен (PC_Mage)
@@ -1012,10 +1012,10 @@
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
-|DIA_Huno_HowsYourBusiness_09_04|Лучше бы сам что-нибудь сделал!|[link](https://drive.google.com/file/d/1Mov8EN9eYN1mPDHK0VmgLjpMYVc0bJvi/view?usp=sharing)|Silero||
-|DIA_Huno_LEARNSMITH_09_09|И ты можешь продавать мне свои мечи.|[link](https://drive.google.com/file/d/1Mrm3HQGS6IPrGLl__sMxPBs4EhhnmR_2/view?usp=sharing)|Silero||
-|DIA_Huno_TRADE_SWORD_09_00|Я заплачу тебе 70 кусков руды за каждый меч.|[link](https://drive.google.com/file/d/1MsGLC5tZhznzKBjNQt1MG7sxieyciL_u/view?usp=sharing)|Silero||
-|DIA_Huno_TRADE_SWORD_NO|Я зайду позже.|[link](https://drive.google.com/file/d/1MinDK_MP0wJxSvacbHr2y-Tyog2Q3D31/view?usp=sharing)|XTTS|Реплика PC_Hero|
+|DIA_Huno_HowsYourBusiness_09_04|Лучше бы сам что-нибудь сделал!|[link](https://drive.google.com/file/d/1Mov8EN9eYN1mPDHK0VmgLjpMYVc0bJvi/view?usp=sharing)|XTTS||
+|DIA_Huno_LEARNSMITH_09_09|И ты можешь продавать мне свои мечи.|[link](https://drive.google.com/file/d/1Mrm3HQGS6IPrGLl__sMxPBs4EhhnmR_2/view?usp=sharing)|XTTS||
+|DIA_Huno_TRADE_SWORD_09_00|Я заплачу тебе 70 кусков руды за каждый меч.|[link](https://drive.google.com/file/d/1MsGLC5tZhznzKBjNQt1MG7sxieyciL_u/view?usp=sharing)|XTTS||
+|DIA_Huno_TRADE_SWORD_NO|Я зайду позже.|[link](https://drive.google.com/file/d/1Gd45yFbmNSsyllzeM8OmxxjhtcumOape/view?usp=sharing)|XTTS|Реплика PC_Hero|
 
 
 ## Граво (VLK_572_Gravo)

@@ -500,16 +500,16 @@
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
-|KDF_401_Damarok_ALCHEMY_14_00|Конечно.||||
-|KDF_401_Damarok_Learn_ALCHEMY_14_00|Иннос дал человеку магию и человек научился совмещать магию с растениями.||||
-|KDF_401_Damarok_Learn_ALCHEMY_14_01|Алхимия - это приготовление эликсиров при помощи магии.||||
-|KDF_401_Damarok_Learn_ALCHEMY_14_02|Тебе нужно смешать ингредиенты в лабораторном флаконе и произнести заклинание.||||
-|KDF_401_Damarok_Learn_ALCHEMY_14_03|Я могу обучить тебя таким заклинаниям и показать несколько рецептов эликсиров.||||
-|KDF_401_Damarok_Learn_POTIONS_HASTE_14_00|Ты должен смешать серафис с лунником.||||
-|KDF_401_Damarok_Learn_POTIONS_HEALTH_14_00|Тебе нужно смешать 3 целебных растения.||||
-|KDF_401_Damarok_Learn_POTIONS_MANA_14_00|Нужно просто смешать 3 каменных корня.||||
-|KDF_401_Damarok_Learn_POTIONS_MANA_14_01|Обычно они растут в горах.||||
-|SVM_14_NoLearnNoPoints|Я не могу учить тебя. Тебе нехватает опыта.||||
+|KDF_401_Damarok_ALCHEMY_14_00|Конечно.|[link](https://drive.google.com/file/d/1I1C28Nl_fQ0s5sMRJWYKv9LWaPwm5eUV/view?usp=sharing)|XTTS||
+|KDF_401_Damarok_Learn_ALCHEMY_14_00|Иннос дал человеку магию и человек научился совмещать магию с растениями.|[link](https://drive.google.com/file/d/16wiDwc3lQfJy0xa3bN6dkQqVOlOLDkWK/view?usp=sharing)|XTTS||
+|KDF_401_Damarok_Learn_ALCHEMY_14_01|Алхимия - это приготовление эликсиров при помощи магии.|[link](https://drive.google.com/file/d/1xQnJwfhwYowfbde-fY6SY_q1BccuR-Hq/view?usp=sharing)|XTTS||
+|KDF_401_Damarok_Learn_ALCHEMY_14_02|Тебе нужно смешать ингредиенты в лабораторном флаконе и произнести заклинание.|[link](https://drive.google.com/file/d/1yR_KsCTm2o0MDii_gBwXwHH0Ujuyiwjn/view?usp=sharing)|XTTS||
+|KDF_401_Damarok_Learn_ALCHEMY_14_03|Я могу обучить тебя таким заклинаниям и показать несколько рецептов эликсиров.|[link](https://drive.google.com/file/d/1KJDYTAQg6kUno1Ff3jMZTakM97j8vT5i/view?usp=sharing)|XTTS||
+|KDF_401_Damarok_Learn_POTIONS_HASTE_14_00|Ты должен смешать серафис с лунником.|[link](https://drive.google.com/file/d/1N_fp7EKtmDjzNlOc94hprySIjYKz4crs/view?usp=sharing)|XTTS||
+|KDF_401_Damarok_Learn_POTIONS_HEALTH_14_00|Тебе нужно смешать 3 целебных растения.|[link](https://drive.google.com/file/d/1Fa74_0KDqRpXpPHsoIWpYtDvAPFtZpxI/view?usp=sharing)|XTTS||
+|KDF_401_Damarok_Learn_POTIONS_MANA_14_00|Нужно просто смешать 3 каменных корня.|[link](https://drive.google.com/file/d/1hs5WVCQ1o46Ff1DtzgBxRf5lO37H0iO3/view?usp=sharing)|XTTS||
+|KDF_401_Damarok_Learn_POTIONS_MANA_14_01|Обычно они растут в горах.|[link](https://drive.google.com/file/d/1EZRUe819-f-WIkofFxC3DBEynWqTPzss/view?usp=sharing)|XTTS||
+|SVM_14_NoLearnNoPoints|Я не могу учить тебя. Тебе нехватает опыта.|[link](https://drive.google.com/file/d/1Tk2P6MQxBQb67RFlHxXPwm8je2Gi5QMP/view?usp=sharing)|XTTS||
 
 
 ## Ксардас (KDF_404_Xardas)

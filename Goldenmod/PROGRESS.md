@@ -516,7 +516,7 @@
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
-|Info_Xardas_LOADSWORD09_14_08|Не сейчас. У тебя есть все навыки, но ты еще недостаточно опытен. Пусть сначала с тобой позанимается Ю'Берион.||||
+|Info_Xardas_LOADSWORD09_14_08|Не сейчас. У тебя есть все навыки, но ты еще недостаточно опытен. Пусть сначала с тобой позанимается Ю'Берион.|[link](https://drive.google.com/file/d/1wFpYiaPvXDBvg3fjI1dwjk_Bmu65VxP5/view?usp=sharing)|XTTS||
 
 
 ## Кронос (KDW_604_Cronos)

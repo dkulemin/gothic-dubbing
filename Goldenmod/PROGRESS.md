@@ -530,17 +530,17 @@
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
-|KDW_605_Riordian_ALCHEMY_14_00|Да, если ты этого хочешь.||||
-|KDW_605_Riordian_Learn_ALCHEMY_14_00|Для приготовления каждого эликсира тебе понадобятся растеня, обладающие особыми свойствами.||||
-|KDW_605_Riordian_Learn_ALCHEMY_14_01|Задача алхимика - усилить и сохранить эти свойства.||||
-|KDW_605_Riordian_Learn_ALCHEMY_14_02|Для этого ты должен использовать лабораторные флаконы.||||
-|KDW_605_Riordian_Learn_ALCHEMY_14_03|Я могу обучить тебя рецептам приготовления некоторых эликсиров.||||
-|KDW_605_Riordian_Learn_POTIONS_HASTE_14_00|Для этого тебе необходимо смешать серафис с горным мхом.||||
-|KDW_605_Riordian_Learn_POTIONS_HEALTH_14_00|Тебе нужно смешать 3 лечебных корня.||||
-|KDW_605_Riordian_Learn_POTIONS_HEALTH_14_01|Но будь осторожен при кипячении этого эликсира: обычно жидкость разбрызгивается из факона.||||
-|KDW_605_Riordian_Learn_POTIONS_MANA_14_00|Тебе просто нужно смешать 3 драконьих корня.||||
-|KDW_605_Riordian_Learn_POTIONS_MANA_14_01|Эти растения не так легко найти.||||
-|SVM_14_NoLearnNoPoints|Я не могу учить тебя. Тебе нехватает опыта.||||
+|KDW_605_Riordian_ALCHEMY_14_00|Да, если ты этого хочешь.|[link](https://drive.google.com/file/d/1IWTJ5MN3uduyESmWjdVZ585TYg1jgKf9/view?usp=sharing)|XTTS||
+|KDW_605_Riordian_Learn_ALCHEMY_14_00|Для приготовления каждого эликсира тебе понадобятся растеня, обладающие особыми свойствами.|[link](https://drive.google.com/file/d/1Ghs1pcLjrk8vUj__TjYr6NsmWW83Lwu2/view?usp=sharing)|XTTS||
+|KDW_605_Riordian_Learn_ALCHEMY_14_01|Задача алхимика - усилить и сохранить эти свойства.|[link](https://drive.google.com/file/d/14Cusl0rF8hSTknMPee36I8biU5F38T9D/view?usp=sharing)|XTTS||
+|KDW_605_Riordian_Learn_ALCHEMY_14_02|Для этого ты должен использовать лабораторные флаконы.|[link](https://drive.google.com/file/d/1a-Y6tV493lS6zv7qLIonmfPFYnk-YerR/view?usp=sharing)|XTTS||
+|KDW_605_Riordian_Learn_ALCHEMY_14_03|Я могу обучить тебя рецептам приготовления некоторых эликсиров.|[link](https://drive.google.com/file/d/1sNdgX9SP7n8gTXYWOI6xTRnpAvcIr2Ur/view?usp=sharing)|XTTS||
+|KDW_605_Riordian_Learn_POTIONS_HASTE_14_00|Для этого тебе необходимо смешать серафис с горным мхом.|[link](https://drive.google.com/file/d/1-FFGoMvEs8BCiCIPXAhJo2mzpUbGHC-Z/view?usp=sharing)|XTTS||
+|KDW_605_Riordian_Learn_POTIONS_HEALTH_14_00|Тебе нужно смешать 3 лечебных корня.|[link](https://drive.google.com/file/d/1tJlapEq3tFuPsT7NPSCnA6BocwGsW8EU/view?usp=sharing)|XTTS||
+|KDW_605_Riordian_Learn_POTIONS_HEALTH_14_01|Но будь осторожен при кипячении этого эликсира: обычно жидкость разбрызгивается из факона.|[link](https://drive.google.com/file/d/1WyfB4CJm38bVNpxvnrSZzZafdIJtGqX1/view?usp=sharing)|XTTS||
+|KDW_605_Riordian_Learn_POTIONS_MANA_14_00|Тебе просто нужно смешать 3 драконьих корня.|[link](https://drive.google.com/file/d/1igJHxan9c2dsx7-NPaQSEb-IOW7DkzJ9/view?usp=sharing)|XTTS||
+|KDW_605_Riordian_Learn_POTIONS_MANA_14_01|Эти растения не так легко найти.|[link](https://drive.google.com/file/d/1W6E6KMfnBIGY6-vyzDLqpbvW43CvnxsP/view?usp=sharing)|XTTS||
+|SVM_14_NoLearnNoPoints|Я не могу учить тебя. Тебе нехватает опыта.|[link](https://drive.google.com/file/d/1Tk2P6MQxBQb67RFlHxXPwm8je2Gi5QMP/view?usp=sharing)|XTTS|Имя файла такое же как у KDF_401_Damarok|
 
 
 ## Сатурас (Kdw_600_Saturas)

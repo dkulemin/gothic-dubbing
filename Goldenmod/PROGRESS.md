@@ -547,28 +547,28 @@
 
 |Dialog_id|Text|Audio file|Dubbed by|Comment|
 |:---|:---|:---:|:---:|:---|
-|Info_Saturas_ABANDONEDMINE_14_00|Я знаю заклинание, с помощью которого можно убить этого демона.||||
-|Info_Saturas_ABANDONEDMINE_14_01|Но мы займемся этой проблемой, когда обрушим магический барьер.||||
-|Info_Saturas_ABANDONEDMINE_14_02|А пока я пошлю двоих наемников, чтобы они охраняли вход в шахту.||||
-|Info_Saturas_GURU_14_02|Гуру? Но захотят ли они помогать нам?||||
-|Info_Saturas_GURU_14_07|Хорошо. Тогда иди.||||
-|Info_Saturas_GURU_14_11|Надеюсь, они помогут нам.||||
-|Info_Saturas_GURU_OK_14_00|У тебя получилось! Гуру согласились взорвать нашу руду!||||
-|Info_Saturas_GURU_OK_14_01|Не так быстро.||||
-|Info_Saturas_GURU_OK_14_02|Магической силы гуру недостаточно, чтобы контролировать такой сильный выброс энергии.||||
-|Info_Saturas_GURU_OK_14_03|У тебя пока нехватает опыта.||||
-|Info_Saturas_GURU_OK_14_04|К тому же нам нужен кто-нибудь еще, чтобы руководить процессом уничтожения барьера.||||
-|Info_Saturas_QUENTIN_14_00|Квентин каким-то образом добыл бумаги стражников Старого лагеря.||||
-|Info_Saturas_QUENTIN_14_01|И этот наглец хотел получить за них 20000 кусков руды.||||
-|Info_Saturas_QUENTIN_14_02|Наемники, которых мы послали на встречу с Квентином, конечно же отказались от его предложения.||||
-|Info_Saturas_QUENTIN_14_03|Но бандиты напали на них...||||
-|Info_Saturas_QUENTIN_14_04|Да, и остальные бандиты тоже.||||
-|KDW_600_Saturas_TIMESUP1_Info_14_00|Не знает?! Мы не сможем взорвать руду без его помощи!||||
-|KDW_600_Saturas_TIMESUP1_Info_14_01|Я очень на это надеюсь.||||
-|KDW_600_Saturas_TIMESUP1_Info_14_05|Я вижу, ты не хочешь говорить мне, что случилось.||||
-|KDW_600_Saturas_TIMESUP1_Info_14_06|Но что нам делать?||||
-|KDW_600_Saturas_TIMESUP1_Info_14_07|Чтож, тогда тебе остается только помогать Ксардасу.||||
-|KDW_600_Saturas_TIMESUP1_Info_14_08|Без него мы всеравно не сможем взорвать железную гору.||||
+|Info_Saturas_ABANDONEDMINE_14_00|Я знаю заклинание, с помощью которого можно убить этого демона.|[link](https://drive.google.com/file/d/1siKg16N88RXznsL5vKip7Aa7FcsVGFpp/view?usp=sharing)|XTTS||
+|Info_Saturas_ABANDONEDMINE_14_01|Но мы займемся этой проблемой, когда обрушим магический барьер.|[link](https://drive.google.com/file/d/1WN4V1Hh2bRQIp-vEaUiGB3figSFSLQDr/view?usp=sharing)|XTTS||
+|Info_Saturas_ABANDONEDMINE_14_02|А пока я пошлю двоих наемников, чтобы они охраняли вход в шахту.|[link](https://drive.google.com/file/d/1nHOXxneIzVYRpYzjaRKN7YBMUQm5jZQw/view?usp=sharing)|XTTS||
+|Info_Saturas_GURU_14_02|Гуру? Но захотят ли они помогать нам?|[link](https://drive.google.com/file/d/1USTIGQtfyZ7I32shL8bE5w_AJSz2oj7F/view?usp=sharing)|XTTS||
+|Info_Saturas_GURU_14_07|Хорошо. Тогда иди.|[link](https://drive.google.com/file/d/1UiSssZclJClc-GlgVUgu79Vba3WNNdJH/view?usp=sharing)|XTTS||
+|Info_Saturas_GURU_14_11|Надеюсь, они помогут нам.|[link](https://drive.google.com/file/d/1wJwxxyw0bUOmYtwQ6I8KVTnrL2517tJM/view?usp=sharing)|XTTS||
+|Info_Saturas_GURU_OK_14_00|У тебя получилось! Гуру согласились взорвать нашу руду!|[link](https://drive.google.com/file/d/1-sOhfkqkuHRrZmC7Jqw-gM28MLArglKp/view?usp=sharing)|XTTS||
+|Info_Saturas_GURU_OK_14_01|Не так быстро.|[link](https://drive.google.com/file/d/1pwjxsqaGQppwSAVrrmiSxYBBlko-O9-Y/view?usp=sharing)|XTTS||
+|Info_Saturas_GURU_OK_14_02|Магической силы гуру недостаточно, чтобы контролировать такой сильный выброс энергии.|[link](https://drive.google.com/file/d/1dMv_ogz4gCgIJz-aqzk-e-7OCfHbxasQ/view?usp=sharing)|XTTS||
+|Info_Saturas_GURU_OK_14_03|У тебя пока нехватает опыта.|[link](https://drive.google.com/file/d/1S1T_ZzDe4QZKsCv-dGfPu_F1YGVzW6Hp/view?usp=sharing)|XTTS||
+|Info_Saturas_GURU_OK_14_04|К тому же нам нужен кто-нибудь еще, чтобы руководить процессом уничтожения барьера.|[link](https://drive.google.com/file/d/193Jnn1OrM3yp2S4S-2Ng5vLKQyWX-bvZ/view?usp=sharing)|XTTS||
+|Info_Saturas_QUENTIN_14_00|Квентин каким-то образом добыл бумаги стражников Старого лагеря.|[link](https://drive.google.com/file/d/1qitrcNDBGc2urxaImJVj8dP1NM1Yxb6M/view?usp=sharing)|XTTS||
+|Info_Saturas_QUENTIN_14_01|И этот наглец хотел получить за них 20000 кусков руды.|[link](https://drive.google.com/file/d/13Yyd2LfImm-7UfQQQRE4RAGAkyesGX6o/view?usp=sharing)|XTTS||
+|Info_Saturas_QUENTIN_14_02|Наемники, которых мы послали на встречу с Квентином, конечно же отказались от его предложения.|[link](https://drive.google.com/file/d/1lKLV12_Bk0OATrswmAJbYrQeQS0mS2wS/view?usp=sharing)|XTTS||
+|Info_Saturas_QUENTIN_14_03|Но бандиты напали на них...|[link](https://drive.google.com/file/d/1_sw2KTrIArDsb9WGlah0tJQkKStkHEWO/view?usp=sharing)|XTTS||
+|Info_Saturas_QUENTIN_14_04|Да, и остальные бандиты тоже.|[link](https://drive.google.com/file/d/1fWFJQOq25jLhulntwacW0WqiNJfWzP0D/view?usp=sharing)|XTTS||
+|KDW_600_Saturas_TIMESUP1_Info_14_00|Не знает?! Мы не сможем взорвать руду без его помощи!|[link](https://drive.google.com/file/d/1orC0Cj6iyzJIhwAWytYXBxnyHModgs5K/view?usp=sharing)|XTTS||
+|KDW_600_Saturas_TIMESUP1_Info_14_01|Я очень на это надеюсь.|[link](https://drive.google.com/file/d/15fxz1kL_Ch8TjrTN_wplVaxU6MXw-tEz/view?usp=sharing)|XTTS||
+|KDW_600_Saturas_TIMESUP1_Info_14_05|Я вижу, ты не хочешь говорить мне, что случилось.|[link](https://drive.google.com/file/d/1r1zA4vRAoOJ1kHpF_B6Co03aikMPkUCE/view?usp=sharing)|XTTS||
+|KDW_600_Saturas_TIMESUP1_Info_14_06|Но что нам делать?|[link](https://drive.google.com/file/d/1Tcd8zGsKKkRZUWbF6Nvw-lJmWF1M7F99/view?usp=sharing)|XTTS||
+|KDW_600_Saturas_TIMESUP1_Info_14_07|Чтож, тогда тебе остается только помогать Ксардасу.|[link](https://drive.google.com/file/d/1P0TroS1CkVFGoSKkKPPk1ljDJSGUA5Ei/view?usp=sharing)|XTTS||
+|KDW_600_Saturas_TIMESUP1_Info_14_08|Без него мы всеравно не сможем взорвать железную гору.|[link](https://drive.google.com/file/d/1C29JqoKz5kVp0oDw5RtJtmByITTax7GU/view?usp=sharing)|XTTS||
 
 
 ## Даррион (NOV_1312_Darrion)
